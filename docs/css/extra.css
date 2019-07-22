@@ -1,0 +1,20 @@
+.md-typeset a {
+    color: #C28E0E;
+    /* C28E0E */
+}
+
+.md-nav__link--active {
+    color: #C28E0E;
+}
+
+.md-header {
+    background-color: #212121;
+    /* min-height: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px; */
+}
+
+/* @media only screen and (max-width: 76.1875em)
+html .md-nav--primary .md-nav__title--site {
+    background-color: #212121
+} */

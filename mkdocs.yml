@@ -1,0 +1,29 @@
+site_name: Cognition and Learning Lab
+
+copyright: Copyright &copy; 2019 Cognition and Learning Laboratory
+
+theme: 
+  name: material
+  palette: 
+    primary: black
+  # logo: img/lightbulb-3.png
+  logo: 
+    icon: book
+    favicon: book
+
+extra_css:
+- css/extra.css
+
+# repo_url: 'https://github.com/PCLLAB/handbook'
+# repo_name: 'PCLLAB/handbook'
+
+docs_dir: docs
+# site_dir: labdocs
+
+pages:
+- Home: index.md
+- People: people.md
+- Projects: projects.md
+- Publications: publications.md
+- News: news.md
+- Join Us: joinus.md
