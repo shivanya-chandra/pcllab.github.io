@@ -3,16 +3,36 @@
     /* C28E0E */
 }
 
+/* Navbar */
 .md-nav__link--active {
     color: #C28E0E;
 }
 
 .md-header {
     background-color: #212121;
-    /* min-height: 70px;
+    min-height: 70px;
     padding-top: 15px;
-    padding-bottom: 15px; */
+    padding-bottom: 15px;
 }
+
+/* Sidebar on Left */
+/* This hides the sidebar on the left */
+/* .md-sidebar--primary {
+    display: none;
+} */
+
+/* Sidebar on Right */
+.md-sidebar--secondary {
+    display: none;
+}
+
+
+/* Footer */
+.md-footer-nav {
+    display: none;
+}
+
+
 
 /* @media only screen and (max-width: 76.1875em)
 html .md-nav--primary .md-nav__title--site {
