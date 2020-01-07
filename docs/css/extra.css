@@ -44,10 +44,40 @@
     display: none;
 }
 
-
 /* Footer */
 .md-footer-nav {
     display: none;
+}
+
+.md-footer-meta {
+    background-color: #EEEEEE !important;
+}
+
+.footer {
+    position: relative;
+    /* padding-top: 30px; */
+    text-align: center;
+    background-color: #EEEEEE;
+    color: #616161;
+    height: 80px;
+    font-size: 14px;
+    /* bottom: 0; */
+    /* position: absolute; */
+    width: 100%;
+    /*box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 9px;*/
+}
+
+.footer-text {
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    top: 44%;
+    text-align: center;
+    color: #616161;
+}
+
+#text {
+    background-color: #EEEEEE !important;
 }
 
 .image-center {

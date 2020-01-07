@@ -9,6 +9,7 @@ theme:
   # logo: img/lightbulb-3.png
   logo: 
     icon: book
+  custom_dir: 'theme/'
 
 extra_css:
 - css/extra.css
