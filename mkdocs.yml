@@ -2,13 +2,15 @@ site_name: Cognition and Learning Lab
 
 copyright: Copyright &copy; 2020 Cognition and Learning Laboratory
 
+
 theme: 
   name: material
   palette: 
     primary: black
   # logo: img/lightbulb-3.png
+  favicon: img/favicon.ico
   logo: 
-    icon: book
+    icon: home
   custom_dir: 'theme/'
 
 extra_css:

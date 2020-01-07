@@ -70,10 +70,3 @@ Relevant articles:
 - Grimaldi, P. J., &amp; Karpicke, J. D. (2014). Guided retrieval practice of educational materials using automated scoring. <em>Journal of Educational Psychology, 106</em>, 58-68. <br> <a href="http://learninglab.psych.purdue.edu/downloads/2014_Grimaldi_Karpicke_JEDP.pdf">[PDF]</a>
 
 - Smith, M. A., &amp; Karpicke, J. D. (2014). Retrieval practice with short-answer, multiple-choice, and hybrid tests. <em>Memory, 22</em>, 784-802. <br> <a href="http://learninglab.psych.purdue.edu/downloads/2014_Smith_Karpicke_Memory.pdf">[PDF]</a>
-
-
-<style type='text/css'>
-    .md-sidebar--secondary {
-        display: block;
-    }
-</style>
