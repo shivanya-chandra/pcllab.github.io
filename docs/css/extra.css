@@ -50,7 +50,14 @@
     display: none;
 }
 
+.image-center {
+    display: block;
+    margin: 0 auto;
+}
 
+.img-bulb {
+    height: 144px;
+}
 
 /* @media only screen and (max-width: 76.1875em)
 html .md-nav--primary .md-nav__title--site {

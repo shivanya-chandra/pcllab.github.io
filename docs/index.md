@@ -1,6 +1,7 @@
-# (image and tagline will go here)
+# 
+![](img/bigstock-lightbulb-vector.png){: .image-center .img-bulb}
 
-THIS IS A TEST
+<p style="font-size: 1.3rem; text-align: center; font-weight: 200">The Cognition and Learning Laboratory conducts basic and applied research on how people learn</p>
 
 ## Recent Publications (special; centered and larger font)
 

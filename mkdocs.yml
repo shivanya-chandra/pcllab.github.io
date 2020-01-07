@@ -13,6 +13,9 @@ theme:
 extra_css:
 - css/extra.css
 
+markdown_extensions:
+  - attr_list
+
 # repo_url: 'https://github.com/PCLLAB/handbook'
 # repo_name: 'PCLLAB/handbook'
 
