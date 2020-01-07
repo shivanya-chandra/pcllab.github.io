@@ -8,11 +8,29 @@
     color: #C28E0E;
 }
 
-.md-header {
+/* .md-header {
     background-color: #212121;
     min-height: 70px;
     padding-top: 15px;
     padding-bottom: 15px;
+} */
+
+.md-header {
+    height: 3rem;
+    background: #212121 !important;
+}
+
+.md-header-nav .md-flex {
+    height: 3rem;
+}
+
+.md-header-nav .md-flex .md-flex__cell {
+    vertical-align: middle;
+}
+
+.md-header-nav__topic {
+    line-height: 3rem;
+    font-weight: 200;
 }
 
 /* Sidebar on Left */

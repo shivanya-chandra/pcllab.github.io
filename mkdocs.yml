@@ -9,7 +9,6 @@ theme:
   # logo: img/lightbulb-3.png
   logo: 
     icon: book
-    favicon: book
 
 extra_css:
 - css/extra.css
@@ -20,7 +19,7 @@ extra_css:
 docs_dir: docs
 # site_dir: labdocs
 
-pages:
+nav:
 - Home: index.md
 - People: people.md
 - Projects: projects.md
