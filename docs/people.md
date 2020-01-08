@@ -36,7 +36,7 @@
             <div class="service-icon">
                 ![](img/arpasi.jpg)
             </div>
-            <a data-toggle="modal" href="#modal_skarpicke"><span class="card-link rounded"></span></a>
+            <a data-toggle="modal" href="https://github.com/andrew-dev" target="_blank"><span class="card-link rounded"></span></a>
             <h3 class="gold-border-bottom">Andrew Arpasi</h3>
             <p>Developer</p>
         </div>
@@ -46,7 +46,7 @@
             <div class="service-icon">
                 ![](img/vijayan.jpeg)
             </div>
-            <a data-toggle="modal" href="#modal_skarpicke"><span class="card-link rounded"></span></a>
+            <a data-toggle="modal" href="https://github.com/vi-v" target="_blank"><span class="card-link rounded"></span></a>
             <h3 class="gold-border-bottom">Vishnu Vijayan</h3>
             <p>Developer</p>
         </div>
