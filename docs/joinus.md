@@ -25,4 +25,4 @@ The Cognition and Learning Laboratory in the Department of Psychological Science
         
 We do not currently have postdoctoral positions available, although we may have positions in the future. A general description of our postdoctoral positions is linked below.
 
-<a href="joinus/postdocs/">Read more</a>
+<a href="/joinus/postdocs/">Read more</a>
