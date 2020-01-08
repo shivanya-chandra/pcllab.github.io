@@ -1,0 +1,110 @@
+.card-link {
+    position: absolute;
+    width: 110%;
+    height: 110%;
+    top: -2.5%;
+    left: -5%;
+    z-index: 0;
+    transition: all 0.55s;
+}
+
+.card-link:hover {
+    background-color: white;
+    /* box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22); */
+    box-shadow: 0 1rem 2rem rgba( 0, 0, 0, .33);
+}
+
+.news-card .service-icon img {
+    width: auto !important;
+    height: auto !important;
+    max-height: 100px !important;
+    max-width: 100% !important;
+    object-fit: contain;
+    background: none;
+}
+
+.news-image-container {
+    height: 100px;
+}
+
+.person {
+    margin-top: 45px;
+    margin-bottom: 25px;
+    position: relative;
+    display: inline-block;
+    min-width: 200px;
+    border: 5px solid transparent;
+}
+
+.person .service-icon img {
+    width: 200px;
+    height: auto;
+}
+
+.person .service-icon {
+    margin: auto;
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.person .service-icon .pixeden {
+    border-radius: 0;
+}
+
+.person h3 {
+    margin-bottom: 15px !important;
+    color: #404040;
+    position: relative;
+    display: inline-block;
+    /*text-transform: uppercase;*/
+    margin-bottom: 30px;
+    font-size: 19px;
+    float: none;
+    width: auto;
+    background: none;
+    pointer-events: none;
+}
+
+.person p {
+    position: relative;
+    z-index: 1;
+    pointer-events: none;
+}
+
+.gold-border-bottom:before {
+    position: absolute;
+    margin: auto;
+    z-index: 1;
+    pointer-events: none;
+    content: "";
+    width: 75%;
+    height: 2px;
+    background: #C28E0E;
+    bottom: -9px;
+    left: 12.5%;
+}
+
+.service-icon>img {
+    position: relative;
+    z-index: 1;
+    pointer-events: none;
+    height: 250px;
+    min-width: 200px;
+    background: url(../img/person-placeholder.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.people-image img {
+    min-width: 200px;
+    max-width: 17%;
+}
+
+.programmer-card {
+    box-shadow: none;
+    border: 1px solid #EEEEEE;
+    margin-left: auto;
+    margin-right: auto;
+}

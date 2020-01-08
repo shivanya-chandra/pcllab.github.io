@@ -1,5 +1,24 @@
 # People
 
+<div class="person text-center">
+    <div class="service-icon">
+        <img src="/img/karpicke.jpg">
+    </div>
+    <a data-toggle="modal" href="#open-modal"><span class="card-link rounded"></span></a>
+    <h3 class="gold-border-bottom w-100 text-center mt-0">Jeffrey D. Karpicke</h3>
+    <p class="w-100 text-center mt-0">Principal Investigator</p>
+</div>
+
+<div id="open-modal" class="modal-window">
+    <div class="box-shadow">
+        <a href="#" title="Close" class="modal-close">Close</a>
+        <h1>Voilà!</h1>
+        <div>A CSS-only modal based on the :target pseudo-class. Hope you find it helpful.</div>
+        <div><small>Check out</small></div>
+        <a href="https://aminoeditor.com" target="_blank">👉 Amino: Live CSS Editor for Chrome</a>
+    </div>
+</div>
+
 Grid of pictures goes here
 
 ## Lab Alumni

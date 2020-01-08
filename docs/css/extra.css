@@ -4,6 +4,7 @@
 }
 
 /* Navbar */
+
 .md-nav__link--active {
     color: #C28E0E;
 }
@@ -34,13 +35,15 @@
 }
 
 /* Sidebar on Left */
+
 /* This hides the sidebar on the left */
+
 /* .md-sidebar--primary {
     display: none;
 } */
 
-
 /* Footer */
+
 .md-footer-nav {
     display: none;
 }
@@ -83,6 +86,18 @@
 
 .img-bulb {
     height: 144px;
+}
+
+.w-100 {
+    width: 100;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mt-0 {
+    margin-top: 0 !important;
 }
 
 /* @media only screen and (max-width: 76.1875em)
