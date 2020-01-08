@@ -18,7 +18,7 @@ We are always looking for excellent undergraduate students to join our lab and g
 
 The Cognition and Learning Laboratory in the Department of Psychological Sciences is looking for web programmers to help with the development of web-based cognitive science experiments.
 
-<a href="joinus/programmers/">Read more</a>
+<a href="/joinus/programmers/">Read more</a>
 
 
 ## Postdoctoral Research Opportunities
