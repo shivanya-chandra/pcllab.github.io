@@ -6,14 +6,54 @@
             <div class="service-icon">
                 ![](img/karpicke.png)
             </div>
-            <a data-toggle="modal" href="#open-modal"><span class="card-link rounded"></span></a>
-            <h3 class="gold-border-bottom w-100 text-center mt-0">Jeffrey D. Karpicke</h3>
-            <p class="w-100 text-center mt-0">Principal Investigator</p>
+            <a data-toggle="modal" href="#modal_karpicke"><span class="card-link rounded"></span></a>
+            <h3 class="gold-border-bottom">Jeffrey D. Karpicke</h3>
+            <p>Principal Investigator</p>
+        </div>
+    </div>
+    <div class="col-lg-4 col-sm-12 col-xs-12 col-md-4">
+        <div class="person text-center">
+            <div class="service-icon">
+                ![](img/skarpicke.png)
+            </div>
+            <a data-toggle="modal" href="#modal_skarpicke"><span class="card-link rounded"></span></a>
+            <h3 class="gold-border-bottom">Stephanie Karpicke</h3>
+            <p>Research Coordinator</p>
+        </div>
+    </div>
+    <div class="col-lg-4 col-sm-12 col-xs-12 col-md-4">
+        <div class="person text-center">
+            <div class="service-icon">
+                ![](img/kline.jpg)
+            </div>
+            <a data-toggle="modal" href="#modal_skarpicke"><span class="card-link rounded"></span></a>
+            <h3 class="gold-border-bottom">Breanne Kline</h3>
+            <p>Research Technician</p>
+        </div>
+    </div>
+    <div class="col-lg-4 col-sm-12 col-xs-12 col-md-4">
+        <div class="person text-center">
+            <div class="service-icon">
+                ![](img/arpasi.jpg)
+            </div>
+            <a data-toggle="modal" href="#modal_skarpicke"><span class="card-link rounded"></span></a>
+            <h3 class="gold-border-bottom">Andrew Arpasi</h3>
+            <p>Developer</p>
+        </div>
+    </div>
+    <div class="col-lg-4 col-sm-12 col-xs-12 col-md-4">
+        <div class="person text-center">
+            <div class="service-icon">
+                ![](img/vijayan.jpeg)
+            </div>
+            <a data-toggle="modal" href="#modal_skarpicke"><span class="card-link rounded"></span></a>
+            <h3 class="gold-border-bottom">Vishnu Vijayan</h3>
+            <p>Developer</p>
         </div>
     </div>
 </div>
 
-<div id="open-modal" class="modal-window" markdown="span">
+<div id="modal_karpicke" class="modal-window" markdown="span">
     <div class="box-shadow">
         <a href="#" title="Close" class="modal-close">Close</a>
         <div class="container-fluid main-content">
@@ -54,6 +94,12 @@
                 </div>
             </div>
         </div>
+    </div>
+</div>
+
+<div id="modal_skarpicke" class="modal-window" markdown="span">
+    <div class="box-shadow">
+        <a href="#" title="Close" class="modal-close">Close</a>
     </div>
 </div>
 

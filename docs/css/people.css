@@ -38,7 +38,7 @@
 
 .person .service-icon img {
     width: 200px;
-    height: auto;
+    height: 250px;
 }
 
 .person .service-icon {
@@ -62,7 +62,9 @@
     margin-bottom: 30px;
     font-size: 19px;
     float: none;
-    width: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 0;
     background: none;
     pointer-events: none;
 }
@@ -71,6 +73,9 @@
     position: relative;
     z-index: 1;
     pointer-events: none;
+    width: 100%;
+    text-align: center;
+    margin-top: 0;
 }
 
 .gold-border-bottom:before {
