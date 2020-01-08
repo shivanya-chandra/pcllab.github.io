@@ -11,7 +11,7 @@ We will be accepting applications to the cognitive psychology Ph.D. program at P
 
 We are always looking for excellent undergraduate students to join our lab and gain research experience in psychology, cognitive science, and education.
 
-<a href="joinus/psy390/">Read more</a>
+<a href="/joinus/psy390/">Read more</a>
 
 
 ## Software Developers
