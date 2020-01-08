@@ -17,9 +17,11 @@ extra_css:
 - css/extra.css
 - css/modal.css
 - css/people.css
+- css/grid.css
 
 markdown_extensions:
   - attr_list
+  - pymdownx.extra
 
 # repo_url: 'https://github.com/PCLLAB/handbook'
 # repo_name: 'PCLLAB/handbook'

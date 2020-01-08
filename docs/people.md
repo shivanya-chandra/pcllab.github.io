@@ -1,25 +1,61 @@
 # People
 
-<div class="person text-center">
-    <div class="service-icon">
-        <img src="/img/karpicke.jpg">
+<div class="row text-center" markdown="span">
+    <div class="col-lg-4 col-sm-12 col-xs-12 col-md-4">
+        <div class="person text-center">
+            <div class="service-icon">
+                ![](img/karpicke.png)
+            </div>
+            <a data-toggle="modal" href="#open-modal"><span class="card-link rounded"></span></a>
+            <h3 class="gold-border-bottom w-100 text-center mt-0">Jeffrey D. Karpicke</h3>
+            <p class="w-100 text-center mt-0">Principal Investigator</p>
+        </div>
     </div>
-    <a data-toggle="modal" href="#open-modal"><span class="card-link rounded"></span></a>
-    <h3 class="gold-border-bottom w-100 text-center mt-0">Jeffrey D. Karpicke</h3>
-    <p class="w-100 text-center mt-0">Principal Investigator</p>
 </div>
 
-<div id="open-modal" class="modal-window">
+<div id="open-modal" class="modal-window" markdown="span">
     <div class="box-shadow">
         <a href="#" title="Close" class="modal-close">Close</a>
-        <h1>Voilà!</h1>
-        <div>A CSS-only modal based on the :target pseudo-class. Hope you find it helpful.</div>
-        <div><small>Check out</small></div>
-        <a href="https://aminoeditor.com" target="_blank">👉 Amino: Live CSS Editor for Chrome</a>
+        <div class="container-fluid main-content">
+            <div class="profile">
+                <div class="row">
+                    <div class="text-xs-center text-sm-center text-md-left col-sm-12 col-md-6 people-image-col">
+                        <div class="people-image" markdown="1">
+                            ![](img/karpicke.png){: .people-image}
+                        </div>
+                        <div class="visible-xs" style="height: 10px"></div>
+                    </div>
+                    <div class="text-xs-center text-sm-center text-md-left col-sm-12 col-md-6">
+                        <div class="description">
+                            <h2>Jeffrey D. Karpicke</h2>
+                            <p>
+                                James V. Bradley Professor<br>
+                                Department of Psychological Sciences<br> 
+                                Purdue University<br>
+                                <a href=mailto:karpicke@purdue.edu>karpicke@purdue.edu</a><br>
+                                <a href=http://learninglab.psych.purdue.edu/downloads/Karpicke_Vita.pdf>Vita</a><br>
+                                <a href=https://scholar.google.com/citations?user=5t5lgCgAAAAJ>Google Scholar</a><br><br>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="content">
+                    <!-- <h2>Research Interests</h2> -->
+                    I'm interested in all things related to the science of learning, education, and technology. Currently, our lab is pursuing
+                    research projects in the following areas:
+                    <ul>
+                        <li>Retrieval processes and retrieval-based learning</li>
+                        <li>Development of computer-based learning tools</li>
+                        <li>Complex learning, comprehension, and knowledge application</li>
+                        <li>Learning and cognitive strategies in children</li>
+                        <li>Metacognition and self-regulated learning</li>
+                    </ul>
+                    <!-- <hr class=half-rule> -->
+                </div>
+            </div>
+        </div>
     </div>
 </div>
-
-Grid of pictures goes here
 
 ## Lab Alumni
 
