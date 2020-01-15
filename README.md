@@ -1,5 +1,8 @@
 # Lab Website - MkDocs
 
+A live demo of the website can be found here:
+[](https://jarvis.psych.purdue.edu/lab-website/)
+
 To run MkDocs locally: 
 - cd to this folder
 - Run `mkdocs serve` or `python3 -m mkdocs serve`
