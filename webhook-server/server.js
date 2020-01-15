@@ -50,7 +50,7 @@ http.createServer((req, res) => {
 						return
 					}
 
-					command = "cp -r ../site/ " + DEST_FOLDER
+					command = "cp -a ../site/ " + DEST_FOLDER
 					logInfo(`Running: ${command}`)
 					exec(command, (err, stdout, stderr) => {
 						if (err) {
@@ -58,6 +58,8 @@ http.createServer((req, res) => {
 							return
 						}
 					})
+
+					logInfo("Done")
 				})
 			})
 		}
