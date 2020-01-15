@@ -66,5 +66,3 @@ http.createServer((req, res) => {
 }).listen(PORT)
 
 logInfo("Starting server on port " + PORT)
-
-// bump
