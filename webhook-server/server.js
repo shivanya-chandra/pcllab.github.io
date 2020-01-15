@@ -45,24 +45,24 @@ http.createServer((req, res) => {
 					logError(err)
 					return
 				}
-			})
 
-			command = "cd .. && mkdocs build"
-			logInfo(`Running: ${command}`)
-			exec(command, (err, stdout, stderr) => {
-				if (err) {
-					logError(err)
-					return
-				}
-			})
+				command = "cd .. && mkdocs build"
+				logInfo(`Running: ${command}`)
+				exec(command, (err, stdout, stderr) => {
+					if (err) {
+						logError(err)
+						return
+					}
 
-			command = "cp -r ../site/ " + DEST_FOLDER
-			logInfo(`Running: ${command}`)
-			exec(command, (err, stdout, stderr) => {
-				if (err) {
-					logError(err)
-					return
-				}
+					command = "cp -r ../site/ " + DEST_FOLDER
+					logInfo(`Running: ${command}`)
+					exec(command, (err, stdout, stderr) => {
+						if (err) {
+							logError(err)
+							return
+						}
+					})
+				})
 			})
 		}
 	})
