@@ -4,13 +4,13 @@ const crypto = require("crypto")
 const exec = require("child_process").exec
 const SECRET = require("./config").token
 const DEST_FOLDER = require("./config").destFolder
-const PORT = require("./config").PORT
+const PORT = require("./config").port
 
 function log(data) {
 	const message = `[${new Date().toISOString()}] ${data}`
 
 	console.log(message)
-	fs.appendFileSync("./log.txt", data, { flag: "wx" }, function(err) {
+	fs.appendFileSync("./log.txt", message, { flag: "w" }, function(err) {
 		if (err) console.error(err)
 	})
 }
@@ -34,7 +34,7 @@ http.createServer((req, res) => {
 
 		const isAllowed = req.headers["x-hub-signature"] === signature
 		const body = JSON.parse(chunk)
-		const isMaster = body?.ref === "refs/heads/master"
+		const isMaster = body ? body.ref === "refs/heads/master" : false
 		if (isAllowed && isMaster) {
 			command = "git pull git@website:PCLLAB/website-mkdocs.git"
 			logInfo(`Running: ${command}`)
