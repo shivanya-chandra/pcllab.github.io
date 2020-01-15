@@ -51,7 +51,7 @@ http.createServer((req, res) => {
 						return
 					}
 
-					command = "cp -a ../site " + path.join(DEST_FOLDER)
+					command = "cp -a ../site/* " + path.join(DEST_FOLDER)
 					logInfo(`Running: ${command}`)
 					exec(command, (err, stdout, stderr) => {
 						if (err) {
