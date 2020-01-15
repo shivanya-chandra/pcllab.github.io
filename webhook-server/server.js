@@ -33,9 +33,7 @@ http.createServer((req, res) => {
 		let command = ""
 
 		const isAllowed = req.headers["x-hub-signature"] === signature
-		const body = JSON.parse(chunk)
-		const isMaster = body ? body.ref === "refs/heads/master" : false
-		if (isAllowed && isMaster) {
+		if (isAllowed) {
 			command = "git pull git@website:PCLLAB/website-mkdocs.git"
 			logInfo(`Running: ${command}`)
 			exec(command, (err, stdout, stderr) => {
