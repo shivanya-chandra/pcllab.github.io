@@ -1,4 +1,5 @@
 const fs = require("fs")
+const path = require("path")
 const http = require("http")
 const crypto = require("crypto")
 const exec = require("child_process").exec
@@ -50,7 +51,7 @@ http.createServer((req, res) => {
 						return
 					}
 
-					command = "cp -a ../site/ " + DEST_FOLDER
+					command = "cp -a ../site/ " + path.join(DEST_FOLDER)
 					logInfo(`Running: ${command}`)
 					exec(command, (err, stdout, stderr) => {
 						if (err) {
@@ -68,4 +69,3 @@ http.createServer((req, res) => {
 }).listen(PORT)
 
 logInfo("Starting server on port " + PORT)
-//
