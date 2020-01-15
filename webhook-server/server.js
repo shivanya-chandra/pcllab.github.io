@@ -1,9 +1,7 @@
-import http from "http"
-import crypto from "crypto"
-import { exec } from "child_process"
-
 const fs = require("fs")
-
+const http = require("http")
+const crypto = require("crypto")
+const exec = require("child_process").exec
 const SECRET = require("./config").token
 const DEST_FOLDER = require("./config").destFolder
 const PORT = require("./config").PORT
@@ -38,7 +36,7 @@ http.createServer((req, res) => {
 		const body = JSON.parse(chunk)
 		const isMaster = body?.ref === "refs/heads/master"
 		if (isAllowed && isMaster) {
-			command = "git pull git@plugins:PCLLAB/website-mkdocs.git"
+			command = "git pull git@website:PCLLAB/website-mkdocs.git"
 			logInfo(`Running: ${command}`)
 			exec(command, (err, stdout, stderr) => {
 				if (err) {
