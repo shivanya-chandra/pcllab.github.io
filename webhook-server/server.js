@@ -8,10 +8,10 @@ const DEST_FOLDER = require("./config").destFolder
 const PORT = require("./config").port
 
 function log(data) {
-	const message = `[${new Date().toISOString()}] ${data}`
+	const message = `[${new Date().toISOString()}] ${data}\n`
 
 	console.log(message)
-	fs.appendFileSync("./log.txt", message, { flag: "w" }, function(err) {
+	fs.appendFileSync("./log.txt", message, { flag: "a" }, function(err) {
 		if (err) console.error(err)
 	})
 }
