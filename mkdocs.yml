@@ -34,3 +34,5 @@ nav:
     - Publications: publications.md
     - News: news.md
     - Join Us: joinus.md
+
+plugins: []
