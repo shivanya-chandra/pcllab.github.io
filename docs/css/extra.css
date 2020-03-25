@@ -1,12 +1,12 @@
 .md-typeset a {
-    color: #C28E0E;
-    /* C28E0E */
+	color: #c28e0e;
+	/* C28E0E */
 }
 
 /* Navbar */
 
 .md-nav__link--active {
-    color: #C28E0E;
+	color: #c28e0e;
 }
 
 /* .md-header {
@@ -17,21 +17,25 @@
 } */
 
 .md-header {
-    height: 3rem;
-    background: #212121 !important;
+	height: 3rem;
+	background: #212121 !important;
+}
+
+nav.md-tabs {
+	background: #212121 !important;
 }
 
 .md-header-nav .md-flex {
-    height: 3rem;
+	height: 3rem;
 }
 
 .md-header-nav .md-flex .md-flex__cell {
-    vertical-align: middle;
+	vertical-align: middle;
 }
 
 .md-header-nav__topic {
-    line-height: 3rem;
-    font-weight: 200;
+	line-height: 3rem;
+	font-weight: 200;
 }
 
 /* Sidebar on Left */
@@ -45,59 +49,64 @@
 /* Footer */
 
 .md-footer-nav {
-    display: none;
+	display: none;
 }
 
 .md-footer-meta {
-    background-color: #EEEEEE !important;
+	background-color: #eeeeee !important;
 }
 
 .footer {
-    position: relative;
-    /* padding-top: 30px; */
-    text-align: center;
-    background-color: #EEEEEE;
-    color: #616161;
-    height: 80px;
-    font-size: 14px;
-    /* bottom: 0; */
-    /* position: absolute; */
-    width: 100%;
-    /*box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 9px;*/
+	position: relative;
+	/* padding-top: 30px; */
+	text-align: center;
+	background-color: #eeeeee;
+	color: #616161;
+	height: 80px;
+	font-size: 14px;
+	/* bottom: 0; */
+	/* position: absolute; */
+	width: 100%;
+	/*box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 9px;*/
 }
 
 .footer-text {
-    width: 100%;
-    margin: 0;
-    position: absolute;
-    top: 44%;
-    text-align: center;
-    color: #616161;
+	width: 100%;
+	margin: 0;
+	position: absolute;
+	top: 44%;
+	text-align: center;
+	color: #616161;
 }
 
 #text {
-    background-color: #EEEEEE !important;
+	background-color: #eeeeee !important;
 }
 
 .image-center {
-    display: block;
-    margin: 0 auto;
+	display: block;
+	margin: 0 auto;
 }
 
 .img-bulb {
-    height: 144px;
+	height: 144px;
 }
 
 .w-100 {
-    width: 100;
+	width: 100;
 }
 
 .text-center {
-    text-align: center;
+	text-align: center;
 }
 
 .mt-0 {
-    margin-top: 0 !important;
+	margin-top: 0 !important;
+}
+
+.md-header-nav,
+.md-tabs__inner {
+	max-width: 50rem;
 }
 
 /* @media only screen and (max-width: 76.1875em)
