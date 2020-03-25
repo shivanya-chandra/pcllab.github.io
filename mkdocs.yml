@@ -2,26 +2,24 @@ site_name: Cognition and Learning Lab
 
 copyright: Copyright &copy; 2020 Cognition and Learning Laboratory
 
-
-theme: 
-  name: material
-  palette: 
-    primary: black
-  # logo: img/lightbulb-3.png
-  favicon: img/favicon.ico
-  logo: 
-    icon: home
-  custom_dir: 'theme/'
+theme:
+    name: material
+    palette:
+        primary: black
+    # logo: img/lightbulb-3.png
+    favicon: img/favicon.ico
+    logo: "img/lightbulb-nav-logo.png"
+    custom_dir: "theme/"
 
 extra_css:
-- css/extra.css
-- css/modal.css
-- css/people.css
-- css/grid.css
+    - css/extra.css
+    - css/modal.css
+    - css/people.css
+    - css/grid.css
 
 markdown_extensions:
-  - attr_list
-  - pymdownx.extra
+    - attr_list
+    - pymdownx.extra
 
 # repo_url: 'https://github.com/PCLLAB/handbook'
 # repo_name: 'PCLLAB/handbook'
@@ -30,9 +28,9 @@ docs_dir: docs
 # site_dir: labdocs
 
 nav:
-- Home: index.md
-- People: people.md
-- Projects: projects.md
-- Publications: publications.md
-- News: news.md
-- Join Us: joinus.md
+    - Home: index.md
+    - People: people.md
+    - Projects: projects.md
+    - Publications: publications.md
+    - News: news.md
+    - Join Us: joinus.md
