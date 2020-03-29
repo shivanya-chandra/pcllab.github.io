@@ -12,16 +12,20 @@ theme:
     logo: "img/lightbulb-nav-logo.png"
     custom_dir: "theme/"
     feature:
-        tabs: true
+        tabs: false
 
 extra_css:
     - css/extra.css
     - css/modal.css
     - css/people.css
     - css/grid.css
+    - css/critical.min.css
+    - css/navbar.css
 
 extra_javascript:
     - js/headerfix.js
+    - js/jquery-3.4.1.min.js
+    - js/deferred.min.js
 
 markdown_extensions:
     - attr_list

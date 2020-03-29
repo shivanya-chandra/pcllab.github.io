@@ -1,0 +1,125 @@
+/*
+ * Navbar
+ */
+
+nav.navbar {
+	position: fixed;
+}
+
+.pcllab-navbar {
+	background-color: #212121;
+	border-radius: 0;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.pcllab-navbar a {
+	position: relative;
+	max-width: 100px;
+	display: block;
+	margin: 0 12px;
+	letter-spacing: 1px;
+	font-weight: 400;
+	color: #eeeeee;
+}
+
+.pcllab-navbar li a:hover {
+	color: #cfb53b !important;
+}
+
+/*
+.active a::before {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: -0;
+    left: 0;
+    height: 3px;
+    width: 100%;
+    background-color: #C28E0E;
+}
+*/
+
+.pcllab-navbar .navbar-brand {
+	margin-left: 0;
+	font-size: 19px;
+}
+
+.nav-link {
+	color: #fff !important;
+	font-weight: 400;
+}
+
+.navbar.navbar-dark .breadcrumb .nav-item.active > .nav-link,
+.navbar.navbar-dark .navbar-nav .nav-item.active > .nav-link {
+	color: #cfb53b !important;
+	background-color: transparent;
+}
+
+.navbar {
+	font-size: 14px;
+}
+
+.w-100 {
+	width: 100% !important;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.ml-auto,
+.mx-auto {
+	margin-left: auto !important;
+}
+
+.navbar-toggler {
+	outline: 0 !important;
+	border-color: transparent !important;
+}
+
+.navbar-toggler-icon {
+	font-size: 19px;
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.9)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+}
+
+.nav-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+@media (min-width: 576px) {
+	.nav-container {
+		max-width: 540px;
+	}
+}
+@media (min-width: 768px) {
+	.nav-container {
+		max-width: 720px;
+	}
+}
+@media (min-width: 992px) {
+	.nav-container {
+		max-width: 960px;
+	}
+}
+@media (min-width: 1200px) {
+	.nav-container {
+		max-width: 1140px;
+	}
+}
+
+@media only screen and (min-device-width: 320px) {
+	.navbar {
+		padding: 0.6rem 0 0.6rem 0 !important;
+	}
+}
+
+@media only screen and (min-width: 1200px) {
+	.navbar {
+		padding: 0.6rem 1rem 0.6rem 1rem !important;
+	}
+}
