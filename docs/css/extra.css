@@ -9,6 +9,10 @@
 	color: inherit;
 }
 
+.md-nav__link:hover {
+	color: #c28e0e;
+}
+
 .md-nav__link--active {
 	color: #c28e0e;
 }
