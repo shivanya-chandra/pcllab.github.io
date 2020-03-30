@@ -16,7 +16,7 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ml-auto">
 				{% for nav_item in nav %} {% if nav_item.children %} {% for child in nav_item.children %}
-				<li class="nav-item">
+				<li class="nav-item {% if child.active %} active {% else %} {% endif %}">
 					<a class="nav-link ml-1 mr-1 rounded" href="{{ child.url | url }}"> {{ child.title }} </a>
 				</li>
 				{% endfor %} {% endif %} {% endfor %}
