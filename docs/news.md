@@ -1,3 +1,3 @@
 # News
 
-I think I might just do a bullet list for news items, rather than pictures.
+- Science News. (2018, March). [Teaching methods go from lab to classroom.](https://www.sciencenews.org/article/teaching-methods-go-lab-classroom)
