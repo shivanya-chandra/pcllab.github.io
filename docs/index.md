@@ -5,9 +5,11 @@
 
 ## <p style="font-size: 1.5rem; text-align: center; font-weight: 400">Recent Publications</p>
 
-- Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S.,  Kueser, J., & Krok, W. (in press). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. *Journal of Speech, Language, and Hearing Research*. <br> <a href="http://learninglab.psych.purdue.edu/downloads/inpress_Leonard_etal_JSLHR.pdf">[PDF]</a>
+- O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.*
 
-- Haebig, E., Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Usler, E., Kueser, J., Souto, S., Krok, W., & Weber, C. (in press). Retrieval-based word learning in young typically developing children and children with developmental language disorder II: A comparison of retrieval schedules. <em>Journal of Speech, Language, and Hearing Research</em>. <br> <a href="http://learninglab.psych.purdue.edu/downloads/inpress_Haebig_etal_JSLHR.pdf">[PDF]</a>
+- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36.
+
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. *Journal of Speech, Language, and Hearing Research, 62*, 4433-4449. 
 
 <p class=lead style="margin-bottom: 3rem; text-align: center"><a href="./publications/">See all publications</a></p>
 
