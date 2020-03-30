@@ -2,15 +2,13 @@
  * Navbar
  */
 
-nav.navbar {
-	position: fixed;
-}
-
 .pcllab-navbar {
+	position: fixed;
 	background-color: #212121;
 	border-radius: 0;
 	padding-top: 15px;
 	padding-bottom: 15px;
+	z-index: 1000;
 }
 
 .pcllab-navbar a {
