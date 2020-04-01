@@ -1,6 +1,11 @@
+/* Content */
+
 .md-typeset a {
 	color: #c28e0e;
-	/* C28E0E */
+}
+
+.md-content a:hover {
+	color: #c28e0e;
 }
 
 /* Navbar */
