@@ -2,67 +2,67 @@
 
 ## In Press
 
-- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (in press). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review.* <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress_Ariel_etal_EDPR.pdf)
+- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (in press). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review.* <br> [[PDF]](../downloads/Ariel2020__DoJudgments.pdf)
 
-- Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), *Oxford Handbook of Human Memory, Volume II: Applications.* Oxford University Press. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress.pdf)
+- Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), *Oxford Handbook of Human Memory, Volume II: Applications.* Oxford University Press. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress.pdf)*
 
-- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (in press). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. *Journal of Speech, Language, and Hearing Research.* <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress.pdf)
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (in press). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. *Journal of Speech, Language, and Hearing Research.* <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress.pdf)*
 
-- O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.* <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress.pdf)
+- O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.* <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress.pdf)*
 
 
 ## 2020
 
-- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/XXX.pdf)
+- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36. <br> [[PDF]](../downloads/adaptive_value_of_forgetting.pdf)
 
 
 ## 2019 
 
-- Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S.,  Kueser, J., & Krok, W. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. *Journal of Speech, Language, and Hearing Research, 62*, 932-943. <br> [[PDF]](/downloads/inpress_Leonard_etal_JSLHR.pdf)
+- Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S.,  Kueser, J., & Krok, W. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. *Journal of Speech, Language, and Hearing Research, 62*, 932-943. <br> [[PDF]](../downloads/2019/inpress_Leonard_etal_JSLHR.pdf)
 
-- Haebig, E., Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Usler, E., Kueser, J., Souto, S., Krok, W., & Weber, C. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder II: A comparison of retrieval schedules. *Journal of Speech, Language, and Hearing Research, 62*, 944-964. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress_Haebig_etal_JSLHR.pdf)
+- Haebig, E., Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Usler, E., Kueser, J., Souto, S., Krok, W., & Weber, C. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder II: A comparison of retrieval schedules. *Journal of Speech, Language, and Hearing Research, 62*, 944-964. <br> [[PDF]](..downloads/2019/inpress_Haebig_etal_JSLHR.pdf)
 
-- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. *Journal of Speech, Language, and Hearing Research, 62*, 4433-4449. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/XXX.pdf)
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. *Journal of Speech, Language, and Hearing Research, 62*, 4433-4449. <br> [[PDF]](../downloads/2019/Adjective_Learning_in_Young_Ty.pdf)
 
 
 ## 2018
 
-- Ariel, R., & Karpicke, J. D. (2018). Improving self-regulated learning with a retrieval practice intervention. *Journal of Experimental Psychology: Applied, 24*, 43-56. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2018_Ariel_Karpicke_JEPA.pdf)
+- Ariel, R., & Karpicke, J. D. (2018). Improving self-regulated learning with a retrieval practice intervention. *Journal of Experimental Psychology: Applied, 24*, 43-56. <br> [[PDF]](../downloads/2018/2018_Ariel_Karpicke_JEPA.pdf)
 
 - Carmichael, M., Reid, A.-K., & Karpicke, J. D. (2018). *Assessing the Impact of Educational Video on Student Engagement, Critical Thinking and Learning: The Current State of Play* (White Paper). Thousand Oaks, CA: SAGE Publishing, Inc. <br> [[PDF]](https://us.sagepub.com/sites/default/files/hevideolearning.pdf)
 
-- Karpicke, J. D. (2018). Concept mapping. In B. Frey (Ed.), *The SAGE Encyclopedia of Educational Research, Measurement, and Evaluation.* (pp. 351-354). Thousand Oaks, CA: SAGE Publishing, Inc. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2018_Karpicke_Concept_Mapping.pdf)
+- Karpicke, J. D. (2018). Concept mapping. In B. Frey (Ed.), *The SAGE Encyclopedia of Educational Research, Measurement, and Evaluation.* (pp. 351-354). Thousand Oaks, CA: SAGE Publishing, Inc. <br> [[PDF]](../downloads/2018/2018_Karpicke_Concept_Mapping.pdf)
 
-- Roediger, H. L., & Karpicke, J. D. (2018). Reflections on the resurgence of interest in the testing effect. *Perspectives on Psychological Science, 13*, 236-241. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2018_Roediger_Karpicke_Perspectives.pdf)
+- Roediger, H. L., & Karpicke, J. D. (2018). Reflections on the resurgence of interest in the testing effect. *Perspectives on Psychological Science, 13*, 236-241. <br> [[PDF]](../downloads/2018/2018_Roediger_Karpicke_Perspectives.pdf)
 
 
 ## 2017
 
-- Karpicke, J. D. (2017). Retrieval-based learning: A decade of progress. In J. T. Wixted (Ed.), *Cognitive psychology of memory, Vol. 2 of Learning and memory: A comprehensive reference* (J. H. Byrne, Series Ed.) (pp. 487-514). Oxford: Academic Press. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2017_Karpicke_Retrieval_Based_Learning_Review.pdf)
+- Karpicke, J. D. (2017). Retrieval-based learning: A decade of progress. In J. T. Wixted (Ed.), *Cognitive psychology of memory, Vol. 2 of Learning and memory: A comprehensive reference* (J. H. Byrne, Series Ed.) (pp. 487-514). Oxford: Academic Press. <br> [[PDF]](../downloads/2017/2017_Karpicke_Retrieval_Based_Learning_Review.pdf)
 
-- Whiffen, J. W., & Karpicke, J. D. (2017). The role of episodic context in retrieval practice effects. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 43*, 1036-1046.<br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2017_Whiffen_Karpicke_JEPLMC.pdf)
+- Whiffen, J. W., & Karpicke, J. D. (2017). The role of episodic context in retrieval practice effects. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 43*, 1036-1046.<br> [[PDF]](../downloads/2017/2017_Whiffen_Karpicke_JEPLMC.pdf)
 
 
 ## 2016
 
 - Karpicke, J. D. (2016). A powerful way to improve learning and memory. *APA Psychological Science Agenda.* <br> [[Link to Article]](http://www.apa.org/science/about/psa/2016/06/learning-memory.aspx)
 
-- Karpicke, J. D., Blunt, J. R., & Smith, M. A. (2016). Retrieval-based learning: Positive effects of retrieval practice in elementary school children. *Frontiers in Psychology, 7*, 350: 1-8. <br>[[PDF]](http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00350/)
+- Karpicke, J. D., Blunt, J. R., & Smith, M. A. (2016). Retrieval-based learning: Positive effects of retrieval practice in elementary school children. *Frontiers in Psychology, 7*, 350: 1-8. <br>[[Link to Article]](http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00350/)
 
-- Lehman, M., & Karpicke, J. D. (2016). Elaborative retrieval: Do semantic mediators improve memory? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 42*, 1573-1591. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2016_Lehman_Karpicke_JEPLMC.pdf)
+- Lehman, M., & Karpicke, J. D. (2016). Elaborative retrieval: Do semantic mediators improve memory? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 42*, 1573-1591. <br> [[PDF]](../downloads/2016/2016_Lehman_Karpicke_JEPLMC.pdf)
 
-- Smith, M. A., Blunt, J. R., Whiffen, J. W., & Karpicke, J. D. (2016). Does providing prompts during retrieval practice improve learning? *Applied Cognitive Psychology, 30*, 544-553. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2016_Smith_Blunt_Whiffen_Karpicke_ACP.pdf)
+- Smith, M. A., Blunt, J. R., Whiffen, J. W., & Karpicke, J. D. (2016). Does providing prompts during retrieval practice improve learning? *Applied Cognitive Psychology, 30*, 544-553. <br> [[PDF]](../downloads/2016/2016_Smith_Blunt_Whiffen_Karpicke_ACP.pdf)
 
-- Weinstein, Y., Nunes, L. D., & Karpicke, J. D. (2016). On the placement of practice questions during study. *Journal of Experimental Psychology: Applied, 22*, 72-84. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2016_Weinstein_Nunes_Karpicke_JEPA.pdf)
+- Weinstein, Y., Nunes, L. D., & Karpicke, J. D. (2016). On the placement of practice questions during study. *Journal of Experimental Psychology: Applied, 22*, 72-84. <br> [[PDF]](../downloads/2016/2016_Weinstein_Nunes_Karpicke_JEPA.pdf)
         
 
 ## 2015
         
-- Grimaldi, P. J., Poston, L., & Karpicke, J. D. (2015). How does creating a concept map affect item-specific encoding? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 41*, 1049-1061. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2015_Grimaldi_Poston_Karpicke_JEPLMC.pdf)
+- Grimaldi, P. J., Poston, L., & Karpicke, J. D. (2015). How does creating a concept map affect item-specific encoding? *Journal of Experimental Psychology: Learning, Memory, and Cognition, 41*, 1049-1061. <br> [[PDF]](../downloads/2015/2015_Grimaldi_Poston_Karpicke_JEPLMC.pdf)
 
-- Karpicke, J. D., & Aue, W. R. (2015). The testing effect is alive and well with complex materials. *Educational Psychology Review, 27*, 317-326. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2015_Karpicke_Aue_EDPR.pdf)
+- Karpicke, J. D., & Aue, W. R. (2015). The testing effect is alive and well with complex materials. *Educational Psychology Review, 27*, 317-326. <br> [[PDF]](../downloads/2015/2015_Karpicke_Aue_EDPR.pdf)
 
-- Nunes, L. D., & Karpicke, J. D. (2015). Retrieval-based learning: Research at the interface between cognitive science and education. In R. A. Scott & S. M. Kosslyn (Eds.), *Emerging Trends in the Social and Behavioral Sciences* (pp. 1-16). John Wiley & Sons, Inc. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/2015_Nunes_Karpicke_Emerging_Trends.pdf)
+- Nunes, L. D., & Karpicke, J. D. (2015). Retrieval-based learning: Research at the interface between cognitive science and education. In R. A. Scott & S. M. Kosslyn (Eds.), *Emerging Trends in the Social and Behavioral Sciences* (pp. 1-16). John Wiley & Sons, Inc. <br> [[PDF]](../downloads/2015/2015_Nunes_Karpicke_Emerging_Trends.pdf)
         
 
 ## 2014
