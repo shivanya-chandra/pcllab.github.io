@@ -18,7 +18,7 @@
 
 ## 2019 
 
-- Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S.,  Kueser, J., & Krok, W. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. *Journal of Speech, Language, and Hearing Research, 62*, 932-943. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress_Leonard_etal_JSLHR.pdf)
+- Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S.,  Kueser, J., & Krok, W. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. *Journal of Speech, Language, and Hearing Research, 62*, 932-943. <br> [[PDF]](/downloads/inpress_Leonard_etal_JSLHR.pdf)
 
 - Haebig, E., Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Usler, E., Kueser, J., Souto, S., Krok, W., & Weber, C. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder II: A comparison of retrieval schedules. *Journal of Speech, Language, and Hearing Research, 62*, 944-964. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress_Haebig_etal_JSLHR.pdf)
 
