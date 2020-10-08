@@ -4,9 +4,9 @@
 
 - Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (in press). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review.* <br> [[PDF]](../downloads/inpress_Ariel_Karpicke_Witherby_Tauber_EDPR.pdf)
 
-- Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), *Oxford Handbook of Human Memory, Volume II: Applications.* Oxford University Press. <br> [[PDF]](../downloads/inpress_Karpicke_ODay_Oxford_Handbook.pdf)*
+- Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), *Oxford Handbook of Human Memory, Volume II: Applications.* Oxford University Press. <br> [[PDF]](../downloads/inpress_Karpicke_ODay_Oxford_Handbook.pdf)
 
-- O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.* <br> [[PDF]](../downloads/inpress_ODay_Karpicke_JEDP.pdf)*
+- O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.* <br> [[PDF]](../downloads/inpress_ODay_Karpicke_JEDP.pdf)
 
 
 ## 2020
