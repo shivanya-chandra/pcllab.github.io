@@ -2,27 +2,27 @@
 
 ## In Press
 
-- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (in press). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review.* <br> [[PDF]](../downloads/Ariel2020__DoJudgments.pdf)
-<!-- no pdf -->
-- Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), *Oxford Handbook of Human Memory, Volume II: Applications.* Oxford University Press. <br> [[PDF]](../downloads/2011/inpress.pdf)*
-<!-- no pdf -->
-- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (in press). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. *Journal of Speech, Language, and Hearing Research.* <br> [[PDF]](../downloads/2011/inpress.pdf)*
-<!-- no pdf -->
-- O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.* <br> [[PDF]](../downloads/2011/inpress.pdf)*
+- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (in press). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review.* <br> [[PDF]](../downloads/inpress_Ariel_Karpicke_Witherby_Tauber_EDPR.pdf)
+
+- Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), *Oxford Handbook of Human Memory, Volume II: Applications.* Oxford University Press. <br> [[PDF]](../downloads/inpress_Karpicke_ODay_Oxford_Handbook.pdf)*
+
+- O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.* <br> [[PDF]](../downloads/inpress_ODay_Karpicke_JEDP.pdf)*
 
 
 ## 2020
 
-- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36. <br> [[PDF]](../downloads/2020/adaptive_value_of_forgetting.pdf)
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (2020). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. *Journal of Speech, Language, and Hearing Research.* <br> [[PDF]](../downloads/2020_Leonard_et_al_JSLHR.pdf)*
+
+- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36. <br> [[PDF]](../downloads/2020_Karpicke_Coverdale_JARMAC.pdf)
 
 
 ## 2019 
 
-- Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S.,  Kueser, J., & Krok, W. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. *Journal of Speech, Language, and Hearing Research, 62*, 932-943. <br> [[PDF]](../downloads/2019/inpress_Leonard_etal_JSLHR.pdf)
+- Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S.,  Kueser, J., & Krok, W. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. *Journal of Speech, Language, and Hearing Research, 62*, 932-943. <br> [[PDF]](../downloads/2019_Leonard_et_al_JSLHR_Part_1.pdf)
 
-- Haebig, E., Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Usler, E., Kueser, J., Souto, S., Krok, W., & Weber, C. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder II: A comparison of retrieval schedules. *Journal of Speech, Language, and Hearing Research, 62*, 944-964. <br> [[PDF]](../downloads/2019/inpress_Haebig_etal_JSLHR.pdf)
+- Haebig, E., Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Usler, E., Kueser, J., Souto, S., Krok, W., & Weber, C. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder II: A comparison of retrieval schedules. *Journal of Speech, Language, and Hearing Research, 62*, 944-964. <br> [[PDF]](../downloads/2019_Haebig_et_al_JSLHR_Part_2.pdf)
 
-- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. *Journal of Speech, Language, and Hearing Research, 62*, 4433-4449. <br> [[PDF]](../downloads/2019/Adjective_Learning_in_Young_Ty.pdf)
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. *Journal of Speech, Language, and Hearing Research, 62*, 4433-4449. <br> [[PDF]](../downloads/2019_Leonard_et_al_JSLHR_Adjectives.pdf)
 
 
 ## 2018
