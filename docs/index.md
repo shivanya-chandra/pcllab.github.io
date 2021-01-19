@@ -7,7 +7,7 @@
 
 - O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.*
 
-- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36.
+- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36..
 
 - Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. *Journal of Speech, Language, and Hearing Research, 62*, 4433-4449. 
 
