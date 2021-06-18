@@ -1,20 +1,23 @@
-# 
-![](img/bigstock-lightbulb-vector.png){: .image-center .img-bulb}
+---
+hide:
+  - navigation
+  - toc
+title:
+---
 
-<p style="font-size: 1.3rem; text-align: center; font-weight: 200; margin-bottom: 3rem">The Cognition and Learning Laboratory conducts basic and applied research on how people learn</p>
+#
 
-## <p style="font-size: 1.5rem; text-align: center; font-weight: 400">Recent Publications</p>
+<div style="text-align:center">
+    <img src="img/bigstock-lightbulb-vector.png" style="height:200px">
+</div>
+<h2 style="text-align: center">The Cognition and Learning Laboratory conducts basic and applied research on how people learn</h2>
 
-- O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.*
+<h2 style="text-align: center; font-weight:500">Recent Publications</h2>
 
-- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36..
+- O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. _Journal of Educational Psychology._
 
-- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. *Journal of Speech, Language, and Hearing Research, 62*, 4433-4449. 
+- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. _Journal of Applied Research in Memory and Cognition, 9_, 33-36..
 
-<p class=lead style="margin-bottom: 3rem; text-align: center"><a href="./publications/">See all publications</a></p>
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. _Journal of Speech, Language, and Hearing Research, 62_, 4433-4449.
 
-<style type='text/css'>
-.md-sidebar--secondary {
-    display: none;
-}
-</style>
+<div style="text-align: center; margin-bottom: "><a href="./publications/">See all publications</a></div>

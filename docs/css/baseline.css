@@ -1,0 +1,21 @@
+/* Table of Contents
+
+  Mkdocs Overrides
+
+*/
+
+
+
+
+/* Theme Overrides */
+[data-md-color-primary="black"] {
+  --md-typeset-a-color: #c28e0e;
+}
+[data-md-color-accent="amber"] {
+  --md-accent-fg-color: #e2ce58;
+}
+
+/* Typography Overrides */
+.md-typeset :is(h1, h2, h3, h4, h5, h6) {
+  margin: 0;
+}
