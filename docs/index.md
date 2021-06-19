@@ -1,16 +1,13 @@
 ---
 hide:
-  - navigation
   - toc
-title:
 ---
-
 #
 
 <div style="text-align:center">
     <img src="img/bigstock-lightbulb-vector.png" style="height:200px">
 </div>
-<h2 style="text-align: center">The Cognition and Learning Laboratory conducts basic and applied research on how people learn</h2>
+<h2 style="text-align: center; margin-bottom: 3rem;">The Cognition and Learning Laboratory conducts basic and applied research on how people learn</h2>
 
 <h2 style="text-align: center; font-weight:500">Recent Publications</h2>
 

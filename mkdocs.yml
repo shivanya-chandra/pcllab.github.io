@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Cognition and Learning Lab
 site_url: https://example.com/
 copyright: Copyright &copy; 2021 Cognition and Learning Laboratory
 
@@ -12,9 +12,18 @@ theme:
 extra_css:
   - css/baseline.css
   - css/people.css
+  - css/header.css
+extra_javascript:
+  - js/header.js
 
 markdown_extensions:
     - attr_list
     - pymdownx.extra
     - meta # Add frontmatter + allows hiding sidebars
-    
+nav:
+  # - Home: index.md
+  - People: people.md
+  - Projects: projects.md
+  - Publications: publications.md
+  - News: news.md
+  - Join Us: joinus.md
