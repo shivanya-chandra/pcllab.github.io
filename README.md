@@ -1,7 +1,7 @@
 # Lab Website - MkDocs
 
 A live demo of the website can be found here:
-[https://jarvis.psych.purdue.edu/lab-website/](https://jarvis.psych.purdue.edu/lab-website/)
+[https://pcllab.github.io/](https://pcllab.github.io/)
 
 To run MkDocs locally: 
 - cd to this folder
