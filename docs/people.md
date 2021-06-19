@@ -1,132 +1,56 @@
 # People
 
-<div class="row text-center" markdown="span">
-    <div class="col-lg-4 col-sm-12 col-xs-12 col-md-4">
-        <div class="person text-center">
-            <div class="service-icon">
-                ![](img/karpicke.png)
-            </div>
-            <a data-toggle="modal" href="#modal_karpicke"><span class="card-link rounded"></span></a>
-            <h3 class="gold-border-bottom">Jeffrey D. Karpicke</h3>
-            <p>Principal Investigator</p>
-        </div>
-    </div>
-    <div class="col-lg-4 col-sm-12 col-xs-12 col-md-4">
-        <div class="person text-center">
-            <div class="service-icon">
-                ![](img/skarpicke.png)
-            </div>
-            <a data-toggle="modal" href="#modal_skarpicke"><span class="card-link rounded"></span></a>
-            <h3 class="gold-border-bottom">Stephanie Karpicke</h3>
-            <p>Research Coordinator</p>
-        </div>
-    </div>
-    <div class="col-lg-4 col-sm-12 col-xs-12 col-md-4">
-        <div class="person text-center">
-            <div class="service-icon">
-                ![](img/kline.jpg)
-            </div>
-            <a data-toggle="modal" href="#modal_skarpicke"><span class="card-link rounded"></span></a>
-            <h3 class="gold-border-bottom">Breanne Kline</h3>
-            <p>Research Technician</p>
-        </div>
-    </div>
-    <div class="col-lg-4 col-sm-12 col-xs-12 col-md-4">
-        <div class="person text-center">
-            <div class="service-icon">
-                ![](img/arpasi.jpg)
-            </div>
-            <a data-toggle="modal" href="https://github.com/andrew-dev" target="_blank"><span class="card-link rounded"></span></a>
-            <h3 class="gold-border-bottom">Andrew Arpasi</h3>
-            <p>Developer</p>
-        </div>
-    </div>
-    <div class="col-lg-4 col-sm-12 col-xs-12 col-md-4">
-        <div class="person text-center">
-            <div class="service-icon">
-                ![](img/vijayan.jpeg)
-            </div>
-            <a data-toggle="modal" href="https://github.com/vi-v" target="_blank"><span class="card-link rounded"></span></a>
-            <h3 class="gold-border-bottom">Vishnu Vijayan</h3>
-            <p>Developer</p>
-        </div>
+<div class="people-row">
+    <img src="../img/karpicke.jpg" class="people-img">
+    <div>
+    <h2>Jeffrey D. Karpicke</h2>
+    <h4>Principal Investigator</h4>
+    <p>I'm interested in all things related to the science of learning, education, and technology. Currently, our lab is pursuing
+    research projects in the following areas:
+    <ul>
+        <li>Retrieval processes and retrieval-based learning</li>
+        <li>Development of computer-based learning tools</li>
+        <li>Complex learning, comprehension, and knowledge application</li>
+        <li>Learning and cognitive strategies in children</li>
+        <li>Metacognition and self-regulated learning</li>
+    </ul></p>
     </div>
 </div>
 
-<div id="modal_karpicke" class="modal-window" markdown="span">
-    <div class="box-shadow">
-        <a href="#" title="Close" class="modal-close">Close</a>
-        <div class="container-fluid main-content">
-            <div class="profile">
-                <div class="row">
-                    <div class="text-xs-center text-sm-center text-md-left col-sm-12 col-md-6 people-image-col">
-                        <div class="people-image" markdown="1">
-                            ![](img/karpicke.png){: .people-image}
-                        </div>
-                        <div class="visible-xs" style="height: 10px"></div>
-                    </div>
-                    <div class="text-xs-center text-sm-center text-md-left col-sm-12 col-md-6">
-                        <div class="description">
-                            <h2>Jeffrey D. Karpicke</h2>
-                            <p>
-                                James V. Bradley Professor<br>
-                                Department of Psychological Sciences<br> 
-                                Purdue University<br>
-                                <a href=mailto:karpicke@purdue.edu>karpicke@purdue.edu</a><br>
-                                <a href=http://learninglab.psych.purdue.edu/downloads/Karpicke_Vita.pdf>Vita</a><br>
-                                <a href=https://scholar.google.com/citations?user=5t5lgCgAAAAJ>Google Scholar</a><br><br>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="content">
-                    I'm interested in all things related to the science of learning, education, and technology. Currently, our lab is pursuing
-                    research projects in the following areas:
-                    <ul>
-                        <li>Retrieval processes and retrieval-based learning</li>
-                        <li>Development of computer-based learning tools</li>
-                        <li>Complex learning, comprehension, and knowledge application</li>
-                        <li>Learning and cognitive strategies in children</li>
-                        <li>Metacognition and self-regulated learning</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+<div class="people-row">
+    <img src="../img/skarpicke.jpg" class="people-img">
+    <div>
+    <h2>Stephanie Karpicke</h2>
+    <h4>Research Coordinator</h4>
+    <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
     </div>
 </div>
 
-<div id="modal_skarpicke" class="modal-window" markdown="span">
-    <div class="box-shadow">
-        <a href="#" title="Close" class="modal-close">Close</a>
-            <div class="container-fluid main-content">
-                <div class="profile">
-                    <div class="row">
-                        <div class="text-xs-center text-sm-center text-md-left col-sm-12 col-md-6 people-image-col">
-                            <div class="people-image" markdown="1">
-                                ![](img/skarpicke.png){: .people-image}
-                            </div>
-                            <div class="visible-xs" style="height: 10px"></div>
-                        </div>
-                        <div class="text-xs-center text-sm-center text-md-left col-sm-12 col-md-6">
-                            <div class="description">
-                                <h2>Stephanie Karpicke</h2>
-                                <p>
-                                    Research Coordinator<br>
-                                    Cognition and Learning Lab<br>
-                                    Department of Psychological Sciences<br> 
-                                    Purdue University<br>
-                                    <a href=mailto:skarpicke@purdue.edu>skarpicke@purdue.edu</a><br>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="content">
-                        I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.
-                    </div>
-                </div>
-            </div>
+<div class="people-row">
+    <img src="../img/kline.jpg" class="people-img">
+    <div>
+    <h2>Breanne Kline</h2>
+    <h4>Research Technician</h4>
+    <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
     </div>
 </div>
+<div class="people-row">
+    <img src="../img/arpasi.jpg" class="people-img">
+    <div>
+    <h2>Andrew Arpasi</h2>
+    <h4>Developer</h4>
+    <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
+    </div>
+</div>
+<div class="people-row">
+    <img src="../img/vijayan.jpg" class="people-img">
+    <div>
+    <h2>Vishnu Vijayan</h2>
+    <h4>Developer</h4>
+    <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
+    </div>
+</div>
+
 
 ## Lab Alumni
 

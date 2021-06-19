@@ -1,0 +1,30 @@
+/* Table of Contents
+
+
+*/
+
+/* PCLLAB Styling */
+:root {
+  --pcllab-dark-bg-color: #212121;
+  --pcllab-light-bg-color: #eeeeee;
+  --pcllab-light-fg-color: #616161;
+}
+
+/* Theme Overrides */
+[data-md-color-primary="black"] {
+  --md-typeset-a-color: #c28e0e;
+
+  --md-footer-bg-color: var(--pcllab-light-bg-color);
+  --md-footer-fg-color: var(--pcllab-light-fg-color);
+}
+[data-md-color-primary="black"] .md-header{
+  background-color: var(--pcllab-dark-bg-color);
+}
+[data-md-color-accent="amber"] {
+  --md-accent-fg-color: #e2ce58;
+}
+
+/* Typography Overrides */
+.md-typeset :is(h2, h3, h4, h5, h6) {
+  margin: 0;
+}
