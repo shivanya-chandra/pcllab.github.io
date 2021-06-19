@@ -1,11 +1,19 @@
 .people-row {
   display:flex;
-  align-items: flex-start;
+  align-items: center;
   margin-bottom: 2rem;
 }
 .people-img {
   object-fit: cover;
-  margin-right: 1rem;
+  margin-bottom: 1rem;
   width:200px;
-  height:250px;
+}
+
+@media (min-width:992px) {
+  .people-row {
+    align-items: flex-start;
+  }
+  .people-img {
+    margin-right: 1rem;
+  }
 }
