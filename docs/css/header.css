@@ -1,61 +1,91 @@
+
+/* Only last navbar is sticky if there are multiple */
+.md-header:not(:last-of-type) {
+  position: unset;
+}
+/* Alternate navbar color for clarity */
+.md-header:nth-child(even){
+  background-color: var(--pcllab-dark-bg-color);
+}
+
+.md-header:nth-child(even) .dropdown-list{
+  background-color: var(--pcllab-dark-bg-color--light);
+}
+.md-header:nth-child(odd) .dropdown-list{
+  background-color: var(--pcllab-darker-bg-color--light);
+}
+
+
 .md-header__title {
   margin-right: 0.8rem;
   margin-left: 0.8rem;
 }
 .md-header__inner {
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   padding: 0;
 }
 
 .dropdown-list li {
-  padding:0;
+  padding: 0;
   list-style: none;
 }
 
 .dropdown-list {
-  display:none;
-  padding:0;
-  margin:0;
-  width:100%; /* cause flex-wrap to new row */
-  font-size:14px;
+  display: none;
+  margin: 0;
+  padding: 0;
+  width: 100%; /* cause flex-wrap to new row */
+  font-size: 14px;
 }
 
 .dropdown-item {
-  width:100%;
+  width: 100%;
 }
 
 .dropdown-menu {
-  top:100%;
-  display:none;
+  top: 100%;
+  display: none;
   background-color: var(--md-primary-bg-color);
   color: var(--pcllab-light-fg-color);
-  border: 1px solid rgba(0,0,0,0.2);
-  padding-left:8px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding-left: 8px;
 }
 .show {
-  display:block;
+  display: block;
 }
 .nav-link {
-  display:block;
-  padding: 0.4rem 0.8rem;
+  display: block;
+  padding: 0.6rem 0.8rem;
 }
 .nav-link:hover {
-  color: var(--md-accent-fg-color)
+  color: var(--md-accent-fg-color);
 }
 
-@media (min-width:992px) {
+@media (min-width: 992px) {
   .dropdown-menu {
     position: absolute;
     margin: 0;
     border-radius: 4px;
-    padding:0;
-  } 
+    padding: 0;
+  }
   .dropdown-list {
-    display:flex;
-    width:unset;
+    display: flex;
+    width: unset;
     flex-direction: row;
   }
+
+  /* Reset colors to match navigation bar */
+  .md-header:nth-child(even) .dropdown-list{
+    background-color: var(--pcllab-dark-bg-color);
+  }
+  .md-header:nth-child(odd) .dropdown-list{
+    background-color: var(--pcllab-darker-bg-color);
+  }
+
   #header-burger {
-    display:none;
+    display: none;
+  }
+  #handbook-header-burger {
+    display: none;
   }
 }

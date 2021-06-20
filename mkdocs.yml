@@ -8,6 +8,7 @@ theme:
     primary: black
     accent: amber
   custom_dir: overrides
+  favicon: img/favicon.ico
 
 extra_css:
   - css/baseline.css
@@ -17,9 +18,13 @@ extra_javascript:
   - js/header.js
 
 markdown_extensions:
-    - attr_list
-    - pymdownx.extra
-    - meta # Add frontmatter + allows hiding sidebars
+  - attr_list
+  - pymdownx.extra
+  - meta # Add frontmatter + allows hiding sidebars
+plugins:
+  - macros
+extra:
+  handbookPage: /handbook/
 nav:
   # - Home: index.md
   - People: people.md
@@ -27,3 +32,41 @@ nav:
   - Publications: publications.md
   - News: news.md
   - Join Us: joinus.md
+
+  - Handbook:
+      - Introduction:
+          - Home: handbook/index.md
+          - Getting on Board: handbook/introductions/getting-on-board.md
+          - Links: handbook/introduction/links.md
+          - Purpose: handbook/introduction/purpose.md
+          - Funding: handbook/introduction/funding.md
+          - People and Roles: handbook/introduction/people.md
+          - Overview of the Research Process: handbook/introduction/research-process.md
+      - Lab Policies:
+          - Code of Conduct: handbook/lab-policies/lab-policies.md
+          - Rules: handbook/lab-policies/lab-rules.md
+          - Rooms: handbook/lab-policies/lab-rooms.md
+          - Computers: handbook/lab-policies/lab-computers.md
+          - Paper and Digital Files: handbook/lab-policies/handling-files.md
+          - Supplies: handbook/lab-policies/supplies.md
+          - Keys and Security: handbook/lab-policies/keys-and-security.md
+          - Keeping the Lab Clean: handbook/lab-policies/lab-procedures.md
+      - Running Lab Experiments:
+          - Lab Connections and Servers: handbook/lab-experiments/lab-connections.md
+          - IRB Information: handbook/lab-experiments/lab-irb-information.md
+          - Preparing a Lab Experiment: handbook/lab-experiments/preparing-lab-experiment.md
+          - Starting a New Sona Experiment: handbook/lab-experiments/new-sona.md
+          - Working in Sona: handbook/lab-experiments/working-in-sona.md
+          - Checklist for Running Lab Experiments: handbook/lab-experiments/checklist.md
+          - Awarding Credits in Sona: handbook/lab-experiments/awarding-credits.md
+          - Scanning and Archiving: handbook/lab-experiments/scanning.md
+      - Creating Online Experiments:
+          - Web Programming: handbook/web-experiments/getting-started.md
+          - MTurk: handbook/web-experiments/mturk.md
+          - MTurk Calculator: handbook/web-experiments/mturk-calculator.md
+      - Resources:
+          - Who's Who in the Psych Department: handbook/resources/whos-who.md
+          - Recommendation Letters: handbook/resources/letters.md
+          # File does not exist
+          # - Graduate and Postdoctoral Training: resources/training.md
+          - Travel Information: handbook/resources/travel.md
