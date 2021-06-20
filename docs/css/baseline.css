@@ -5,7 +5,11 @@
 
 /* PCLLAB Styling */
 :root {
-  --pcllab-dark-bg-color: #212121;
+  --pcllab-darker-bg-color: #212121;
+  --pcllab-darker-bg-color--light: #313131;
+  --pcllab-dark-bg-color: #414141;
+  --pcllab-dark-bg-color--light: #515151;
+  
   --pcllab-light-bg-color: #eeeeee;
   --pcllab-light-fg-color: #616161;
 }
@@ -18,7 +22,7 @@
   --md-footer-fg-color: var(--pcllab-light-fg-color);
 }
 [data-md-color-primary="black"] .md-header{
-  background-color: var(--pcllab-dark-bg-color);
+  background-color: var(--pcllab-darker-bg-color);
 }
 [data-md-color-accent="amber"] {
   --md-accent-fg-color: #e2ce58;
