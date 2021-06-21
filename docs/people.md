@@ -34,7 +34,7 @@
     <p>I'm interested in the studying effects of choices on memory and in applying basic memory research to understaning and improving learning and memory in educational settings. </p>
     </div>
 </div>
-\
+
 <div class="people-row">
     <img src="../img/kline.jpg" class="people-img">
     <div>
