@@ -21,7 +21,9 @@
 
     <!-- Dropdown nav start -->
     <ul class="dropdown-list">
-      {% for nav_item in nav %} {% if nav_item.children %}
+      {% for nav_item in nav %} {% if nav_item.title == "Handbook" %}
+      <!-- Not a Handbook Page-->
+      {% elif nav_item.children %}
       <li class="{% if nav_item.active %} active{% endif %}">
         <span class="nav-link dropdown-toggle"
           >{{ nav_item.title }} <b class="caret"></b
@@ -31,7 +33,16 @@
           <li>
             <a
               href="{{ nav_item.url|url }}"
-              class="nav-link dropdown-item{% if nav_item.active %} active{% endif %}"
+              class="
+                nav-link
+                dropdown-item{%
+                if
+                nav_item.active
+                %}
+                active{%
+                endif
+                %}
+              "
               >{{ nav_item.title }}</a
             >
           </li>
@@ -48,3 +59,72 @@
     </ul>
   </nav>
 </header>
+
+{% if page.parent and page.parent.parent.title == "Handbook" %}
+<header class="md-header" data-md-component="header" data-md-state="shadow">
+  <nav class="md-header__inner md-grid" area-label="Header">
+    <!-- Header title -->
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <a
+            class="md-ellipsis"
+            href="{{ config.extra.handbookPage | url }}"
+          >
+            Handbook
+          </a>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            {% if page and page.meta and page.meta.title %} {{ page.meta.title
+            }} {% else %} {{ page.title }} {% endif %}
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Button to open drawer -->
+    <label class="md-header__button md-icon" id="handbook-header-burger">
+      {% include ".icons/material/menu" ~ ".svg" %}
+    </label>
+
+    <!-- Dropdown nav start -->
+    <ul class="dropdown-list">
+      {% for nav_item in page.parent.parent.children %} {% if nav_item.children
+      %}
+      <li class="{% if nav_item.active %} active{% endif %}">
+        <span class="nav-link dropdown-toggle"
+          >{{ nav_item.title }} <b class="caret"></b
+        ></span>
+        <ul class="dropdown-menu">
+          {% for nav_item in nav_item.children %} {% if not nav_item.children %}
+          <li>
+            <a
+              href="{{ nav_item.url|url }}"
+              class="
+                nav-link
+                dropdown-item{%
+                if
+                nav_item.active
+                %}
+                active{%
+                endif
+                %}
+              "
+              >{{ nav_item.title }}</a
+            >
+          </li>
+          {% endif %} {% endfor %}
+        </ul>
+      </li>
+      {% else %}
+      <li class="{% if nav_item.active %} active{% endif %}">
+        <a href="{{ nav_item.url|url }}" class="nav-link"
+          >{{ nav_item.title }}</a
+        >
+      </li>
+      {% endif %} {% endfor %}
+    </ul>
+  </nav>
+</header>
+{% endif %}
