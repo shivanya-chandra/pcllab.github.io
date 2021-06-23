@@ -109,9 +109,3 @@ Assistant Professor<br>
 St. Bonaventure University<br>
 Ph.D. Student (2008-2013)<br>
 <br>
-
-<style type='text/css'>
-.md-sidebar--secondary {
-    display: none;
-}
-</style>
