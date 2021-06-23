@@ -15,19 +15,24 @@
   }
 
   const dropdownList = document.getElementsByClassName("dropdown-list")[0];
-  const handbookDropdownList = document.getElementsByClassName("dropdown-list")[1];
+  const handbookDropdownList =
+    document.getElementsByClassName("dropdown-list")[1];
   const headerBurger = document.getElementById("header-burger");
-  const handbookHeaderBurger = document.getElementById("handbook-header-burger");
+  const handbookHeaderBurger = document.getElementById(
+    "handbook-header-burger"
+  );
 
   headerBurger.onclick = () => {
     dropdownList.classList.toggle("show");
     handbookDropdownList.classList.remove("show");
+  };
 
-  };
-  handbookHeaderBurger.onclick = () => {
-    handbookDropdownList.classList.toggle("show");
-    dropdownList.classList.remove("show");
-  };
+  if (handbookHeaderBurger) {
+    handbookHeaderBurger.onclick = () => {
+      handbookDropdownList.classList.toggle("show");
+      dropdownList.classList.remove("show");
+    };
+  }
 
   window.onclick = (event) => {
     if (!event.target.matches(".dropdown-toggle")) {
