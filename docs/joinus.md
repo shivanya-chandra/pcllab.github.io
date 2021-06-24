@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Join Us
 
 ## Graduate Research Opportunities

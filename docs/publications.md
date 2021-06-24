@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Publications
 
 ## In Press

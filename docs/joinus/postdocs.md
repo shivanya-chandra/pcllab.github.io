@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Postdoctoral Research Opportunities
 
 The Cognition and Learning Laboratory at Purdue University, under the direction of Dr. Jeffrey D. Karpicke, invites applications

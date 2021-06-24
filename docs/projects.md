@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Projects
 
 ## Retrieval-Based Learning

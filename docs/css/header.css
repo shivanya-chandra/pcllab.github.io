@@ -15,7 +15,6 @@
   background-color: var(--pcllab-darker-bg-color--light);
 }
 
-
 .md-header__title {
   margin-right: 0.8rem;
   margin-left: 0.8rem;
@@ -58,6 +57,10 @@
   padding: 0.6rem 0.8rem;
 }
 .nav-link:hover {
+  color: var(--md-accent-fg-color);
+}
+
+.active {
   color: var(--md-accent-fg-color);
 }
 
