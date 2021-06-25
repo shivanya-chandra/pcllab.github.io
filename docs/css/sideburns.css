@@ -1,0 +1,24 @@
+.md-grid {
+  max-width:70rem;
+}
+
+.md-main__inner {
+  /* max-width:70rem; */
+  justify-content: center;
+}
+
+.md-sidebar {
+  max-width:10rem;
+}
+
+.md-content {
+  max-width:50rem;
+}
+
+.header-sideburn {
+  width:10rem;
+  margin-left: 0.2rem;
+  margin-right: 0.2rem;
+}
+
+/* 76.1875rem */
