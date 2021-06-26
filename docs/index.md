@@ -3,14 +3,16 @@ hide:
   - navigation
   - toc
 ---
+
 #
 
-<div style="text-align:center">
-    <img src="img/bigstock-lightbulb-vector.png" style="height:200px">
-</div>
-<h2 style="text-align: center; margin-bottom: 3rem;">The Cognition and Learning Laboratory conducts basic and applied research on how people learn</h2>
+<div style="text-align:center;">
+    <img src="img/bigstock-lightbulb-vector.png" style="height:144px">
 
-<h2 style="text-align: center; font-weight:500">Recent Publications</h2>
+    <h1 style="margin-bottom: 8rem; margin-top: 1rem;">The Cognition and Learning Laboratory conducts basic and applied research on how people learn</h2>
+
+  <h2 style="font-size:2rem;font-weight:300">Recent Publications</h2>
+</div>
 
 - O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. _Journal of Educational Psychology._
 

@@ -14,12 +14,11 @@
     };
   }
 
-  const dropdownList = document.getElementsByClassName("dropdown-list");
+  const dropdownList = document.getElementsByClassName("dropdown-list")[0];
   const headerBurger = document.getElementById("header-burger");
 
   headerBurger.onclick = () => {
     dropdownList.classList.toggle("show");
-    handbookDropdownList.classList.remove("show");
   };
 
   window.onclick = (event) => {
