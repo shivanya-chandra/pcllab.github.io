@@ -1,6 +1,6 @@
 # Who's Who in the Psych Department
 
-A complete list of department staff members can be found [here](http://www.purdue.edu/hhs/psy/directory/staff/index.html).
+A complete list of department staff members can be found [here](http://www.purdue.edu/hhs/psy/directory/staff/index.html){target="_blank" rel="noreferrer"}.
 
 ### Cognitive Area Administrative Assistant
 

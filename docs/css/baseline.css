@@ -16,7 +16,7 @@
 
 /* Theme Overrides */
 [data-md-color-primary="black"] {
-  --md-typeset-a-color: #c28e0e;
+  --md-typeset-a-color: #d2b063;
 
   --md-footer-bg-color: var(--pcllab-light-bg-color);
   --md-footer-fg-color: var(--pcllab-light-fg-color);

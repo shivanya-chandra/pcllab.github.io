@@ -69,17 +69,17 @@ hide:
 
 ## Lab Alumni
 
-[Caroline Byrd Hornburg](https://sites.google.com/view/caroline-byrd-hornburg)<br>
+[Caroline Byrd Hornburg](https://sites.google.com/view/caroline-byrd-hornburg){target="_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 Virginia Tech<br>
 Postdoctoral Research Associate (2017-2019)<br>
 
-[Robert Ariel](https://sites.google.com/view/robert-ariel)<br>
+[Robert Ariel](https://sites.google.com/view/robert-ariel){target="_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 Virginia Wesleyan University<br>
 Postdoctoral Research Associate (2015-2018)<br>
 
-[William Aue](https://www.linkedin.com/in/william-aue)<br>
+[William Aue](https://www.linkedin.com/in/william-aue){target="_blank" rel="noreferrer"}<br>
 Cognitive Neuroscientist<br>
 Wright State Research Institute<br>
 Postdoctoral Research Associate (2014-2018)<br>
@@ -94,32 +94,32 @@ Science Writer<br>
 Association for Psychological Science<br>
 Postdoctoral Research Associate (2013-2016)<br>
 
-[Joshua Whiffen](https://www.linkedin.com/in/joshua-whiffen-230618122)<br>
+[Joshua Whiffen](https://www.linkedin.com/in/joshua-whiffen-230618122){target="_blank" rel="noreferrer"}<br>
 Research Associate<br>
 Horizon Research, Inc.<br>
 M.S. Student (2012-2016)<br>
 
-[Janell Blunt](https://anderson.edu/humanities-behavioral-science/faculty/psychology/blunt)<br>
+[Janell Blunt](https://anderson.edu/humanities-behavioral-science/faculty/psychology/blunt){target="_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 Anderson University<br>
 Ph.D. Student (2011-2015)<br>
 
-[Megan Sumeracki](http://www.learningscientists.org/)<br>
+[Megan Sumeracki](http://www.learningscientists.org/){target="_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 Rhode Island College<br>
 Ph.D. Student (2011-2014)<br>
 
-[Melissa Lehman](https://www.lynn.edu/campus-directory/melissa-lehman)<br>
+[Melissa Lehman](https://www.lynn.edu/campus-directory/melissa-lehman){target="_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 Lynn University<br>
 Postdoctoral Research Associate (2011-2014)<br>
 
-[Phillip Grimaldi](http://www.phillipgrimaldi.com/)<br>
+[Phillip Grimaldi](http://www.phillipgrimaldi.com/){target="_blank" rel="noreferrer"}<br>
 Director of Research<br>
 OpenStax College and Rice University<br>
 Ph.D. Student (2008-2014)<br>
 
-[Althea Kaminske](https://www.sbu.edu/academics/psychology/faculty-and-staff/bauernschmidt-althea)<br>
+[Althea Kaminske](https://www.sbu.edu/academics/psychology/faculty-and-staff/bauernschmidt-althea){target="_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 St. Bonaventure University<br>
 Ph.D. Student (2008-2013)<br>

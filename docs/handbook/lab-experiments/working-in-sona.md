@@ -1,6 +1,6 @@
 # Working in Sona
 
-This page describes key things to know about working in Sona (<https://purdue-psych.sona-systems.com>), including how to post timeslots, retrieve a list of subject names, <mark>and assign credits?</mark> 
+This page describes key things to know about working in Sona (<https://purdue-psych.sona-systems.com>{target="_blank" rel="noreferrer"}), including how to post timeslots, retrieve a list of subject names, <mark>and assign credits?</mark> 
 
 ## Sona Terminology
 
@@ -10,7 +10,7 @@ This page describes key things to know about working in Sona (<https://purdue-ps
 
 * Before posting timeslots in Sona, you must reserve a testing room using the Google Calendar <mark>Include link</mark> for that room. (If you are using the shared testing room, Room 3132, you will also need to sign out that room on the department’s room reservation schedule.) See the section Using Google Calendars to Reserve Rooms on p. 8. <mark>Include link</mark> 
 * You should post timeslots one week in advance of when they will occur. If you are posting timeslots for next week, those timeslots should be posted by Wednesday of this week at the latest. 
-* To post timeslots, log in to [Sona](https://purdue-psych.sona-systems.com)
+* To post timeslots, log in to [Sona](https://purdue-psych.sona-systems.com){target="_blank" rel="noreferrer"}
 * You can then click “My Studies” on the top menu, or click “View, add or edit timeslots” in the “My Studies” section of the page.
 * You will see a table that lists your experiments. Find the experiment you want to post timeslots for, and click “Timeslots” in the right column. If the experiment is a multi-session study, you will see separate links for each session (e.g., “Part 1 Timeslots” and “Part 2 Timeslots”). 
 * If you are creating multiple sessions, click “Add Multiple Timeslots”. If you are only creating one session, click “Add A Timeslot”. 

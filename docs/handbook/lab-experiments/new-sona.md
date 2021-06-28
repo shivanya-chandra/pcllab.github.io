@@ -4,7 +4,7 @@
 
 ## Enter the experiment information in Sona
 
-* Log in to Sona: <https://purdue-psych.sona-systems.com/>
+* Log in to Sona: <https://purdue-psych.sona-systems.com/>{target="_blank" rel="noreferrer"}
 * The title of the experiment must include a Sona number and experiment name (e.g., #078: Learning Word Pairs).
 * You can reuse an existing Sona number, or you can request a new number from Sue Phebus (PRCE 385G; <sphebus@purdue.edu>).
 * You must add "Learning Lab" as a user in each experiment in Sona.

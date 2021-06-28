@@ -7,22 +7,22 @@ This page describes the steps you need to take to get started with web programmi
 
 **If you just want to run programs locally on your computer**, you need to:
 
-* [Get MAMP](getting-started.md#get-mamp) <br>
-* [Get a GitHub Account](getting-started.md#get-a-github-account) <br>
-* [Clone a GitHub Repository](getting-started.md#clone-a-github-repository) <br>
-* [Run a Program Locally on Your Computer](getting-started.md#run-a-program-locally-on-your-computer) <br>
+* [Get MAMP](getting-started.md#get-mamp){target="_blank" rel="noreferrer"} <br>
+* [Get a GitHub Account](getting-started.md#get-a-github-account){target="_blank" rel="noreferrer"} <br>
+* [Clone a GitHub Repository](getting-started.md#clone-a-github-repository){target="_blank" rel="noreferrer"} <br>
+* [Run a Program Locally on Your Computer](getting-started.md#run-a-program-locally-on-your-computer){target="_blank" rel="noreferrer"} <br>
 
 **If you also want to edit and host programs**, you also need to:
 
-* [Get a Text Editor](getting-started.md#get-a-text-editor) <br>
-* [Set Up a VPN](../lab-experiments/lab-connections.md) <br>
-* [Connect to Jarvis](../lab-experiments/lab-connections.md) <br>
+* [Get a Text Editor](getting-started.md#get-a-text-editor){target="_blank" rel="noreferrer"} <br>
+* [Set Up a VPN](../lab-experiments/lab-connections.md){target="_blank" rel="noreferrer"} <br>
+* [Connect to Jarvis](../lab-experiments/lab-connections.md){target="_blank" rel="noreferrer"} <br>
 
 ## Get MAMP
 
 MAMP is a tool that lets you run a local server on your computer. You will need to use MAMP to run programs locally on a computer.
 
-* Download and install MAMP: <https://www.mamp.info>
+* Download and install MAMP: <https://www.mamp.info>{target="_blank" rel="noreferrer"}
 * After installing, open MAMP and click Preferences. Select the Ports tab and put "8888" in the box next to Apache and "3306" in the port next to MySQL.
 * To run the local server, simply click Start Servers.
 
@@ -30,9 +30,9 @@ MAMP is a tool that lets you run a local server on your computer. You will need 
 
 GitHub is a repository hosting service. It allows you to create repositories, where code is stored, and share code with multiple users. Think of it as Dropbox for code.
 
-* Go to <http://github.com> and create an account
-* Have someone in the lab add you to the lab's account (<http://github.com/PCLLAB>) or to a particular repository (which will be something like http://github.com/PCLLAB/RepositoryName)
-* Download the GitHub app from <https://desktop.github.com>
+* Go to <http://github.com>{target="_blank" rel="noreferrer"} and create an account
+* Have someone in the lab add you to the lab's account (<http://github.com/PCLLAB>{target="_blank" rel="noreferrer"}) or to a particular repository (which will be something like http://github.com/PCLLAB/RepositoryName)
+* Download the GitHub app from <https://desktop.github.com>{target="_blank" rel="noreferrer"}
 * During installation, you will be asked to set a default folder
     * On a Mac, set the default folder to Applications/MAMP/htdocs
     * On a Windows PC, set the default folder to C:\MAMP\htdocs
@@ -62,10 +62,10 @@ To run a program locally:
 
 You will need a text editor to write and edit code. Popular ones are:
 
-* Visual Studio Code: <https://code.visualstudio.com> 
-* Atom: <https://atom.io/>
-* Sublime Text: <http://www.sublimetext.com/>
+* Visual Studio Code: <https://code.visualstudio.com>{target="_blank" rel="noreferrer"} 
+* Atom: <https://atom.io/>{target="_blank" rel="noreferrer"}
+* Sublime Text: <http://www.sublimetext.com/>{target="_blank" rel="noreferrer"}
 
 ## Extremely Technical Stuffs
 
-For more info check out <https://pcllab.github.io/docs/>
+For more info check out <https://pcllab.github.io/docs/>{target="_blank" rel="noreferrer"}

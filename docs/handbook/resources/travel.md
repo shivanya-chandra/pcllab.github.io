@@ -1,8 +1,8 @@
 # Travel
 
 ## Links
-* [Concur](https://www.purdue.edu/apps/account/SAMLPost/concur){target=_blank}
-* [Purdue travel](http://www.purdue.edu/business/travel/)
+* [Concur](https://www.purdue.edu/apps/account/SAMLPost/concur){target="_blank" rel="noreferrer"}
+* [Purdue travel](http://www.purdue.edu/business/travel/){target="_blank" rel="noreferrer"}
 
 ## Before You Travel
 * Get a Visa Travel Card (talk to business office?)
@@ -24,7 +24,7 @@ Save your receipts!
 ## Create a Travel Request in Concur
 Before you can create an expense report, you have to create a travel request in Concur.
 
-* Log on to [Concur](https://www.purdue.edu/apps/account/SAMLPost/concur)
+* Log on to [Concur](https://www.purdue.edu/apps/account/SAMLPost/concur){target="_blank" rel="noreferrer"}
 * Click "Requests", then "New Request"
 * Name your request according to the department naming convention: 
     * PSY-, your initial and last name, destination, purpose/conference, and departure date 

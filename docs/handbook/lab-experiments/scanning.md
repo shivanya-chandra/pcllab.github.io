@@ -6,7 +6,7 @@ When you have completed an experiment, or when you are done running subjects for
 
 ## Scanning Consent Forms
 
-[Here is an example](http://learninglab.psych.purdue.edu/labwiki/files/Example_Signed_Consent_Form.pdf) of what consent forms should look like when they are ready to be scanned and archived.
+[Here is an example](http://learninglab.psych.purdue.edu/labwiki/files/Example_Signed_Consent_Form.pdf){target="_blank" rel="noreferrer"} of what consent forms should look like when they are ready to be scanned and archived.
 
 Before you start scanning, your consent forms must:
 

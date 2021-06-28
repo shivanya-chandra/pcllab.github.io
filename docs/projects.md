@@ -12,34 +12,34 @@ A central focus of research in the Cognition and Learning Lab is the effect of r
 If you are looking for a deep dive into retrieval practice:
 
 - Karpicke, J. D. (2017). Retrieval-based learning: A decade of progress. In J. T. Wixted (Ed.), _Cognitive psychology of memory, Vol. 2 of Learning and memory: A comprehensive reference_ (J. H. Byrne, Series Ed.) (pp. 487-514). Oxford: Academic Press. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress_Karpicke_Retrieval_Based_Learning_Review.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress_Karpicke_Retrieval_Based_Learning_Review.pdf){target="_blank" rel="noreferrer"}
 
 Shorter introductory articles:
 
 - Karpicke, J. D. (2016). A powerful way to improve learning and memory. _APA Psychological Science Agenda._ <br>
-  [[Link to Article]](http://www.apa.org/science/about/psa/2016/06/learning-memory.aspx)
+  [[Link to Article]](http://www.apa.org/science/about/psa/2016/06/learning-memory.aspx){target="_blank" rel="noreferrer"}
 
 - Nunes, L. D., &amp; Karpicke, J. D. (2015). Retrieval-based learning: Research at the interface between cognitive science and education. In R. A. Scott &amp; S. M. Kosslyn (Eds.), _Emerging Trends in the Social and Behavioral Sciences_ (pp. 1-16). John Wiley &amp; Sons, Inc. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2015_Nunes_Karpicke_Emerging_Trends.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2015_Nunes_Karpicke_Emerging_Trends.pdf){target="_blank" rel="noreferrer"}
 
 - Karpicke, J. D. (2012). Retrieval-based learning: Active retrieval promotes meaningful learning. _Current Directions in Psychological Science, 21_, 157-163. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2012_Karpicke_CDPS.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2012_Karpicke_CDPS.pdf){target="_blank" rel="noreferrer"}
 
 Foundational articles:
 
 - Karpicke, J. D., &amp; Blunt, J. R. (2011). Retrieval practice produces more learning than elaborative studying with concept mapping. _Science, 331_, 772-775. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2011_Karpicke_Blunt_Science.pdf)
-  [[Supporting Online Material]](http://learninglab.psych.purdue.edu/downloads/2011_Karpicke_Blunt_ScienceSupportingMaterial.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2011_Karpicke_Blunt_Science.pdf){target="_blank" rel="noreferrer"}
+  [[Supporting Online Material]](http://learninglab.psych.purdue.edu/downloads/2011_Karpicke_Blunt_ScienceSupportingMaterial.pdf){target="_blank" rel="noreferrer"}
 
 - Karpicke, J. D., &amp; Roediger, H. L. (2008). The critical importance of retrieval for learning. _Science, 319_, 966-968. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2008_Karpicke_Roediger_Science.pdf)
-  [[Supporting Online Material]](http://learninglab.psych.purdue.edu/downloads/2008_Karpicke_Roediger_ScienceSupportingMaterial.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2008_Karpicke_Roediger_Science.pdf){target="_blank" rel="noreferrer"}
+  [[Supporting Online Material]](http://learninglab.psych.purdue.edu/downloads/2008_Karpicke_Roediger_ScienceSupportingMaterial.pdf){target="_blank" rel="noreferrer"}
 
 - Roediger, H. L. &amp; Karpicke, J. D. (2006). The power of testing memory: Basic research and implications for educational practice. _Perspectives on Psychological Science, 1_, 181-210. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2006_Roediger_Karpicke_Review.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2006_Roediger_Karpicke_Review.pdf){target="_blank" rel="noreferrer"}
 
 - Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. _Psychological Science, 17_, 249-255. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2006_Roediger_Karpicke_PsychSci.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2006_Roediger_Karpicke_PsychSci.pdf){target="_blank" rel="noreferrer"}
 
 ## Mechanisms of Retrieval-Based Learning
 
@@ -48,17 +48,17 @@ In addition to generalizing retrieval practice to educational materials and sett
 Main article on the context theory:
 
 - Karpicke, J. D., Lehman, M., &amp; Aue, W. R. (2014). Retrieval-based learning: An episodic context account. In B. H. Ross (Ed.), _Psychology of Learning and Motivation, Vol. 61_ (pp. 237-284). San Diego, CA: Elsevier Academic Press. <br>
-[[PDF]](http://learninglab.psych.purdue.edu/downloads/2014_Karpicke_Lehman_Aue_PLM.pdf)
+[[PDF]](http://learninglab.psych.purdue.edu/downloads/2014_Karpicke_Lehman_Aue_PLM.pdf){target="_blank" rel="noreferrer"}
 
 Relevant articles:
 
-- Whiffen, J. W., &amp; Karpicke, J. D. (2017). The role of episodic context in retrieval practice effects. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 43_, 1036-1046. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress_Whiffen_Karpicke_JEPLMC.pdf)
+- Whiffen, J. W., &amp; Karpicke, J. D. (2017). The role of episodic context in retrieval practice effects. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 43_, 1036-1046. <br> [[PDF]](http://learninglab.psych.purdue.edu/downloads/inpress_Whiffen_Karpicke_JEPLMC.pdf){target="_blank" rel="noreferrer"}
 
 - Lehman, M., Smith, M. A., &amp; Karpicke, J. D. (2014). Toward an episodic context account of retrieval-based learning: Dissociating retrieval practice and elaboration. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 40_, 1787-1794. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2014_Lehman_Smith_Karpicke_JEPLMC.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2014_Lehman_Smith_Karpicke_JEPLMC.pdf){target="_blank" rel="noreferrer"}
 
 - Karpicke, J. D., &amp; Zaromb, F. M. (2010). Retrieval mode distinguishes the testing effect from the generation effect. _Journal of Memory and Language, 62_, 227-239. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2010_Karpicke_Zaromb_JML.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2010_Karpicke_Zaromb_JML.pdf){target="_blank" rel="noreferrer"}
 
 ## Metacognition and Self-Regulated Learning
 
@@ -67,13 +67,13 @@ Other research in our lab has focused on metacognition, which refers to the abil
 Relevant articles:
 
 - Ariel, R., &amp; Karpicke, J. D. (2018). Improving self-regulated learning with a retrieval practice intervention. _Journal of Experimental Psychology: Applied, 24_, 43-56. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2018_Ariel_Karpicke_JEPA.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2018_Ariel_Karpicke_JEPA.pdf){target="_blank" rel="noreferrer"}
 
 - Karpicke, J. D. (2009). Metacognitive control and strategy selection: Deciding to practice retrieval during learning. _Journal of Experimental Psychology: General, 138_, 469-486. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2009_Karpicke_JEPGeneral.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2009_Karpicke_JEPGeneral.pdf){target="_blank" rel="noreferrer"}
 
 - Karpicke, J. D., Butler, A.C., &amp; Roediger, H. L. (2009). Metacognitive strategies in student learning: Do students practice retrieval when they study on their own? _Memory, 17_, 471-479. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2009_Karpicke_Butler_Roediger.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2009_Karpicke_Butler_Roediger.pdf){target="_blank" rel="noreferrer"}
 
 ## Educational Applications of Retrieval-Based Learning
 
@@ -82,13 +82,13 @@ A major focus of our research has been on applying retrieval practice to improve
 Relevant articles:
 
 - Smith, M. A., Blunt, J. R., Whiffen, J. W., &amp; Karpicke, J. D. (2016). Does providing prompts during retrieval practice improve learning? _Applied Cognitive Psychology, 30_, 544-553. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2016_Smith_Blunt_Whiffen_Karpicke_ACP.pd)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2016_Smith_Blunt_Whiffen_Karpicke_ACP.pd){target="_blank" rel="noreferrer"}
 
 - Weinstein, Y., Nunes, L. D., &amp; Karpicke, J. D. (2016). On the placement of practice questions during study. _Journal of Experimental Psychology: Applied, 22_, 72-84. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2016_Weinstein_Nunes_Karpicke_JEPA.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2016_Weinstein_Nunes_Karpicke_JEPA.pdf){target="_blank" rel="noreferrer"}
 
 - Grimaldi, P. J., &amp; Karpicke, J. D. (2014). Guided retrieval practice of educational materials using automated scoring. _Journal of Educational Psychology, 106_, 58-68.<br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2014_Grimaldi_Karpicke_JEDP.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2014_Grimaldi_Karpicke_JEDP.pdf){target="_blank" rel="noreferrer"}
 
 - Smith, M. A., &amp; Karpicke, J. D. (2014). Retrieval practice with short-answer, multiple-choice, and hybrid tests. _Memory, 22_, 784-802. <br>
-  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2014_Smith_Karpicke_Memory.pdf)
+  [[PDF]](http://learninglab.psych.purdue.edu/downloads/2014_Smith_Karpicke_Memory.pdf){target="_blank" rel="noreferrer"}

@@ -4,7 +4,7 @@
 
 ## Links
 
-The Purdue IRB website is here: https://www.irb.purdue.edu/
+The Purdue IRB website is here: <https://www.irb.purdue.edu/>{target="_blank" rel="noreferrer"}
 
 ## Importance of the IRB
 

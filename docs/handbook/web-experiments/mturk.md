@@ -4,14 +4,14 @@
 
 ## Links
 
-* TurkPrime: <https://www.turkprime.com>
-* Amazon Mechanical Turk: <https://www.mturk.com>
+* TurkPrime: <https://www.turkprime.com>{target="_blank" rel="noreferrer"}
+* Amazon Mechanical Turk: <https://www.mturk.com>{target="_blank" rel="noreferrer"}
 
 (Other possible links)
 
 * TurkOpticon (is this still in use?)
 * TurkerView 
-* Guidelines for Academic Requesters: <http://guidelines.wearedynamo.org/>
+* Guidelines for Academic Requesters: <http://guidelines.wearedynamo.org/>{target="_blank" rel="noreferrer"}
 * Note that the TurkPrime documentation is good
 * Note that our lab is A2Z7DRFCANJ7P
 * mturkcrowd.com
@@ -19,7 +19,7 @@
 
 ## Overview 
 
-[Amazon Mechanical Turk (MTurk)](https://www.mturk.com) is an online marketplace that can be used to collect data online quickly and cheaply. To manage and run MTurk experiments, we use [TurkPrime](https://www.turkprime.com), a third-party website that provides a user-friendly interface. 
+[Amazon Mechanical Turk (MTurk)](https://www.mturk.com){target="_blank" rel="noreferrer"} is an online marketplace that can be used to collect data online quickly and cheaply. To manage and run MTurk experiments, we use [TurkPrime](https://www.turkprime.com){target="_blank" rel="noreferrer"}, a third-party website that provides a user-friendly interface. 
 
 ## Before Using MTurk (OLD) (or, Preparing an MTurk Experiment)
 
@@ -36,7 +36,7 @@ Finally, you will need to estimate the cost of the experiment and submit a reque
 <mark>**NOTE: This section might be its own page**</mark><br>
 <mark>**TODO: There seem to be two methods: copying an old HIT, and creating a new one from scratch. Need to distinguish.**</mark>
 
-This section describes general procedures for setting up a new experiment on M-Turk with [TurkPrime](https://www.turkprime.com). Log in to TurkPrime with the lab's email account. On the menu bar, click "Create a Study", then "MTurk Toolkit", <mark>IS THIS OUTDATED? then "Run a study on your own MTurk account"</mark>. This will take you to the MTurk Toolkit, a form with 9 pages for entering the details of your HIT. 
+This section describes general procedures for setting up a new experiment on M-Turk with [TurkPrime](https://www.turkprime.com){target="_blank" rel="noreferrer"}. Log in to TurkPrime with the lab's email account. On the menu bar, click "Create a Study", then "MTurk Toolkit", <mark>IS THIS OUTDATED? then "Run a study on your own MTurk account"</mark>. This will take you to the MTurk Toolkit, a form with 9 pages for entering the details of your HIT. 
 
 ### Creating a New Experiment from Scratch
 

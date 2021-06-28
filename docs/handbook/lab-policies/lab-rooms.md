@@ -4,7 +4,7 @@
 
 - Room 3131 is the lab's main **work room**. All paper files associated with each project are stored in this room. The lab supply cabinet is located in this room.
 - Rooms 3133, 3135, and 3139 are **testing rooms** for running experiments.
-- Room 3132 is a shared testing room that any researcher in the department can reserve and use. The link to reserve the room is <http://sp.itap.purdue.edu/hhs/psych/events/>. 
+- Room 3132 is a shared testing room that any researcher in the department can reserve and use. The link to reserve the room is <http://sp.itap.purdue.edu/hhs/psych/events/>{target="_blank" rel="noreferrer"}. 
 
 ## Using Google Calendars to Reserve Rooms
 

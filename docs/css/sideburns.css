@@ -1,0 +1,60 @@
+/* 
+  This css makes the Navigation and Table of Contents appear "outside" the content width
+  Actually, it expands the max-widths, makes the Nav and Toc invisible but still take space
+  and adds padding to the AppBar so it appears that the sidebars are outside
+*/
+
+/* Resize content smaller */
+.md-grid {
+  max-width: 74rem;
+}
+.md-sidebar {
+  max-width: 12rem;
+  margin:0;
+}
+
+/* Make sidebars stationary instead of scroll sticky */
+.md-main__inner {
+  margin-top: 0;
+}
+.md-content {
+  margin-top: 1.5rem;
+}
+.md-sidebar {
+  /* 1.5 to align with content + 1.2 b/c height set to 0 */
+  padding-top: 2.7rem;
+}
+
+
+/* Hide the Toc at same breakpoint as Navigation */
+/* :not([hidden]) is just more specific so css is applied */
+.md-sidebar--secondary:not([hidden]) {
+  display: none;
+}
+@media screen and (min-width: 76.1875em) {
+  .md-content {
+    max-width: 50rem;
+  }
+  .md-sidebar--secondary:not([hidden]) {
+    display: block;
+  }
+
+  /* Get AppBar to align when Nav and Toc in DOM */
+  /* Sidebar width + 0.2rem right-left side margin*/
+  .md-header__inner {
+    padding-left: 12.4rem;
+    padding-right: 12.4rem;
+  }
+  /* Hide but still take up space */
+  .md-sidebar:is([hidden]) {
+    visibility: hidden;
+    display: block;
+  }
+
+  /* Make content line up consistently */
+  /* Overrides weird, randomly changing, half implemented styles from mkdocs/material */
+  .md-content__inner {
+    margin-left: 1.2rem;
+    margin-right: 1.2rem;
+  }
+}

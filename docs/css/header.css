@@ -61,7 +61,7 @@
 }
 
 .active {
-  color: var(--md-accent-fg-color);
+  color: var(--md-typeset-a-color);
 }
 
 @media (min-width: 992px) {
