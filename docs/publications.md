@@ -7,16 +7,21 @@ hide:
 
 ## In Press
 
-- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (in press). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review.* <br> [[PDF]](../downloads/inpress_Ariel_Karpicke_Witherby_Tauber_EDPR.pdf){target="_blank" rel="noreferrer"}
-
 - Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), *Oxford Handbook of Human Memory, Volume II: Applications.* Oxford University Press. <br> [[PDF]](../downloads/inpress_Karpicke_ODay_Oxford_Handbook.pdf){target="_blank" rel="noreferrer"}
 
 - O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.* <br> [[PDF]](../downloads/inpress_ODay_Karpicke_JEDP.pdf){target="_blank" rel="noreferrer"}
 
+## 2021
+
+- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (2021). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review, 33*, 693-712. <br> [[PDF]](../downloads/2021_Ariel_Karpicke_Witherby_Tauber_EDPR.pdf){target="_blank" rel="noreferrer"}
+
+- Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., Weber, C., Haebig, E., & Kueser, J. B., Souto, S., & Krok, W. (2021). A multi-study examination of the role of repeated spaced retrieval in the word learning of children with developmental language disorder. *Journal of Neurodevelopmental Disorders, 13*, 20: 1-16. <br> [[PDF]](../downloads/2021_Leonard_et_al_JNDD.pdf){target="_blank" rel="noreferrer"}
+
+- Martella, A. M., Yatcilla, J. K., Martella, R. C., Marchand-Martella, N. E., Ozen, Z., Karatas, T., Park, H. H., Simpson, A., & Karpicke, J. D. (2021). Quotation accuracy matters: An examination of how an influential meta-analysis on active learning has been cited. *Review of Educational Research, 91*, 272-308. <br> [[PDF]](../downloads/2021_Martella_et_al_RER.pdf){target="_blank" rel="noreferrer"}
 
 ## 2020
 
-- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (2020). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. *Journal of Speech, Language, and Hearing Research.* <br> [[PDF]](../downloads/2020_Leonard_et_al_JSLHR.pdf){target="_blank" rel="noreferrer"}*
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (2020). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. *Journal of Speech, Language, and Hearing Research, 63*, 2763-2776. <br> [[PDF]](../downloads/2020_Leonard_et_al_JSLHR.pdf){target="_blank" rel="noreferrer"}
 
 - Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36. <br> [[PDF]](../downloads/2020_Karpicke_Coverdale_JARMAC.pdf){target="_blank" rel="noreferrer"}
 
