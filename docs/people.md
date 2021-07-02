@@ -10,7 +10,7 @@ hide:
     <img src="../img/karpicke.jpg" class="people-img">
     <div>
     <h2>Jeffrey D. Karpicke</h2>
-    <p>Principal Investigator</p>
+    <h4>Principal Investigator</h4>
     <a href="../downloads/Karpicke_Vita.pdf" rel="noreferrer" target="_blank">CV</a> •
     <a href="https://scholar.google.com/citations?user=5t5lgCgAAAAJ" rel="noreferrer" target="_blank">Google Scholar</a>
     <p>I'm interested in all things related to the science of learning, education, and technology. Currently, our lab is pursuing
@@ -29,7 +29,7 @@ hide:
     <img src="../img/skarpicke.jpg" class="people-img">
     <div>
     <h2>Stephanie Karpicke</h2>
-    <p>Research Coordinator</p>
+    <h4>Research Coordinator</h4>
     <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
     </div>
 </div>
@@ -38,33 +38,44 @@ hide:
     <img src="../img/coverdale.jpg" class="people-img">
     <div>
     <h2>Michelle E. Coverdale</h2>
-    <p>Postdoctoral Research Associate</p>
+    <h4>Postdoctoral Research Associate</h4>
     <p>I'm interested in the studying effects of choices on memory and in applying basic memory research to understaning and improving learning and memory in educational settings. </p>
     </div>
 </div>
 
 <div class="people-row">
-    <img src="../img/kline.jpg" class="people-img">
+    <img src="../img/martella.jpg" class="people-img">
     <div>
-    <h2>Breanne Kline</h2>
-    <p>Research Technician</p>
-    <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
+    <h2>Amedee Martella</h2>
+    <h4>Graduate Student</h4>
+    <p>Paragraph here</p>
     </div>
 </div>
+
 <div class="people-row">
-    <img src="../img/arpasi.jpg" class="people-img">
+    <img src="../img/oday.jpg" class="people-img">
     <div>
-    <h2>Andrew Arpasi</h2>
-    <p>Developer</p>
-    <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
+    <h2>Garrett O'Day</h2>
+    <h4>Graduate Student</h4>
+    <p>Paragraph</p>
     </div>
 </div>
+
 <div class="people-row">
-    <img src="../img/vijayan.jpg" class="people-img">
+    <img src="../img/person-placeholder.png" class="people-img">
     <div>
-    <h2>Vishnu Vijayan</h2>
-    <p>Developer</p>
-    <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
+    <h2>Anthony Kowalkowski</h2>
+    <h4>Research Technician</h4>
+    <p>Paragraph</p>
+    </div>
+</div>
+
+<div class="people-row">
+    <img src="../img/person-placeholder.png" class="people-img">
+    <div>
+    <h2>Kyle Zheng</h2>
+    <h4>Programmer</h4>
+    <p>Paragraph -- also link to website</p>
     </div>
 </div>
 
