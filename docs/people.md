@@ -10,7 +10,7 @@ hide:
     <img src="../img/karpicke.jpg" class="people-img">
     <div>
     <h2>Jeffrey D. Karpicke</h2>
-    <h4>Principal Investigator</h4>
+    <p>Principal Investigator</p>
     <a href="../downloads/Karpicke_Vita.pdf" rel="noreferrer" target="_blank">CV</a> •
     <a href="https://scholar.google.com/citations?user=5t5lgCgAAAAJ" rel="noreferrer" target="_blank">Google Scholar</a>
     <p>I'm interested in all things related to the science of learning, education, and technology. Currently, our lab is pursuing
@@ -29,7 +29,7 @@ hide:
     <img src="../img/skarpicke.jpg" class="people-img">
     <div>
     <h2>Stephanie Karpicke</h2>
-    <h4>Research Coordinator</h4>
+    <p>Research Coordinator</p>
     <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
     </div>
 </div>
@@ -38,7 +38,7 @@ hide:
     <img src="../img/coverdale.jpg" class="people-img">
     <div>
     <h2>Michelle E. Coverdale</h2>
-    <h4>Postdoctoral Research Associate</h4>
+    <p>Postdoctoral Research Associate</p>
     <p>I'm interested in the studying effects of choices on memory and in applying basic memory research to understaning and improving learning and memory in educational settings. </p>
     </div>
 </div>
@@ -47,7 +47,7 @@ hide:
     <img src="../img/kline.jpg" class="people-img">
     <div>
     <h2>Breanne Kline</h2>
-    <h4>Research Technician</h4>
+    <p>Research Technician</p>
     <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
     </div>
 </div>
@@ -55,7 +55,7 @@ hide:
     <img src="../img/arpasi.jpg" class="people-img">
     <div>
     <h2>Andrew Arpasi</h2>
-    <h4>Developer</h4>
+    <p>Developer</p>
     <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
     </div>
 </div>
@@ -63,7 +63,7 @@ hide:
     <img src="../img/vijayan.jpg" class="people-img">
     <div>
     <h2>Vishnu Vijayan</h2>
-    <h4>Developer</h4>
+    <p>Developer</p>
     <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
     </div>
 </div>
