@@ -11,7 +11,7 @@ hide:
     <div>
     <h2>Jeffrey D. Karpicke</h2>
     <h4>Principal Investigator</h4>
-    <a href="../downloads/Karpicke_Vita.pdf" rel="noreferrer" target="_blank">CV</a> •
+    <a href="../downloads/Karpicke_CV.pdf" rel="noreferrer" target="_blank">CV</a> •
     <a href="https://scholar.google.com/citations?user=5t5lgCgAAAAJ" rel="noreferrer" target="_blank">Google Scholar</a>
     <p>I'm interested in all things related to the science of learning, education, and technology. Currently, our lab is pursuing
     research projects in the following areas:
@@ -48,7 +48,8 @@ hide:
     <div>
     <h2>Amedee Martella</h2>
     <h4>Graduate Student</h4>
-    <p>Paragraph here</p>
+    <a href="../downloads/Martella_CV.pdf" rel="noreferrer" target="_blank">CV</a>
+    <p>My research interests center on instructional design and improving the teaching of STEM disciplines in grades K-16 through effective pedagogical practices. More specifically, my research agenda is focused on (a) evaluating the active learning construct, (b) determining the optimal dosage amount and schedule of active learning and lecture, (c) applying cognitive psychology principles to pedagogy, and (d) assessing the quality of the educational literature. </p>
     </div>
 </div>
 
