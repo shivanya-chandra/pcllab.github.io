@@ -7,6 +7,8 @@ hide:
 
 ## In Press
 
+- Haebig, E., Leonard, L. B., Deevy, P., Schumaker, J., Karpicke, J. D., & Weber, C. (in press). The neural underpinnings of processing newly taught semantic information: The role of retrieval practice. *Journal of Speech, Language, and Hearing Research.* <br> [[PDF]](../downloads/inpress_Haebig_et_al_JSLHR.pdf){target="_blank" rel="noreferrer"}
+
 - Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), *Oxford Handbook of Human Memory, Volume II: Applications.* Oxford University Press. <br> [[PDF]](../downloads/inpress_Karpicke_ODay_Oxford_Handbook.pdf){target="_blank" rel="noreferrer"}
 
 - O'Day, G. M., & Karpicke, J. D. (in press). Comparing and combining retrieval practice and concept mapping. *Journal of Educational Psychology.* <br> [[PDF]](../downloads/inpress_ODay_Karpicke_JEDP.pdf){target="_blank" rel="noreferrer"}
