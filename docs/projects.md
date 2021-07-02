@@ -41,6 +41,7 @@ Foundational articles:
 - Roediger, H. L., &amp; Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. _Psychological Science, 17_, 249-255. <br>
   [[PDF]](http://learninglab.psych.purdue.edu/downloads/2006_Roediger_Karpicke_PsychSci.pdf){target="_blank" rel="noreferrer"}
 
+
 ## Mechanisms of Retrieval-Based Learning
 
 In addition to generalizing retrieval practice to educational materials and settings, we are interested in delineating the mechanisms of retrieval-based learning. The theoretical account we are currently developing is known as the episodic context account. Briefly, the theory proposes that when learners engage in retrieval practice, they update the context representation associated with the retrieved knowledge. The updated context representation produced via retrieval practice can then serve as an effective retrieval cue when learners need to retrieve and reconstruct knowledge again in the future.
@@ -60,6 +61,24 @@ Relevant articles:
 - Karpicke, J. D., &amp; Zaromb, F. M. (2010). Retrieval mode distinguishes the testing effect from the generation effect. _Journal of Memory and Language, 62_, 227-239. <br>
   [[PDF]](http://learninglab.psych.purdue.edu/downloads/2010_Karpicke_Zaromb_JML.pdf){target="_blank" rel="noreferrer"}
 
+
+## Retrieval-Based Word Learning in Children with Developmental Language Disorder
+
+Paragraph.
+
+Relevant articles:
+
+- Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S.,  Kueser, J., & Krok, W. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. *Journal of Speech, Language, and Hearing Research, 62*, 932-943. <br> [[PDF]](../downloads/2019_Leonard_et_al_JSLHR_Part_1.pdf){target="_blank" rel="noreferrer"}
+
+- Haebig, E., Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Usler, E., Kueser, J., Souto, S., Krok, W., & Weber, C. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder II: A comparison of retrieval schedules. *Journal of Speech, Language, and Hearing Research, 62*, 944-964. <br> [[PDF]](../downloads/2019_Haebig_et_al_JSLHR_Part_2.pdf){target="_blank" rel="noreferrer"}
+
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. *Journal of Speech, Language, and Hearing Research, 62*, 4433-4449. <br> [[PDF]](../downloads/2019_Leonard_et_al_JSLHR_Adjectives.pdf){target="_blank" rel="noreferrer"}
+
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (2020). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. *Journal of Speech, Language, and Hearing Research, 63*, 2763-2776. <br> [[PDF]](../downloads/2020_Leonard_et_al_JSLHR.pdf){target="_blank" rel="noreferrer"}
+
+- Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., Weber, C., Haebig, E., & Kueser, J. B., Souto, S., & Krok, W. (2021). A multi-study examination of the role of repeated spaced retrieval in the word learning of children with developmental language disorder. *Journal of Neurodevelopmental Disorders, 13*, 20: 1-16. <br> [[PDF]](../downloads/2021_Leonard_et_al_JNDD.pdf){target="_blank" rel="noreferrer"}
+
+
 ## Metacognition and Self-Regulated Learning
 
 Other research in our lab has focused on metacognition, which refers to the ability to monitor one's own learning and make effective decisions to improve learning. Our research on metacognition has established that many learners engage in relatively passive strategies, like repetitive reading, much more frequently than they do active strategies, like retrieval practice. Across a wide range of studies, we have examined several factors that influence peoples' judgments about their own learning and factors that influence the choices they make when they regulate their learning.
@@ -74,6 +93,7 @@ Relevant articles:
 
 - Karpicke, J. D., Butler, A.C., &amp; Roediger, H. L. (2009). Metacognitive strategies in student learning: Do students practice retrieval when they study on their own? _Memory, 17_, 471-479. <br>
   [[PDF]](http://learninglab.psych.purdue.edu/downloads/2009_Karpicke_Butler_Roediger.pdf){target="_blank" rel="noreferrer"}
+
 
 ## Educational Applications of Retrieval-Based Learning
 
