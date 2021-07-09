@@ -113,12 +113,12 @@ Research Associate<br>
 Horizon Research, Inc.<br>
 M.S. Student (2012-2016)<br>
 
-[Janell Blunt](https://anderson.edu/humanities-behavioral-science/faculty/psychology/blunt){target="_blank" rel="noreferrer"}<br>
+[Janell Blunt](https://anderson.edu/staff/dr-janell-blunt/){target="_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 Anderson University<br>
 Ph.D. Student (2011-2015)<br>
 
-[Megan Sumeracki](http://www.learningscientists.org/){target="_blank" rel="noreferrer"}<br>
+[Megan Sumeracki](https://www.ric.edu/people-directory/megan-sumeracki){target="_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 Rhode Island College<br>
 Ph.D. Student (2011-2014)<br>
@@ -133,7 +133,7 @@ Director of Research<br>
 OpenStax College and Rice University<br>
 Ph.D. Student (2008-2014)<br>
 
-[Althea Kaminske](https://www.sbu.edu/academics/psychology/faculty-and-staff/bauernschmidt-althea){target="_blank" rel="noreferrer"}<br>
+[Althea Kaminske](https://www.sbu.edu/academics/faculty/kaminske-althea-need){target="_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 St. Bonaventure University<br>
 Ph.D. Student (2008-2013)<br>
