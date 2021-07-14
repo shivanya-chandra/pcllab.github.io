@@ -4,10 +4,16 @@
   align-items: center;
   margin-bottom: 2rem;
 }
+.people-row > * {
+  flex: 1;
+}
 .people-img {
   object-fit: cover;
   margin-bottom: 1rem;
-  width: 200px;
+}
+/* More specific than .md-typset img rules */
+.md-typeset .people-img{
+  max-width: 200px;
 }
 
 @media (min-width:576px) {

@@ -72,11 +72,12 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/person-placeholder.png" class="people-img">
+    <img src="../img/zheng.jpg" class="people-img">
     <div>
     <h2>Kyle Zheng</h2>
     <h4>Programmer</h4>
-    <p>Paragraph -- also link to website</p>
+    <a href="https://kylezhe.ng" rel="noreferrer" target="_blank">Website</a>
+    <p>I help researchers program online experiments and maintain the relevant websites and software. As an undergraduate computer science student, my interests lie in creating code that can be reused and maintained.</p>
     </div>
 </div>
 
