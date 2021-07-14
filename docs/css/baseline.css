@@ -27,7 +27,6 @@
 /* Typography Overrides */
 .md-typeset :is(h2, h3, h4, h5, h6) {
   margin: 0;
-  margin-top: 5rem;
 }
 .md-typeset h1 {
   color: var(--md-primary-fg-color)
