@@ -48,7 +48,8 @@ hide:
     <div>
     <h2>Amedee Martella</h2>
     <h4>Graduate Student</h4>
-    <a href="../downloads/Martella_CV.pdf" rel="noreferrer" target="_blank">CV</a>
+    <a href="../downloads/Martella_CV.pdf" rel="noreferrer" target="_blank">CV</a> •
+    <a href="https://amedeemartella.wixsite.com/my-site" rel="noreferrer" target="_blank">Website</a>
     <p>My research interests center on instructional design and improving the teaching of STEM disciplines in grades K-16 through effective pedagogical practices. More specifically, my research agenda is focused on (a) evaluating the active learning construct, (b) determining the optimal dosage amount and schedule of active learning and lecture, (c) applying cognitive psychology principles to pedagogy, and (d) assessing the quality of the educational literature. </p>
     </div>
 </div>
@@ -63,7 +64,7 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/person-placeholder.png" class="people-img">
+    <img src="../img/kowalkowski.jpg" class="people-img">
     <div>
     <h2>Anthony Kowalkowski</h2>
     <h4>Research Technician</h4>
