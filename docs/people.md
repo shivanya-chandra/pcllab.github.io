@@ -102,7 +102,7 @@ Postdoctoral Research Associate (2014-2018)<br>
 
 **Joseph Bedwell**<br>
 User Experience Researcher<br>
-Amazon<br>
+Indeed.com<br>
 M.S. Student (2016-2018)<br>
 
 **Ludmila Nunes**<br>
@@ -111,8 +111,8 @@ Association for Psychological Science<br>
 Postdoctoral Research Associate (2013-2016)<br>
 
 [Joshua Whiffen](https://www.linkedin.com/in/joshua-whiffen-230618122){target="_blank" rel="noreferrer"}<br>
-Research Associate<br>
-Horizon Research, Inc.<br>
+Data Engineer<br>
+Credit Suisse<<br>
 M.S. Student (2012-2016)<br>
 
 [Janell Blunt](https://anderson.edu/staff/dr-janell-blunt/){target="_blank" rel="noreferrer"}<br>
@@ -131,8 +131,8 @@ Lynn University<br>
 Postdoctoral Research Associate (2011-2014)<br>
 
 [Phillip Grimaldi](http://www.phillipgrimaldi.com/){target="_blank" rel="noreferrer"}<br>
-Director of Research<br>
-OpenStax College and Rice University<br>
+Research Scientist<br>
+Khan Academy<br>
 Ph.D. Student (2008-2014)<br>
 
 [Althea Kaminske](https://www.sbu.edu/academics/faculty/kaminske-althea-need){target="_blank" rel="noreferrer"}<br>
