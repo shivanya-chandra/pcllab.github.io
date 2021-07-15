@@ -68,7 +68,7 @@ hide:
     <div>
     <h2>Anthony Kowalkowski</h2>
     <h4>Research Technician</h4>
-    <p>Paragraph</p>
+    <p>I am broadly interested in studying retrieval-based learning and applying cognitive psychology research to educational environments.</p>
     </div>
 </div>
 
