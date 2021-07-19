@@ -48,7 +48,8 @@ hide:
     <div>
     <h2>Amedee Martella</h2>
     <h4>Graduate Student</h4>
-    <a href="../downloads/Martella_CV.pdf" rel="noreferrer" target="_blank">CV</a>
+    <a href="../downloads/Martella_CV.pdf" rel="noreferrer" target="_blank">CV</a> •
+    <a href="https://amedeemartella.wixsite.com/my-site" rel="noreferrer" target="_blank">Website</a>
     <p>My research interests center on instructional design and improving the teaching of STEM disciplines in grades K-16 through effective pedagogical practices. More specifically, my research agenda is focused on (a) evaluating the active learning construct, (b) determining the optimal dosage amount and schedule of active learning and lecture, (c) applying cognitive psychology principles to pedagogy, and (d) assessing the quality of the educational literature. </p>
     </div>
 </div>
@@ -63,11 +64,11 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/person-placeholder.png" class="people-img">
+    <img src="../img/kowalkowski.jpg" class="people-img">
     <div>
     <h2>Anthony Kowalkowski</h2>
     <h4>Research Technician</h4>
-    <p>Paragraph</p>
+    <p>I am broadly interested in studying retrieval-based learning and applying cognitive psychology research to educational environments.</p>
     </div>
 </div>
 
@@ -101,7 +102,7 @@ Postdoctoral Research Associate (2014-2018)<br>
 
 **Joseph Bedwell**<br>
 User Experience Researcher<br>
-Amazon<br>
+Indeed.com<br>
 M.S. Student (2016-2018)<br>
 
 **Ludmila Nunes**<br>
@@ -110,8 +111,8 @@ Association for Psychological Science<br>
 Postdoctoral Research Associate (2013-2016)<br>
 
 [Joshua Whiffen](https://www.linkedin.com/in/joshua-whiffen-230618122){target="_blank" rel="noreferrer"}<br>
-Research Associate<br>
-Horizon Research, Inc.<br>
+Data Engineer<br>
+Credit Suisse<<br>
 M.S. Student (2012-2016)<br>
 
 [Janell Blunt](https://anderson.edu/staff/dr-janell-blunt/){target="_blank" rel="noreferrer"}<br>
@@ -130,8 +131,8 @@ Lynn University<br>
 Postdoctoral Research Associate (2011-2014)<br>
 
 [Phillip Grimaldi](http://www.phillipgrimaldi.com/){target="_blank" rel="noreferrer"}<br>
-Director of Research<br>
-OpenStax College and Rice University<br>
+Research Scientist<br>
+Khan Academy<br>
 Ph.D. Student (2008-2014)<br>
 
 [Althea Kaminske](https://www.sbu.edu/academics/faculty/kaminske-althea-need){target="_blank" rel="noreferrer"}<br>
