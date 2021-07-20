@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+  - footerNavigation
 ---
 
 # Publications
