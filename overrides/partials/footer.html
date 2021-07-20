@@ -1,7 +1,7 @@
 <footer class="md-footer">
   <!-- Link to previous and/or next page -->
-  {% if not page.meta or page.meta.hide and "footerNavigation" not in page.meta.hide %}
-  {% if page.previous_page or page.next_page%}
+  {% if not page.meta or page.meta.hide and "footerNavigation" not in
+  page.meta.hide %} {% if page.previous_page or page.next_page%}
   <nav
     class="md-footer__inner md-grid"
     aria-label="{{ lang.t('footer.title') }}"
@@ -46,10 +46,11 @@
     </a>
     {% endif %}
   </nav>
-  {% endif %}
-  {% endif %}
-  <div class="md-footer-meta__inner md-grid" style="justify-content: center">
-    <p class="footer-text" style="font-size: 14px">{{ config.copyright }}</p>
+  {% endif %} {% endif %}
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid" style="justify-content: center">
+      <p class="footer-text" style="font-size: 14px">{{ config.copyright }}</p>
+    </div>
   </div>
 </footer>
 <!-- Based directly on default footer but with centered text container-->

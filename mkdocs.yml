@@ -14,7 +14,8 @@ extra_css:
   - css/baseline.css
   - css/people.css
   - css/header.css
-  - css/sideburns.css
+  - css/footer.css
+  - css/sidebars.css
 extra_javascript:
   - js/header.js
 
