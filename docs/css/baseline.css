@@ -31,3 +31,13 @@
 .md-typeset h1 {
   color: var(--md-primary-fg-color)
 }
+
+
+/* .md-typeset h1:target:before, .md-typeset h2:target:before, .md-typeset h3:target:before {
+  margin:0;
+  padding:0;
+}
+
+.md-typeset h1:target, .md-typeset h2:target, .md-typeset h3:target {
+  scroll-margin-top: 50px;
+} */

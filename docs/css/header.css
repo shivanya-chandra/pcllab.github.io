@@ -1,8 +1,10 @@
+/* This causes TOC highlighting wrong section, and styles not working in chrome */
+/* Leaving here for future reference */
+/* .md-header:not(:last-of-type) {
+  position: unset; // Only last navbar is sticky if there are multiple
+} */
 
-/* Only last navbar is sticky if there are multiple */
-.md-header:not(:last-of-type) {
-  position: unset;
-}
+
 /* Alternate navbar color for clarity */
 .md-header:nth-child(even){
   background-color: var(--pcllab-dark-bg-color);

@@ -45,7 +45,7 @@
   .md-sidebar {
     /* There is a broken inline style `top` for the sidebars in Chrome, check mkdocs material for fix? */
     /* This is a temporary fix to get sidebars functional in Chrome */
-    top: 48px !important;
+    /* top: 48px !important; */
   }
 
   /* Get AppBar to align when Nav and Toc in DOM */
