@@ -7,6 +7,9 @@
 .people-row > * {
   flex: 1;
 }
+.people-row h4 {
+  font-weight: 500;
+}
 .people-img {
   object-fit: cover;
   margin-bottom: 1rem;
@@ -15,6 +18,7 @@
 .md-typeset .people-img{
   max-width: 200px;
 }
+
 
 @media (min-width:576px) {
   .people-row {

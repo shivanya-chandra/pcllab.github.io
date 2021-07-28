@@ -38,7 +38,7 @@ nav:
   - Handbook:
       - Introduction:
           - Home: handbook/index.md
-          - Getting on Board: handbook/introductions/getting-on-board.md
+          - Getting on Board: handbook/introduction/getting-on-board.md
           - Links: handbook/introduction/links.md
           - Purpose: handbook/introduction/purpose.md
           - Funding: handbook/introduction/funding.md
