@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 ## Lab Keys
 
 2.	Postdoctoral researchers, graduate students, and research technicians will have a key to the lab and perhaps other keys (e.g., a building key) provided by Phyllis (PRCE 385).

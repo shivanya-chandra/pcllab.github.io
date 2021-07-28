@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Lab Procedures
 
 

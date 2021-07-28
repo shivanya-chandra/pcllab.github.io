@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 ## Handling Paper and Electronic Files
 
 1.	All paper files associated with all experiments and projects must be stored in the large file cabinet in the work room (3131).

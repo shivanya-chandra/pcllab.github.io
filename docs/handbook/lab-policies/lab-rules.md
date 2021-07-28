@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Lab Rules
 
 There are a few important rules for working in the lab:

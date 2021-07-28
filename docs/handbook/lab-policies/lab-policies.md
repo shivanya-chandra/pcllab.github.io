@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Lab Policies
 
 This section contains policies about working in the lab on a day to day basis, including things like using rooms, using computers, handling files, getting supplies, and more. These policies help ensure that everyone is coordinated and that everything in the lab is running in a systematic way. 

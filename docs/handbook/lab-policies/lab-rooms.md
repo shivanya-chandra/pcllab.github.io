@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Lab Rooms
 
 ## Overview of Rooms in the Lab

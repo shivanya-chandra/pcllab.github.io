@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 ## Getting Supplies, Printing, and Making Copies
 
 1.	Supply Cabinet. Our lab's supply cabinet is in the work room (3131). There you can find paper, pens, cleaning supplies, and other supplies. If the supply cabinet is running low on an item, tell someone in the lab (a postdoc, graduate student, or research technician). If we are running short on any supplies, please get more from Phyllis (PRCE 385).
