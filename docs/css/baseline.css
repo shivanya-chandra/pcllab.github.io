@@ -29,6 +29,10 @@
 /* Typography Overrides */
 .md-typeset :is(h2, h3, h4, h5, h6) {
   margin: 0;
+
+  /* These are likely temporary for showing */
+  margin-top: -15em;
+  padding-top: 15em;
 }
 .md-typeset h1 {
   color: var(--md-primary-fg-color)
