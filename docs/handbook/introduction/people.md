@@ -1,7 +1,6 @@
 # People and Roles
 
 * **Principal Investigator.** Jeffrey D. Karpicke is the Principal Investigator of the lab. I am the one writing this handbook. My job is to oversee all aspects of the lab, supervise all people in the lab, and oversee all projects in the lab. 
-* **Research Coordinator.** The lab's research coordinator is Stephanie Karpicke. Her primary responsibilities involve coordinating our lab's research in K-12 schools.
 * **Postdoctoral Researchers and Graduate Students.** Postdoctoral researchers and graduate students are responsible for leading multiple research projects in the lab and overseeing all phases of projects.  
 * **Research Technicians.** Research Technicians are students with prior research experience who are hired after completing their Bachelor's degree. These students assist with completing several aspects of research projects. Specific responsibilities include testing subjects (collecting data), scoring and entering data, and creating experimental materials.
 * **Programmers.** Programmers in the lab have specific expertise in writing computer programs and creating additional software to run experiments. 
