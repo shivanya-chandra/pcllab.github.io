@@ -20,4 +20,4 @@ hide:
 
 - Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. _Journal of Speech, Language, and Hearing Research, 62_, 4433-4449.
 
-<div style="text-align: center; margin-bottom: 4rem"><a href="./publications/">See all publications</a></div>
+<div style="text-align: center; margin-bottom: 4rem; font-size:1rem; font-weight:300;"><a href="./publications/">See all publications</a></div>
