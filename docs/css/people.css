@@ -3,6 +3,9 @@
   flex-direction: column;
   align-items: center;
   margin-bottom: 2rem;
+
+  /* Prevents children ::before from spilling across parents and blocking content */
+  overflow: hidden;
 }
 .people-row > * {
   flex: 1;

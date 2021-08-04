@@ -30,10 +30,25 @@
 .md-typeset :is(h2, h3, h4, h5, h6) {
   margin: 0;
 
-  /* These are likely temporary for showing */
-  margin-top: -15em;
-  padding-top: 15em;
+  /* margin-top: -38vh; */
+  /* padding-top: 38vh; */
 }
+
+/* This offsets all headers ("potential anchors") without effects */
+.md-typeset :is(h2, h3, h4, h5, h6)::before {
+  content: '';
+  display: block;
+  margin-top: -38vh;
+  padding-top: 38vh;
+}
+.md-typeset :is(h2, h3, h4, h5, h6):target::before {
+  content: '';
+  display: block;
+  margin-top: -38vh;
+  padding-top: 38vh;
+}
+
+
 .md-typeset h1 {
   color: var(--md-primary-fg-color)
 }

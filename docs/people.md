@@ -113,7 +113,7 @@ Postdoctoral Research Associate (2013-2016)<br>
 
 [Joshua Whiffen](https://www.linkedin.com/in/joshua-whiffen-230618122){target="_blank" rel="noreferrer"}<br>
 Data Engineer<br>
-Credit Suisse<<br>
+Credit Suisse<br>
 M.S. Student (2012-2016)<br>
 
 [Janell Blunt](https://anderson.edu/staff/dr-janell-blunt/){target="_blank" rel="noreferrer"}<br>
