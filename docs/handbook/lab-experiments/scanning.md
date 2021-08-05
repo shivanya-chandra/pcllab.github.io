@@ -2,7 +2,7 @@
 
 <mark>TODO: Fix details on this page</mark>
 
-When you have completed an experiment, or when you are done running subjects for a while (during the summer), you need to scan and archive your consent forms. You will create a 
+When you have completed an experiment, or when you are done running subjects for a while (during the summer), you need to scan and archive your consent forms.
 
 ## Scanning Consent Forms
 

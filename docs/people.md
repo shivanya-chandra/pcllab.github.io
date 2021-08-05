@@ -122,12 +122,12 @@ Anderson University<br>
 Ph.D. Student (2011-2015)<br>
 
 [Megan Sumeracki](https://www.ric.edu/people-directory/megan-sumeracki){target="_blank" rel="noreferrer"}<br>
-Assistant Professor<br>
+Associate Professor<br>
 Rhode Island College<br>
 Ph.D. Student (2011-2014)<br>
 
 [Melissa Lehman](https://www.lynn.edu/campus-directory/melissa-lehman){target="_blank" rel="noreferrer"}<br>
-Assistant Professor<br>
+Associate Professor<br>
 Lynn University<br>
 Postdoctoral Research Associate (2011-2014)<br>
 
@@ -137,7 +137,7 @@ Khan Academy<br>
 Ph.D. Student (2008-2014)<br>
 
 [Althea Kaminske](https://www.sbu.edu/academics/faculty/kaminske-althea-need){target="_blank" rel="noreferrer"}<br>
-Assistant Professor<br>
+Associate Professor<br>
 St. Bonaventure University<br>
 Ph.D. Student (2008-2013)<br>
 <br>

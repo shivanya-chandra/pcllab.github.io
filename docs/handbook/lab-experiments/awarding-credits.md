@@ -1,10 +1,10 @@
 # Awarding Credits in Sona
 
-After you finish running a session of your experiment, log in to Sona and assign each subject credit or mark them as a "no show".
+After you finish running a session of your experiment, log in to [Sona](https://purdue-psych.sona-systems.com){target="_blank" rel="noreferrer"} and assign each subject credit or mark them as a "no show".
 
 ## How to Award Credits in Sona
 
-* Once you log in to Sona, click on “View uncredited timeslots”
+* Once you log in to [Sona](https://purdue-psych.sona-systems.com){target="_blank" rel="noreferrer"}, click on “View uncredited timeslots”
 * For each timeslot, click “Modify” in the right column. You will see a list of subjects awaiting credit. See the screenshot below.
 * If a subject participated, mark the subject as “Participated”. If necessary, adjust the number of credits granted. 
 * If a subject was a no-show, mark the subject as “Unexcused” or “Excused” in the “No Show” column. 

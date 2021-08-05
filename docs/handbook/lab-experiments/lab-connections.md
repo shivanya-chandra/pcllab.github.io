@@ -18,7 +18,7 @@ The LearningLab server is the lab's secure system for storing documents and data
 
 **On a Mac:**
 
-* From the Finder, select the "Go" menu, then "Connect to Server."
+* From the Finder, select the "Go" menu (at the top of your screen), then "Connect to Server."
 * Enter smb://ironman.psych.purdue.edu/learninglab
 * Log in with your Purdue Career Account
 
