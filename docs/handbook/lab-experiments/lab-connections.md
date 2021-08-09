@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Lab Connections
 
 <mark>TODO: Create more detailed instructions for folder structures on Jarvis</mark>

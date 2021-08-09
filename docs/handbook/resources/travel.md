@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Travel
 
 ## Links

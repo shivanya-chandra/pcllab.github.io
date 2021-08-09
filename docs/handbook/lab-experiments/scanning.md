@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Scanning and Archiving
 
 <mark>TODO: Fix details on this page</mark>

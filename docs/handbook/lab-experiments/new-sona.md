@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Starting a New Sona Experiment
 
 <mark>TODO: Include pre-signed copy below</mark>

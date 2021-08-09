@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Who's Who in the Psych Department
 
 A complete list of department staff members can be found [here](http://www.purdue.edu/hhs/psy/directory/staff/index.html){target="_blank" rel="noreferrer"}.
@@ -30,6 +35,6 @@ A complete list of department staff members can be found [here](http://www.purdu
 | Name                  | Position/Roles                 | Email                     | Office
 | :---------------------| :----------------------------- |:------------------------- |:------
 | Nancy O'Brien         | Graduate Program Coordinator   | <nobrien@purdue.edu>      | PRCE 385B
-| Sue Phebus            | Scheduling, IRB, PSY 120 Pool  | <sphebus@purdue.edu>      | PRCE 385G   
-| Trudie Kopf           | Department Head Assistant      | <kopft@purdue.edu>        | PRCE 389   
-| Phyllis Zickmund      | Building Deputy                | <pzickmun@purdue.edu>     | PRCE 385  
+| Laurie Hitze          | Scheduling, IRB, PSY 120 Pool  | <llhitze@purdue.edu>      | PRCE 385G   
+| Angie Arrigo          | Department Head Assistant      | <arrigo@purdue.edu>       | PRCE 389   
+| Phyllis Zickmund      | Building Deputy                | <pzickmun@purdue.edu>     | PRCE 385E  

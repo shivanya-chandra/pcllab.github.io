@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Preparing a Lab Experiment
 
 <mark>TODO: Include printable PDF checklist</mark>

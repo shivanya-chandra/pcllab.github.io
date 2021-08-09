@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Recommendation Letters
 
 ### Eligibility and Timeline

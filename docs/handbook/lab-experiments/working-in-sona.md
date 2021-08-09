@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Working in Sona
 
 This page describes key things to know about working in [Sona](https://purdue-psych.sona-systems.com){target="_blank" rel="noreferrer"}, including how to post timeslots and retrieve a list of subject names. 

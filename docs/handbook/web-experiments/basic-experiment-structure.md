@@ -1,5 +1,7 @@
 # Basic Experiment Structure
 
+This section outlines the basic structure and components used in most experiments.
+
 ## Login Page
 
 ## Randomize Conditions

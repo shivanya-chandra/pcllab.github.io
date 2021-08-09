@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Awarding Credits in Sona
 
 After you finish running a session of your experiment, log in to [Sona](https://purdue-psych.sona-systems.com){target="_blank" rel="noreferrer"} and assign each subject credit or mark them as a "no show".

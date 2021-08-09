@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Lab IRB Information
 
 <mark>TODO: Update details about reporting requirements</mark>
