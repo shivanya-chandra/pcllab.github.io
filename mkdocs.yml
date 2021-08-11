@@ -75,7 +75,7 @@ nav:
           - Running Experiments: handbook/web-experiments/running-experiments.md
           - General Tips: handbook/web-experiments/general-tips.md
           - MTurk: handbook/web-experiments/mturk.md
-          - MTurk Calculator: handbook/web-experiments/mturk-calculator.md
+          # - MTurk Calculator: handbook/web-experiments/mturk-calculator.md
       - Resources:
           - Who's Who in the Psych Department: handbook/resources/whos-who.md
           - Recommendation Letters: handbook/resources/letters.md
