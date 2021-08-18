@@ -20,12 +20,79 @@
       {% include ".icons/material/menu" ~ ".svg" %}
     </label>
 
+    {% if not page.meta or page.meta.hide and "handbookNav" not in page.meta.hide %}
+      {% set hideHandbookNav = false %}
+    {% else %}
+      {% set hideHandbookNav = true %}
+    {% endif %}
+
     <!-- Dropdown nav start -->
     <ul class="dropdown-list">
+
+      <!-- Only shown on mobile handbook pages -->
+      {% if not hideHandbookNav %}
+        <li class="onlyShowOnMobile">
+          <span class="nav-link dropdown-toggle"
+            >Lab Website <b class="caret"></b
+          ></span>
+          <ul class="dropdown-menu">
+            {% for nav_item in nav %} {% if not nav_item.children %}
+            <li>
+              <a
+                href="{{ nav_item.url|url }}"
+                class="
+                  nav-link
+                  dropdown-item{%
+                  if
+                  nav_item.active
+                  %}
+                  active{%
+                  endif
+                  %}
+                "
+                >{{ nav_item.title }}</a
+              >
+            </li>
+            {% endif %} {% endfor %}
+          </ul>
+        </li>
+      {% endif %}
+
       {% for nav_item in nav %} {% if nav_item.title == "Handbook" %}
-      <!-- Not a Handbook Page-->
+
+      {% if not hideHandbookNav %}
+        {% for section in nav_item.children %}
+        <li class="{% if section.active %} active{% endif %} onlyShowOnMobile">
+          <span class="nav-link dropdown-toggle"
+            >{{ section.title }} <b class="caret"></b
+          ></span>
+          <ul class="dropdown-menu">
+            {% for nav_item in section.children %} {% if not nav_item.children %}
+            <li>
+              <a
+                href="{{ nav_item.url|url }}"
+                class="
+                  nav-link
+                  dropdown-item{%
+                  if
+                  nav_item.active
+                  %}
+                  active{%
+                  endif
+                  %}
+                "
+                >{{ nav_item.title }}</a
+              >
+            </li>
+            {% endif %} {% endfor %}
+          </ul>
+        </li>
+        {% endfor %}
+      {% endif %}
+      
+      <!-- Not a Handbook Page Section-->
       {% elif nav_item.children %}
-      <li class="{% if nav_item.active %} active{% endif %}">
+      <li class="{% if nav_item.active %} active{% endif %} {% if not hideHandbookNav %}hideOnMobile{% endif %}">
         <span class="nav-link dropdown-toggle"
           >{{ nav_item.title }} <b class="caret"></b
         ></span>
@@ -51,7 +118,7 @@
         </ul>
       </li>
       {% else %}
-      <li class="{% if nav_item.active %} active{% endif %}">
+      <li class="{% if nav_item.active %} active{% endif %} {% if not hideHandbookNav %}hideOnMobile{% endif %}">
         <a href="{{ nav_item.url|url }}" class="nav-link"
           >{{ nav_item.title }}</a
         >

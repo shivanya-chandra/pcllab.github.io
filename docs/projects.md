@@ -2,6 +2,7 @@
 hide:
   - navigation
   - footerNavigation
+  - handbookNav
 ---
 
 # Projects

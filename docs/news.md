@@ -3,6 +3,7 @@ hide:
   - navigation
   - toc
   - footerNavigation
+  - handbookNav
 ---
 
 # News

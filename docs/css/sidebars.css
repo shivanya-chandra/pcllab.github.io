@@ -34,6 +34,7 @@
 .md-sidebar--secondary:not([hidden]) {
   display: none;
 }
+
 @media screen and (min-width: 76.1875em) {
   .md-content {
     max-width: 50rem;

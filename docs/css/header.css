@@ -66,7 +66,17 @@
   color: var(--md-typeset-a-color);
 }
 
-@media (min-width: 992px) {
+.hideOnMobile {
+  display: none;
+}
+
+@media screen and (min-width: 76.1875em) {
+  .onlyShowOnMobile {
+    display: none;
+  }
+  .hideOnMobile {
+    display: block;
+  }
   .dropdown-menu {
     position: absolute;
     margin: 0;
