@@ -28,15 +28,6 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/skarpicke.jpg" class="people-img">
-    <div>
-    <h2>Stephanie Karpicke</h2>
-    <h4>Research Coordinator</h4>
-    <p>I am interested in how children learn and how we can apply research on learning strategies in school settings. In the Cognition and Learning Lab, I coordinate all school-based research with our collaborating schools, teachers, parents, and children. I also oversee all experiments we conduct in our collaborating schools.</p>
-    </div>
-</div>
-
-<div class="people-row">
     <img src="../img/coverdale.jpg" class="people-img">
     <div>
     <h2>Michelle E. Coverdale</h2>
