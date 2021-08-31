@@ -5,7 +5,7 @@ hide:
 
 ## Overview of Lab Computers
 
-- The computers in the testing rooms (3133, 3135, and 3139) are for running experiments. The computers in the work room (3131) can be used for other lab-related purposes (e.g., entering data in a spreadsheet). 
+- The computers in the testing rooms (3133 and 3135) are for running experiments. The computers in the work room (3131) can be used for other lab-related purposes (e.g., entering data in a spreadsheet). 
 - It is fine to check your email and browse the internet, but you must practice safe browsing.
 - Never download anything to any computers unless you have permission from Jeff.
 - Do not save any personal documents on the lab computers. 
