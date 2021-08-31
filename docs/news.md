@@ -13,7 +13,7 @@ hide:
 
 - Science News. (2017, September). [Teaching methods go from lab to classroom.](https://www.sciencenews.org/article/teaching-methods-go-lab-classroom){target="_blank" rel="noreferrer"}
 
-- International Association of Medical Science Educators. (2017, September). (2017, June). [Plenary at the International Association of Medical Science Educators.](http://www.iamse.org/iamse17-plenary-speaker-highlight-pat-croskerry/){target="_blank" rel="noreferrer"}
+- International Association of Medical Science Educators. (2017, June). [Plenary at the International Association of Medical Science Educators.](http://www.iamse.org/iamse17-plenary-speaker-highlight-pat-croskerry/){target="_blank" rel="noreferrer"}
 
 - Vox. (2017, May). [Sorry, Kids: Schools Need More Testing, Not Less.](https://www.vox.com/the-big-idea/2017/5/31/15715308/testing-schools-education-research-learn-better){target="_blank" rel="noreferrer"}
 
