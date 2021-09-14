@@ -38,3 +38,14 @@ A complete list of department staff members can be found [here](http://www.purdu
 | Laurie Hitze          | Scheduling, IRB, PSY 120 Pool      | <llhitze@purdue.edu>      | PRCE 385G   
 | Angie Arrigo          | Department Head Assistant          | <arrigo@purdue.edu>       | PRCE 389   
 | Phyllis Zickmund      | Building Deputy                    | <pzickmun@purdue.edu>     | PRCE 385E
+
+<style>
+  /* Override Mkdocs Material Datatable styles */
+  .md-typeset table:not([class]) {
+    display: table;
+    table-layout:fixed;
+  }
+  .md-typeset table:not([class]) > tbody {
+    word-wrap: break-word;
+  }
+</style>
