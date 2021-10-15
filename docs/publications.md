@@ -9,7 +9,7 @@ hide:
 
 ## In Press
 
-- Haebig, E., Leonard, L. B., Deevy, P., Schumaker, J., Karpicke, J. D., & Weber, C. (in press). The neural underpinnings of processing newly taught semantic information: The role of retrieval practice. *Journal of Speech, Language, and Hearing Research.* <br> [[PDF]](../../downloads/inpress_Haebig_etal_JSLHR.pdf){target="_blank" rel="noreferrer"}
+- Haebig, E., Leonard, L. B., Deevy, P., Schumaker, J., Karpicke, J. D., & Weber, C. (in press). The neural underpinnings of processing newly taught semantic information: The role of retrieval practice. *Journal of Speech, Language, and Hearing Research.* <br> [[PDF]](../../downloads/inpress_Haebig_et_al_JSLHR.pdf){target="_blank" rel="noreferrer"}
 
 - Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), *Oxford Handbook of Human Memory, Volume II: Applications.* Oxford University Press. <br> [[PDF]](../../downloads/inpress_Karpicke_ODay_Oxford_Handbook.pdf){target="_blank" rel="noreferrer"}
 
@@ -17,7 +17,7 @@ hide:
 
 ## 2021
 
-- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (2021). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review, 33*, 693-712. <br> [[PDF]](../../downloads/2021_Ariel_Karpicke_Witherby_Tauber_EDPR.pdf){target="_blank" rel="noreferrer"}
+- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (2021). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review, 33*, 693-712. <br> [[PDF]](../../downloads/2021/2021_Ariel_Karpicke_Witherby_Tauber_EDPR.pdf){target="_blank" rel="noreferrer"}
 
 - Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., Weber, C., Haebig, E., & Kueser, J. B., Souto, S., & Krok, W. (2021). A multi-study examination of the role of repeated spaced retrieval in the word learning of children with developmental language disorder. *Journal of Neurodevelopmental Disorders, 13*, 20: 1-16. <br> [[PDF]](../downloads/2021_Leonard_et_al_JNDD.pdf){target="_blank" rel="noreferrer"}
 
@@ -25,18 +25,18 @@ hide:
 
 ## 2020
 
-- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (2020). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. *Journal of Speech, Language, and Hearing Research, 63*, 2763-2776. <br> [[PDF]](../../downloads/2020_Leonard_et_al_JSLHR.pdf){target="_blank" rel="noreferrer"}
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (2020). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. *Journal of Speech, Language, and Hearing Research, 63*, 2763-2776. <br> [[PDF]](../../downloads/2020/2020_Leonard_et_al_JSLHR.pdf){target="_blank" rel="noreferrer"}
 
-- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36. <br> [[PDF]](../../downloads/2020_Karpicke_Coverdale_JARMAC.pdf){target="_blank" rel="noreferrer"}
+- Karpicke, J. D., & Coverdale, M. E. (2020). The adaptive value of forgetting: A direction for future research. *Journal of Applied Research in Memory and Cognition, 9*, 33-36. <br> [[PDF]](../../downloads/2020/2020_Karpicke_Coverdale_JARMAC.pdf){target="_blank" rel="noreferrer"}
 
 
 ## 2019 
 
-- Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S.,  Kueser, J., & Krok, W. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. *Journal of Speech, Language, and Hearing Research, 62*, 932-943. <br> [[PDF]](../../downloads/2019_Leonard_et_al_JSLHR_Part_1.pdf){target="_blank" rel="noreferrer"}
+- Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S.,  Kueser, J., & Krok, W. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. *Journal of Speech, Language, and Hearing Research, 62*, 932-943. <br> [[PDF]](../../downloads/2019/2019_Leonard_et_al_JSLHR_Part_1.pdf){target="_blank" rel="noreferrer"}
 
-- Haebig, E., Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Usler, E., Kueser, J., Souto, S., Krok, W., & Weber, C. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder II: A comparison of retrieval schedules. *Journal of Speech, Language, and Hearing Research, 62*, 944-964. <br> [[PDF]](../../downloads/2019_Haebig_et_al_JSLHR_Part_2.pdf){target="_blank" rel="noreferrer"}
+- Haebig, E., Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Usler, E., Kueser, J., Souto, S., Krok, W., & Weber, C. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder II: A comparison of retrieval schedules. *Journal of Speech, Language, and Hearing Research, 62*, 944-964. <br> [[PDF]](../../downloads/2019/2019_Haebig_et_al_JSLHR_Part_2.pdf){target="_blank" rel="noreferrer"}
 
-- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. *Journal of Speech, Language, and Hearing Research, 62*, 4433-4449. <br> [[PDF]](../../downloads/2019_Leonard_et_al_JSLHR_Adjectives.pdf){target="_blank" rel="noreferrer"}
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. *Journal of Speech, Language, and Hearing Research, 62*, 4433-4449. <br> [[PDF]](../../downloads/2019/2019_Leonard_et_al_JSLHR_Adjectives.pdf){target="_blank" rel="noreferrer"}
 
 
 ## 2018
