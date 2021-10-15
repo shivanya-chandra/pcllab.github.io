@@ -51,14 +51,14 @@ In addition to generalizing retrieval practice to educational materials and sett
 Main article on the context theory:
 
 - Karpicke, J. D., Lehman, M., &amp; Aue, W. R. (2014). Retrieval-based learning: An episodic context account. In B. H. Ross (Ed.), _Psychology of Learning and Motivation, Vol. 61_ (pp. 237-284). San Diego, CA: Elsevier Academic Press. <br>
-[[PDF]](../downloads/2014_Karpicke_Lehman_Aue_PLM.pdf){target="_blank" rel="noreferrer"}
+[[PDF]](../downloads/2014/2014_Karpicke_Lehman_Aue_PLM.pdf){target="_blank" rel="noreferrer"}
 
 Relevant articles:
 
-- Whiffen, J. W., &amp; Karpicke, J. D. (2017). The role of episodic context in retrieval practice effects. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 43_, 1036-1046. <br> [[PDF]](../downloads/2017_Whiffen_Karpicke_JEPLMC.pdf){target="_blank" rel="noreferrer"}
+- Whiffen, J. W., &amp; Karpicke, J. D. (2017). The role of episodic context in retrieval practice effects. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 43_, 1036-1046. <br> [[PDF]](../downloads/2017/2017_Whiffen_Karpicke_JEPLMC.pdf){target="_blank" rel="noreferrer"}
 
 - Lehman, M., Smith, M. A., &amp; Karpicke, J. D. (2014). Toward an episodic context account of retrieval-based learning: Dissociating retrieval practice and elaboration. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 40_, 1787-1794. <br>
-  [[PDF]](../downloads/2014_Lehman_Smith_Karpicke_JEPLMC.pdf){target="_blank" rel="noreferrer"}
+  [[PDF]](../downloads/2014/2014_Lehman_Smith_Karpicke_JEPLMC.pdf){target="_blank" rel="noreferrer"}
 
 - Karpicke, J. D., &amp; Zaromb, F. M. (2010). Retrieval mode distinguishes the testing effect from the generation effect. _Journal of Memory and Language, 62_, 227-239. <br>
   [[PDF]](../downloads/2010/2010_Karpicke_Zaromb_JML.pdf){target="_blank" rel="noreferrer"}
@@ -104,7 +104,7 @@ A major focus of our research has been on applying retrieval practice to improve
 Relevant articles:
 
 - Smith, M. A., Blunt, J. R., Whiffen, J. W., &amp; Karpicke, J. D. (2016). Does providing prompts during retrieval practice improve learning? _Applied Cognitive Psychology, 30_, 544-553. <br>
-  [[PDF]](../downloads/2016/2016_Smith_Blunt_Whiffen_Karpicke_ACP.pd){target="_blank" rel="noreferrer"}
+  [[PDF]](../downloads/2016/2016_Smith_Blunt_Whiffen_Karpicke_ACP.pdf){target="_blank" rel="noreferrer"}
 
 - Weinstein, Y., Nunes, L. D., &amp; Karpicke, J. D. (2016). On the placement of practice questions during study. _Journal of Experimental Psychology: Applied, 22_, 72-84. <br>
   [[PDF]](../downloads/2016/2016_Weinstein_Nunes_Karpicke_JEPA.pdf){target="_blank" rel="noreferrer"}
