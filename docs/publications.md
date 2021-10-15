@@ -17,11 +17,11 @@ hide:
 
 ## 2021
 
-- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (2021). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review, 33*, 693-712. <br> [[PDF]](../../downloads/2021/2021_Ariel_Karpicke_Witherby_Tauber_EDPR.pdf){target="_blank" rel="noreferrer"}
+- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (2021). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review, 33*, 693-712. <br> [[PDF]](../../downloads/2021/inpress_Ariel_Karpicke_Witherby_Tauber_EDPR.pdf){target="_blank" rel="noreferrer"}
 
-- Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., Weber, C., Haebig, E., & Kueser, J. B., Souto, S., & Krok, W. (2021). A multi-study examination of the role of repeated spaced retrieval in the word learning of children with developmental language disorder. *Journal of Neurodevelopmental Disorders, 13*, 20: 1-16. <br> [[PDF]](../downloads/2021_Leonard_et_al_JNDD.pdf){target="_blank" rel="noreferrer"}
+- Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., Weber, C., Haebig, E., & Kueser, J. B., Souto, S., & Krok, W. (2021). A multi-study examination of the role of repeated spaced retrieval in the word learning of children with developmental language disorder. *Journal of Neurodevelopmental Disorders, 13*, 20: 1-16. <br> [[PDF]](../downloads/2021/2021_Leonard_et_al_JNDD.pdf){target="_blank" rel="noreferrer"}
 
-- Martella, A. M., Yatcilla, J. K., Martella, R. C., Marchand-Martella, N. E., Ozen, Z., Karatas, T., Park, H. H., Simpson, A., & Karpicke, J. D. (2021). Quotation accuracy matters: An examination of how an influential meta-analysis on active learning has been cited. *Review of Educational Research, 91*, 272-308. <br> [[PDF]](../downloads/2021_Martella_et_al_RER.pdf){target="_blank" rel="noreferrer"}
+- Martella, A. M., Yatcilla, J. K., Martella, R. C., Marchand-Martella, N. E., Ozen, Z., Karatas, T., Park, H. H., Simpson, A., & Karpicke, J. D. (2021). Quotation accuracy matters: An examination of how an influential meta-analysis on active learning has been cited. *Review of Educational Research, 91*, 272-308. <br> [[PDF]](../downloads/2021/2021_Martella_et_al_RER.pdf){target="_blank" rel="noreferrer"}
 
 ## 2020
 
