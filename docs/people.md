@@ -52,7 +52,8 @@ hide:
     <div>
     <h2>Garrett O'Day</h2>
     <h4>Graduate Student</h4>
-    <p>Paragraph</p>
+    <a href="garrettoday.info" rel="noreferrer" target="_blank">Website</a>
+    <p>Broadly speaking, my research centers on improving educational outcomes by applying cognitive psychology. I am particularly interested in evaluating the effectiveness of various learning strategies, optimizing learning through the combination of multiple learning activities, examining how learners regulate their study practices, and designing interventions that encourage learners to incorporate more effective learning strategies into their study routines. Looking ahead, I plan to pursue a research career outside of academia where I can leverage my understanding of human psychology and research abilities to provide meaningful contributions.</p>
     </div>
 </div>
 
