@@ -9,7 +9,7 @@ hide:
 
 ## In Press
 
-- Haebig, E., Leonard, L. B., Deevy, P., Schumaker, J., Karpicke, J. D., & Weber, C. (in press). The neural underpinnings of processing newly taught semantic information: The role of retrieval practice. *Journal of Speech, Language, and Hearing Research.* <br> [[PDF]](../../downloads/inpress_Haebig_et_al_JSLHR.pdf){target="_blank" rel="noreferrer"}
+- Haebig, E., Leonard, L. B., Deevy, P., Schumaker, J., Karpicke, J. D., & Weber, C. (in press). The neural underpinnings of processing newly taught semantic information: The role of retrieval practice. *Journal of Speech, Language, and Hearing Research.* <br> [[PDF]](../downloads/inpress_Haebig_et_al_JSLHR.pdf){target="_blank" rel="noreferrer"}
 
 - Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), *Oxford Handbook of Human Memory, Volume II: Applications.* Oxford University Press. <br> [[PDF]](../../downloads/inpress_Karpicke_ODay_Oxford_Handbook.pdf){target="_blank" rel="noreferrer"}
 
@@ -19,9 +19,9 @@ hide:
 
 - Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (2021). Do judgments of learning directly enhance learning of educational materials? *Educational Psychology Review, 33*, 693-712. <br> [[PDF]](../../downloads/2021_Ariel_Karpicke_Witherby_Tauber_EDPR.pdf){target="_blank" rel="noreferrer"}
 
-- Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., Weber, C., Haebig, E., & Kueser, J. B., Souto, S., & Krok, W. (2021). A multi-study examination of the role of repeated spaced retrieval in the word learning of children with developmental language disorder. *Journal of Neurodevelopmental Disorders, 13*, 20: 1-16. <br> [[PDF]](../../downloads/2021_Leonard_et_al_JNDD.pdf){target="_blank" rel="noreferrer"}
+- Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., Weber, C., Haebig, E., & Kueser, J. B., Souto, S., & Krok, W. (2021). A multi-study examination of the role of repeated spaced retrieval in the word learning of children with developmental language disorder. *Journal of Neurodevelopmental Disorders, 13*, 20: 1-16. <br> [[PDF]](../downloads/2021_Leonard_et_al_JNDD.pdf){target="_blank" rel="noreferrer"}
 
-- Martella, A. M., Yatcilla, J. K., Martella, R. C., Marchand-Martella, N. E., Ozen, Z., Karatas, T., Park, H. H., Simpson, A., & Karpicke, J. D. (2021). Quotation accuracy matters: An examination of how an influential meta-analysis on active learning has been cited. *Review of Educational Research, 91*, 272-308. <br> [[PDF]](../../downloads/2021_Martella_et_al_RER.pdf){target="_blank" rel="noreferrer"}
+- Martella, A. M., Yatcilla, J. K., Martella, R. C., Marchand-Martella, N. E., Ozen, Z., Karatas, T., Park, H. H., Simpson, A., & Karpicke, J. D. (2021). Quotation accuracy matters: An examination of how an influential meta-analysis on active learning has been cited. *Review of Educational Research, 91*, 272-308. <br> [[PDF]](../downloads/2021_Martella_et_al_RER.pdf){target="_blank" rel="noreferrer"}
 
 ## 2020
 
@@ -83,7 +83,7 @@ hide:
         
 - Blunt, J. R., & Karpicke, J. D. (2014). Learning with retrieval-based concept mapping. *Journal of Educational Psychology, 106*, 849-858. <br> [[PDF]](../../downloads/2014/2014_Blunt_Karpicke_JEDP.pdf){target="_blank" rel="noreferrer"}
 
-- Grimaldi, P. J., & Karpicke, J. D. (2014). Guided retrieval practice of educational materials using automated scoring. *Journal of Educational Psychology, 106*, 58-68. <br> [[PDF]](../../downloads/2011=4/2014_Grimaldi_Karpicke_JEDP.pdf){target="_blank" rel="noreferrer"}
+- Grimaldi, P. J., & Karpicke, J. D. (2014). Guided retrieval practice of educational materials using automated scoring. *Journal of Educational Psychology, 106*, 58-68. <br> [[PDF]](../downloads/2011=4/2014_Grimaldi_Karpicke_JEDP.pdf){target="_blank" rel="noreferrer"}
 
 - Karpicke, J. D., Blunt, J. R., Smith, M. A., & Karpicke, S. S. (2014). Retrieval-based learning: The need for guided retrieval in elementary school children. *Journal of Applied Research in Memory and Cognition, 3*, 198-206. <br> [[PDF]](../../downloads/2014/2014_Karpicke_etal_JARMAC.pdf){target="_blank" rel="noreferrer"}
 
@@ -149,12 +149,12 @@ hide:
 
 - Karpicke, J. D., McCabe, D. P., & Roediger, H. L. (2008). False memories are not surprising: The subjective experience of an associative memory illusion. *Journal of Memory and Language, 58*, 1065-1079. <br> [[PDF]](../../downloads/2008/2008_Karpicke_McCabe_Roediger_JML.pdf){target="_blank" rel="noreferrer"}
 
-- Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. *Science, 319*, 966-968. <br> [[PDF]](../../downloads/2011/2008_Karpicke_Roediger_Science.pdf){target="_blank" rel="noreferrer"} [[Supporting Online Material]](../../downloads/2008/2008_Karpicke_Roediger_ScienceSupportingMaterial.pdf){target="_blank" rel="noreferrer"}
+- Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. *Science, 319*, 966-968. <br> [[PDF]](../downloads/2011/2008_Karpicke_Roediger_Science.pdf){target="_blank" rel="noreferrer"} [[Supporting Online Material]](../../downloads/2008/2008_Karpicke_Roediger_ScienceSupportingMaterial.pdf){target="_blank" rel="noreferrer"}
         
 
 ## 2007
         
-- Butler, A. C., Karpicke, J. D., & Roediger, H. L. (2007). The effect of type and timing of feedback on learning from multiple-choice tests. *Journal of Experimental Psychology: Applied, 13*, 273-281. <br> [[PDF]](../../downloads/2011/2007_Butler_Karpicke_Roediger_JEPA.pdf){target="_blank" rel="noreferrer"}
+- Butler, A. C., Karpicke, J. D., & Roediger, H. L. (2007). The effect of type and timing of feedback on learning from multiple-choice tests. *Journal of Experimental Psychology: Applied, 13*, 273-281. <br> [[PDF]](../downloads/2011/2007_Butler_Karpicke_Roediger_JEPA.pdf){target="_blank" rel="noreferrer"}
             
 - Karpicke, J. D., & Roediger, H. L. (2007). Expanding retrieval practice promotes short-term retention, but equally spaced retrieval enhances long-term retention. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 33*, 704-719. <br> [[PDF]](../../downloads/2007/2007_Karpicke_Roediger_JEPLMC.pdf){target="_blank" rel="noreferrer"}
 
