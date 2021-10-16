@@ -13,7 +13,7 @@ hide:
     <div>
     <h2>Jeffrey D. Karpicke</h2>
     <h4>Principal Investigator</h4>
-    <a href="../downloads/Karpicke_CV.pdf" rel="noreferrer" target="_blank">CV</a> •
+    <a href="../downloads/Karpicke_Vita.pdf" rel="noreferrer" target="_blank">CV</a> •
     <a href="https://scholar.google.com/citations?user=5t5lgCgAAAAJ" rel="noreferrer" target="_blank">Google Scholar</a>
     <p>I'm interested in all things related to the science of learning, education, and technology. Currently, our lab is pursuing
     research projects in the following areas:
