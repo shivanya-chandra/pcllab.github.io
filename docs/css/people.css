@@ -20,6 +20,7 @@
 /* More specific than .md-typset img rules */
 .md-typeset .people-img{
   max-width: 200px;
+  width:200px;
 }
 
 
