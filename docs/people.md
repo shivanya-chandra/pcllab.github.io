@@ -57,15 +57,6 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/kowalkowski.jpg" class="people-img">
-    <div>
-    <h2>Anthony Kowalkowski</h2>
-    <h4>Research Technician</h4>
-    <p>I am broadly interested in studying retrieval-based learning and applying cognitive psychology research to educational environments.</p>
-    </div>
-</div>
-
-<div class="people-row">
     <img src="../img/zheng.jpg" class="people-img">
     <div>
     <h2>Kyle Zheng</h2>
