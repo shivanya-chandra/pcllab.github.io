@@ -18,12 +18,16 @@
   margin-bottom: 1rem;
 }
 /* More specific than .md-typset img rules */
-.md-typeset .people-img{
+.md-typeset .people-img {
   max-width: 200px;
+
+  /* Safari img width not respecting page bounds? 
+    img sides get cut off instead of scaling down
+  */
+  width: 200px;
 }
 
-
-@media (min-width:576px) {
+@media (min-width: 576px) {
   .people-row {
     align-items: flex-start;
     flex-direction: row;

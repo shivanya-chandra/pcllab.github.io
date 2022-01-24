@@ -10,10 +10,11 @@ hide:
 
 ## Graduate Research Opportunities
 
-We may be accepting applications to the cognitive psychology Ph.D. program at Purdue University for students who would begin in **Fall 2022**. The application deadline is **December 1, 2021**.
+We will be accepting applications to the cognitive psychology Ph.D. program at Purdue University for students who would begin in **Fall 2022**. The application deadline is **December 1, 2021**.
 
 [Read more about the cognitive psychology Ph.D. program](http://www.purdue.edu/hhs/psy/graduate/graduate_training_areas/cognitive_psychology/index.html){target="_blank" rel="noreferrer"}
 
+&nbsp;
 
 ## Undergraduate Research Opportunities
 
@@ -21,6 +22,7 @@ We are always looking for excellent undergraduate students to join our lab and g
 
 [Read more](./joinus/psy390.md)
 
+&nbsp;
 
 ## Software Developers
 
@@ -28,9 +30,12 @@ The Cognition and Learning Laboratory in the Department of Psychological Science
 
 [Read more](./joinus/programmers.md)
 
+&nbsp;
 
 ## Postdoctoral Research Opportunities
         
 We do not currently have postdoctoral positions available, although we may have positions in the future. A general description of our postdoctoral positions is linked below.
 
 [Read more](./joinus/postdocs.md)
+
+&nbsp;
