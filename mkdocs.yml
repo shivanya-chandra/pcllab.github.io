@@ -62,6 +62,10 @@ nav:
           - Checklist for Running Lab Experiments: handbook/lab-experiments/checklist.md
           - Awarding Credits in Sona: handbook/lab-experiments/awarding-credits.md
           - Scanning and Archiving: handbook/lab-experiments/scanning.md
+      - Lab Connections and Servers:
+          - Set up a VPN: handbook/connections-servers/VPN.md
+          - LearningLab Shared Server: handbook/connections-servers/learninglab-shared.md
+          - Jarvis: handbook/connections-servers/jarvis.md
       - Creating Online Experiments:
           # - Web Programming: handbook/web-experiments/index.md
           - Getting Started: handbook/web-experiments/getting-started.md
