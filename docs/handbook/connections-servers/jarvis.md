@@ -5,7 +5,7 @@ hide:
 
 # Jarvis
 
-<mark>TODO: Create more detailed instructions for folder structures on Jarvis</mark>
+<mark>TODO: Create more detailed instructions for folder structures on Jarvis and include instructions for how to use Jarvis for experiments including how to use it to counterbalance conditions</mark>
 
 This section contains information about how to connect to and use to Jarvis, our server for hosting experiments and collecting data.
 

@@ -9,7 +9,7 @@ This page contains information about how to start a new experiment on Sona. If y
 
 ## Get a Sona number for your experiment
 
-* Contact the Laurie Hitze (PRCE 385G; <llhitze@purdue.edu>) to request a Sona number for your experiment. You will need to include the IRB number and the name of the study when you e-mail her.
+* Contact the Laurie Hitze (<llhitze@purdue.edu>) to request a Sona number for your experiment. You will need to include the IRB number and the name of the study when you e-mail her.
 
 ## Enter the experiment information in Sona
 

@@ -15,8 +15,8 @@ This page describes the steps you need to take to get started with web programmi
 **If you also want to edit and host programs**, you also need to:
 
 * [Get a Text Editor](getting-started.md#get-a-text-editor){target="_blank" rel="noreferrer"} <br>
-* [Set Up a VPN](../lab-experiments/lab-connections.md){target="_blank" rel="noreferrer"} <br>
-* [Connect to Jarvis](../lab-experiments/lab-connections.md){target="_blank" rel="noreferrer"} <br>
+* [Set Up a VPN](../connections-servers/VPN.md){target="_blank" rel="noreferrer"} <br>
+* [Connect to Jarvis](../connections-servers/jarvis.md){target="_blank" rel="noreferrer"} <br>
 
 ## Get MAMP
 

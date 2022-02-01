@@ -54,7 +54,6 @@ nav:
           - Keys and Security: handbook/lab-policies/keys-and-security.md
           - Keeping the Lab Clean: handbook/lab-policies/lab-procedures.md
       - Running Lab Experiments:
-          - Lab Connections and Servers: handbook/lab-experiments/lab-connections.md
           - IRB Information: handbook/lab-experiments/lab-irb-information.md
           - Preparing a Lab Experiment: handbook/lab-experiments/preparing-lab-experiment.md
           - Starting a New Sona Experiment: handbook/lab-experiments/new-sona.md

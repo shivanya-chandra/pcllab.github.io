@@ -20,5 +20,5 @@ The LearningLab server is the lab's secure system for storing documents and data
 **On a PC:**
 
 * Go to "My computer" and at the top click "Add a network location"
-* Enter \\ironman.psych.purdue.edu\learninglab
-* Log in with using onepurdue\username (put your Career Accond username) and your Purdue Career Account password.
+* Enter \\\\ironman.psych.purdue.edu\learninglab
+* Log in with using onepurdue\username (put your Purdue Career Account username) and your Purdue Career Account password.
