@@ -25,7 +25,7 @@ Use the table below to determine which IRB protocol you should use for your proj
 
 | Type of Study                    | Protocol Number | Protocol Title                                                     | Expires
 | :--------------------------------| :-------------- |:------------------------------------------------------------------ |:-----------
-| PSY 120 - In Lab                 | 1007009512      | "Memory and Metacognition"                                         | 2021-10-18
+| PSY 120 - In Lab                 | 1007009512      | "Memory and Metacognition"                                         | 2024-10-5
 | PSY 120 - Online                 | 1601017062      | "Online Learning and Memory Research - PSY 120"                    | in progress
 | Paid - Amazon eGift card or cash | 1207012513      | "Retrieval-Enhanced Learning of Foundational Conceptual Knowledge" | 2022-1-9
 | MTurk                            | 1305013648      | "Online Learning and Memory Research"                              | in progress
@@ -33,7 +33,7 @@ Use the table below to determine which IRB protocol you should use for your proj
 
 ## Where to Find Lab IRB documents
 
-Lab IRB documents are stored on the [LearningLab server](lab-connections.md). Go to LearningLab and find the folder called Lab IRB Documents. There you will find folders for each IRB protocol. Within each IRB protocol folder, there are subfolders for:
+Lab IRB documents are stored on the [LearningLab server](learninglab-shared.md). Go to LearningLab and find the folder called Lab IRB Documents. There you will find folders for each IRB protocol. Within each IRB protocol folder, there are subfolders for:
 
 * **Approval Documents.** These are for reference only.
 * **Templates:** This folder includes templates of consent forms and debriefing forms that you will need to tailor for your experiment.

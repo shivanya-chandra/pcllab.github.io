@@ -54,7 +54,6 @@ nav:
           - Keys and Security: handbook/lab-policies/keys-and-security.md
           - Keeping the Lab Clean: handbook/lab-policies/lab-procedures.md
       - Running Lab Experiments:
-          - Lab Connections and Servers: handbook/lab-experiments/lab-connections.md
           - IRB Information: handbook/lab-experiments/lab-irb-information.md
           - Preparing a Lab Experiment: handbook/lab-experiments/preparing-lab-experiment.md
           - Starting a New Sona Experiment: handbook/lab-experiments/new-sona.md
@@ -62,6 +61,10 @@ nav:
           - Checklist for Running Lab Experiments: handbook/lab-experiments/checklist.md
           - Awarding Credits in Sona: handbook/lab-experiments/awarding-credits.md
           - Scanning and Archiving: handbook/lab-experiments/scanning.md
+      - Lab Connections and Servers:
+          - Set up a VPN: handbook/connections-servers/VPN.md
+          - LearningLab Shared Server: handbook/connections-servers/learninglab-shared.md
+          - Jarvis: handbook/connections-servers/jarvis.md
       - Creating Online Experiments:
           # - Web Programming: handbook/web-experiments/index.md
           - Getting Started: handbook/web-experiments/getting-started.md
@@ -82,3 +85,4 @@ nav:
           # File does not exist
           # - Graduate and Postdoctoral Training: resources/training.md
           - Travel Information: handbook/resources/travel.md
+          - Journals: handbook/resources/journals.md

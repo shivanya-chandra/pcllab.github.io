@@ -22,10 +22,10 @@ This page describes key things to know about working in [Sona](https://purdue-ps
 * Complete the form to create timeslots. (See the screenshot on the next page.) Enter the following information, then click the “Add” button:
     * **Number of Timeslots**
     * **Date**
-    * **Start Time** (of your first session)
+    * **Start Time** (of your first session). Double check AM/PM. 
     * **Free time between slots**. Leave this set to 0.
     * **Move timeslots to business hours?**. Leave this set to "No".
-    * **Number of Participants** (per timeslot)
+    * **Number of Participants** (per timeslot). Make sure this number is not larger than the number of computers in the room you are using.
     * **Location**. Enter: "PSYC 3105 Waiting Room (Please arrive early)"
     * **Researcher**. Make sure your name is selected.
 
@@ -36,7 +36,8 @@ This page describes key things to know about working in [Sona](https://purdue-ps
 <p align="center"><img src="/../img/posting-timeslots.png"></p>
 
 * Another way to add timeslots is to copy timeslots from a previous week to a new week. This can be done when the timeslots from a past week will be exactly the same as those in a new week.
-* Next, after you have created timeslots, you can review the timeslots before they are posted in Sona and available to subjects. Double-check that everything is correct. Once you are sure everything is correct, click “Add Selected Timeslots”. You will get a System Message confirming the number of timeslots that were posted.
+* Next, after you have created timeslots, you can review the timeslots before they are posted in Sona and available to subjects. Double-check that everything is correct. You can make modifications to the timeslots from this page or click "No" under "Add This Timeslot?" if you want to delete a timeslot. 
+* Once you are sure everything is correct, click “Add Selected Timeslots”. You will get a System Message at the top of the page confirming the number of timeslots that were posted. If you posted your timelslots for an unusual time (e.g., 12:00AM instead of 12:00pm) this message will tell you.
 * If you are running a multi-session study, at this point you will need to create timeslots for additional parts of the study (e.g., Session 2 of a two-part study).
 
 ## Fixing Mistakes

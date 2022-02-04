@@ -16,10 +16,9 @@ When you have completed an experiment, or when you are done running subjects for
 Before you start scanning, your consent forms must:
 
 * Be clean and readable copies
-* Be stamped and not expired (stamp must be in the top right corner)
 * Contain the correct Sona number and experiment name (e.g., "Sona #087: Criterial Recollection)
+* Be signed and dated by the subject
 * Be signed by the experimenter
-* Be dated by the subject
 * Be de-identified, meaning that there cannot be information on the consent forms (like subject numbers) that could link the subjects to their data 
 
 <!-- ## You Must Keep Experiment Logs
@@ -56,7 +55,6 @@ Example: "#087 Criterial Recollection 2010-9-2 to 2010-9-30.pdf"
 ## Archive Your Scanned Consent Forms and Record Info on IRB Sheets
 
 Put the PDF(s) of scanned consent forms on LearningLab.  
-
 
 <mark>Scanning Consent Forms, Archiving Consent Forms, and Reporting Subject Counts</mark>
 <mark>Note that subject reports need to be reported to me.</mark>
