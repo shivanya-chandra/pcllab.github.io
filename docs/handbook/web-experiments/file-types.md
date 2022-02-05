@@ -99,6 +99,7 @@ Here is a section that you will interact with most. Each `jsPsych` plugin you wa
 
 These files define styling for web pages. Most experiments won't require any additions other than the files included in the base `experiment.html`. Some plugins may require linking a css file, and previous experiments can be used as example.
 
+This is how styles are included to an experiment.
 ```html
 <!-- ...inside experiment.html -->
 
