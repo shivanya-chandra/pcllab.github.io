@@ -8,7 +8,7 @@ This page describes the steps you need to take to get started with web programmi
 **If you just want to run programs locally on your computer**, you need to:
 
 - [Get MAMP](#get-mamp){target="\_blank" rel="noreferrer"}
-  - or [Use Command Line Alternative](#command-line-based-alternative){target="\_blank" rel="noreferrer"}
+  - If you're comfortable with the command line, [Use Command Line Alternative](#command-line-based-alternative){target="\_blank" rel="noreferrer"}
 - [Get a GitHub Account](#get-a-github-account){target="\_blank" rel="noreferrer"}
 - [Clone a GitHub Repository](#clone-a-github-repository){target="\_blank" rel="noreferrer"}
 - [Run a Program Locally on Your Computer](#run-a-program-locally-on-your-computer){target="\_blank" rel="noreferrer"}
@@ -53,7 +53,6 @@ Cloning makes a copy of a GitHub repository locally on your computer. These inst
 ### Via Command Line
 
 - First you need to have `git` set up.
-
   https://docs.github.com/en/get-started/quickstart/set-up-git
 
 - Then you can use `git clone`.
@@ -61,7 +60,6 @@ Cloning makes a copy of a GitHub repository locally on your computer. These inst
   git clone <whatever link from github>
   ```
 - For more detailed information, check the Github documentation or your search engine of choice.
-
   https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 ## Run a Program Locally on Your Computer
