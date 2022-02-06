@@ -4,17 +4,11 @@
   position: unset; // Only last navbar is sticky if there are multiple
 } */
 
-
-/* Alternate navbar color for clarity */
-.md-header:nth-child(even){
-  background-color: var(--pcllab-dark-bg-color);
+.md-header {
+  background-color: var(--pcllab-darker-bg-color);
 }
-
-.md-header:nth-child(even) .dropdown-list{
+.md-header .dropdown-list{
   background-color: var(--pcllab-dark-bg-color--light);
-}
-.md-header:nth-child(odd) .dropdown-list{
-  background-color: var(--pcllab-darker-bg-color--light);
 }
 
 .md-header__title {
@@ -91,9 +85,6 @@
   }
 
   /* Reset colors to match navigation bar */
-  .md-header:nth-child(even) .dropdown-list{
-    background-color: var(--pcllab-dark-bg-color);
-  }
   .md-header:nth-child(odd) .dropdown-list{
     background-color: var(--pcllab-darker-bg-color);
   }
