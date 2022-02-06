@@ -8,7 +8,7 @@
   background-color: var(--pcllab-darker-bg-color);
 }
 .md-header .dropdown-list{
-  background-color: var(--pcllab-dark-bg-color--light);
+  background-color: var(--pcllab-darker-bg-color--light);
 }
 
 .md-header__title {
@@ -85,7 +85,7 @@
   }
 
   /* Reset colors to match navigation bar */
-  .md-header:nth-child(odd) .dropdown-list{
+  .md-header .dropdown-list{
     background-color: var(--pcllab-darker-bg-color);
   }
 
