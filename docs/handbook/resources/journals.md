@@ -78,4 +78,8 @@
 [Topics in Cognitive Science](http://onlinelibrary.wiley.com.ezproxy.lib.purdue.edu/journal/10.1111/(ISSN)1756-8765)<br>
 [Trends in Cognitive Sciences](http://www.sciencedirect.com.ezproxy.lib.purdue.edu/science/journal/13646613)<br>
 
+## Books
+
+[Learning and Memory: A Comprehensive Reference (2008)](https://purdue.primo.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=26799795910001081&institutionId=1081&customerId=1070)<br>
+[Learning and Memory: A Comprehensive Reference (2017)](https://purdue.primo.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=26799795900001081&institutionId=1081&customerId=1070)
 
