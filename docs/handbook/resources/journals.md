@@ -60,11 +60,11 @@
 [Perspectives on Psychological Science](http://pps.sagepub.com.ezproxy.lib.purdue.edu/content/by/year) <br>
 [Proceedings of the National Academy of Sciences](http://www.pnas.org.ezproxy.lib.purdue.edu/content/by/year)<br>
 [Psychological Science](http://pss.sagepub.com.ezproxy.lib.purdue.edu/content/by/year)<br>
-[Psychological Bulletin](https://web-p-ebscohost-com.ezproxy.lib.purdue.edu/ehost/command/detail?bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=BUL&db=pdh)<br>
+[Psychological Bulletin](https://web-p-ebscohost-com.ezproxy.lib.purdue.edu/ehost/command/detail?bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=BUL&db=pdh){target="_blank" rel="noreferrer"}<br>
 <br>
+APA journals need to be - web-p-ebscohost-com<br>
 <br>
-<br>
-[Psychological Review](http://web.a.ebscohost.com.ezproxy.lib.purdue.edu/ehost/command/detail?bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=REV&db=pdh)<br>
+[Psychological Review](http://web-p-ebscohost-com.ezproxy.lib.purdue.edu/ehost/command/detail?bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=REV&db=pdh){target="_blank" rel="noreferrer"}<br>
 [Psychonomic Bulletin & Review](http://link.springer.com.ezproxy.lib.purdue.edu/journal/volumesAndIssues/13423)<br>
 [Psychology and Aging](http://web.a.ebscohost.com.ezproxy.lib.purdue.edu/ehost/command/detail?&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=PAG&db=pdh)<br>
 [Quarterly Journal of Experimental Psychology](http://www-tandfonline-com.ezproxy.lib.purdue.edu/loi/pqje20)<br>
