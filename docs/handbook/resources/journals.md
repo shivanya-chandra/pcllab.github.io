@@ -2,7 +2,7 @@
 
 ## Purdue Libraries
 
-[Purdue Libraries](https://www.lib.purdue.edu/)
+[Purdue Libraries](https://www.lib.purdue.edu/){target="_blank" rel="noreferrer"}
 
 ## TOC Alerts:
 
@@ -54,7 +54,7 @@
 [Journal of Research in Science Teaching](http://onlinelibrary.wiley.com.ezproxy.lib.purdue.edu/journal/10.1002/(ISSN)1098-2736)<br>
 [Learning and Instruction](http://www.sciencedirect.com.ezproxy.lib.purdue.edu/science/journal/09594752)<br>
 [Memory](http://www-tandfonline-com.ezproxy.lib.purdue.edu/loi/pmem20)<br>
-[Memory & Cognition](http://link.springer.com.ezproxy.lib.purdue.edu/journal/volumesAndIssues/13421)<br>
+[Memory & Cognition](http://link.springer.com.ezproxy.lib.purdue.edu/journal/volumesAndIssues/13421){target="_blank" rel="noreferrer"}<br>
 [Metacognition and Learning]()<br>
 [Nature](http://www.nature.com.ezproxy.lib.purdue.edu/nature/archive/index.html)<br>
 [Perspectives on Psychological Science](http://pps.sagepub.com.ezproxy.lib.purdue.edu/content/by/year) <br>
@@ -80,6 +80,6 @@
 
 ## Books
 
-[Learning and Memory: A Comprehensive Reference (2008)](https://purdue.primo.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=26799795910001081&institutionId=1081&customerId=1070)<br>
-[Learning and Memory: A Comprehensive Reference (2017)](https://purdue.primo.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=26799795900001081&institutionId=1081&customerId=1070)
+[Learning and Memory: A Comprehensive Reference (2008)](https://purdue.primo.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=26799795910001081&institutionId=1081&customerId=1070){target="_blank" rel="noreferrer"}<br>
+[Learning and Memory: A Comprehensive Reference (2017)](https://purdue.primo.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=26799795900001081&institutionId=1081&customerId=1070){target="_blank" rel="noreferrer"}<br>
 
