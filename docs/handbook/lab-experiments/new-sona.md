@@ -24,7 +24,7 @@ This page contains information about how to start a new experiment on Sona. If y
 
 You need to prepare the following items:
 
-* A copy of the "[Request to Use Subjects from the Psychology 120 Subject Pool](../../downloads/Request_to_Use_the_PSY120_Research_Participant_Pool.doc){target="_blank" rel="noreferrer"}" form, signed by Jeff. <mark>Include link to pre-signed copy here</mark> You can obtain a pre-signed copy of this form from any key personnel member in the lab.
+* A copy of the "[Request to Use Subjects from the Psychology 120 Subject Pool](../../downloads/Request_to_Use_the_PSY120_Research_Participant_Pool.pdf){target="_blank" rel="noreferrer"}" form, signed by Jeff. You can obtain a pre-signed copy of this form from any key personnel member in the lab.
 * A copy of the study description you will use on Sona.
 * A copy of the informed consent document that includes the IRB approved protocol number and the SONA study number(s) and title.
 * A copy of the debriefing form for your study that includes the SONA study number(s) and title.
