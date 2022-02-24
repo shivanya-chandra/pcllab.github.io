@@ -6,12 +6,12 @@
 
 ## TOC Alerts:
 
-[PsycALERT (APA Journals)](http://psycalert.apa.org/)<br>
-[Sage](http://online.sagepub.com/cgi/alerts)<br>
-[ScienceDirect](http://www.sciencedirect.com/science/alerts)<br>
-[SpringerAlerts](http://www.springer.com/alert)<br>
-[Taylor and Francis]()<br>
-[Wiley Online Library](http://onlinelibrary.wiley.com/myprofile/alertManager)<br>
+[PsycALERT (APA Journals)](http://psycalert.apa.org/){target="_blank" rel="noreferrer"}<br>
+[Sage](http://online.sagepub.com/cgi/alerts){target="_blank" rel="noreferrer"}<br>
+[ScienceDirect](https://www.sciencedirect.com/user/alerts/journal){target="_blank" rel="noreferrer"}<br>
+[SpringerAlerts](https://www.springer.com/gp){target="_blank" rel="noreferrer"}<br>
+[Taylor and Francis](https://help.tandfonline.com/s/article/How-do-I-set-up-an-alert){target="_blank" rel="noreferrer"}<br> 
+[Wiley Online Library](https://onlinelibrary.wiley.com/action/showPreferences?menuTab=Alerts){target="_blank" rel="noreferrer"}<br>
 
 ## Big List of Journals
 
