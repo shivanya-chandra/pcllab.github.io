@@ -6,22 +6,22 @@
 
 ## TOC Alerts:
 
-[PsycALERT (APA Journals)](http://psycalert.apa.org/)<br>
-[Sage](http://online.sagepub.com/cgi/alerts)<br>
-[ScienceDirect](http://www.sciencedirect.com/science/alerts)<br>
-[SpringerAlerts](http://www.springer.com/alert)<br>
-[Taylor and Francis]()<br>
-[Wiley Online Library](http://onlinelibrary.wiley.com/myprofile/alertManager)<br>
+[PsycALERT (APA Journals)](http://psycalert.apa.org/){target="_blank" rel="noreferrer"}<br>
+[Sage](http://online.sagepub.com/cgi/alerts){target="_blank" rel="noreferrer"}<br>
+[ScienceDirect](http://www.sciencedirect.com/science/alerts){target="_blank" rel="noreferrer"}<br>
+[SpringerAlerts](https://www.springer.com/gp){target="_blank" rel="noreferrer"}<br>
+[Taylor and Francis](https://help.tandfonline.com/s/article/How-do-I-set-up-an-alert){target="_blank" rel="noreferrer"}<br>
+[Wiley Online Library](http://onlinelibrary.wiley.com/myprofile/alertManager){target="_blank" rel="noreferrer"}<br>
 
 ## Big List of Journals
 
-[Acta Psychologica](http://www.sciencedirect.com.ezproxy.lib.purdue.edu/science/journal/00016918)<br>
-[American Educational Research Journal](http://aer.sagepub.com.ezproxy.lib.purdue.edu/content/by/year)<br>
-[American Journal of Psychology](http://www.jstor.org.ezproxy.lib.purdue.edu/journal/amerjpsyc)<br>
-[American Psychologist](http://web.b.ebscohost.com.ezproxy.lib.purdue.edu/ehost/command/detail?bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=AMP&db=pdh)<br>
-[Annual Review of Psychology](http://www.annualreviews.org.ezproxy.lib.purdue.edu/loi/psych)<br>
-[Applied Cognitive Psychology](http://onlinelibrary.wiley.com.ezproxy.lib.purdue.edu/journal/10.1002/(ISSN)1099-0720)<br>
-[Canadian Journal of Experimental Psychology](http://web.b.ebscohost.com.ezproxy.lib.purdue.edu/ehost/command/detail?bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=CEP&db=pdh)<br>
+[Acta Psychologica](http://www.sciencedirect.com.ezproxy.lib.purdue.edu/science/journal/00016918){target="_blank" rel="noreferrer"}<br>
+[American Educational Research Journal](http://aer.sagepub.com.ezproxy.lib.purdue.edu/content/by/year){target="_blank" rel="noreferrer"}<br>
+[American Journal of Psychology](http://www.jstor.org.ezproxy.lib.purdue.edu/journal/amerjpsyc){target="_blank" rel="noreferrer"}<br>
+[American Psychologist](http://web.b.ebscohost.com.ezproxy.lib.purdue.edu/ehost/command/detail?bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=AMP&db=pdh){target="_blank" rel="noreferrer"}<br>
+[Annual Review of Psychology](http://www.annualreviews.org.ezproxy.lib.purdue.edu/loi/psych){target="_blank" rel="noreferrer"}<br>
+[Applied Cognitive Psychology](http://onlinelibrary.wiley.com.ezproxy.lib.purdue.edu/journal/10.1002/(ISSN)1099-0720){target="_blank" rel="noreferrer"}<br>
+[Canadian Journal of Experimental Psychology](https://www.apa.org/pubs/journals/cep){target="_blank" rel="noreferrer"}<br>
 [Child Development](http://onlinelibrary.wiley.com.ezproxy.lib.purdue.edu/journal/10.1111/(ISSN)1467-8624)<br>
 [Cognition](http://www.sciencedirect.com.ezproxy.lib.purdue.edu/science/journal/00100277)<br>
 [Cognition and Instruction](http://www-tandfonline-com.ezproxy.lib.purdue.edu/loi/hcgi20)<br>
