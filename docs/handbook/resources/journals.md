@@ -15,7 +15,7 @@
 
 ## Big List of Journals
 
-[Acta Psychologica]{window.open((http://www.sciencedirect.com.ezproxy.lib.purdue.edu/science/journal/00016918))}{target="_blank" rel="noreferrer"}<br>
+[Acta Psychologica](http://www.sciencedirect.com.ezproxy.lib.purdue.edu/science/journal/00016918){target="_blank" rel="noreferrer"}<br>
 [American Educational Research Journal](http://aer.sagepub.com.ezproxy.lib.purdue.edu/content/by/year){target="_blank" rel="noreferrer"}<br>
 [American Journal of Psychology](http://www.jstor.org.ezproxy.lib.purdue.edu/journal/amerjpsyc){target="_blank" rel="noreferrer"}<br>
 [American Psychologist](http://web.b.ebscohost.com.ezproxy.lib.purdue.edu/ehost/command/detail?bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=AMP&db=pdh){target="_blank" rel="noreferrer"}<br>
