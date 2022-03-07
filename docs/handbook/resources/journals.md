@@ -18,7 +18,7 @@
 [Acta Psychologica](http://www.sciencedirect.com.ezproxy.lib.purdue.edu/science/journal/00016918){target="_blank" rel="noreferrer"}<br>
 [American Educational Research Journal](http://aer.sagepub.com.ezproxy.lib.purdue.edu/content/by/year){target="_blank" rel="noreferrer"}<br>
 [American Journal of Psychology](http://www.jstor.org.ezproxy.lib.purdue.edu/journal/amerjpsyc){target="_blank" rel="noreferrer"}<br>
-[American Psychologist](http://web.b.ebscohost.com.ezproxy.lib.purdue.edu/ehost/command/detail?bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#jid=AMP&db=pdh){target="_blank" rel="noreferrer"}<br>
+[American Psychologist](https://psycnet.apa.org/PsycARTICLES/journal/amp/76/8){target="_blank" rel="noreferrer"}<br>
 [Annual Review of Psychology](http://www.annualreviews.org.ezproxy.lib.purdue.edu/loi/psych){target="_blank" rel="noreferrer"}<br>
 [Applied Cognitive Psychology](http://onlinelibrary.wiley.com.ezproxy.lib.purdue.edu/journal/10.1002/(ISSN)1099-0720){target="_blank" rel="noreferrer"}<br>
 [Canadian Journal of Experimental Psychology](https://www.apa.org/pubs/journals/cep){target="_blank" rel="noreferrer"}<br>
