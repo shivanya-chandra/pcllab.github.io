@@ -64,6 +64,7 @@
 <br>
 APA journals need to be - web-p-ebscohost-com<br>
 <br>
+<br>
 [Psychological Review](https://www.apa.org/pubs/journals/rev){target="_blank" rel="noreferrer"}<br>
 [Psychonomic Bulletin & Review](http://link.springer.com.ezproxy.lib.purdue.edu/journal/volumesAndIssues/13423){target="_blank" rel="noreferrer"}<br>
 [Psychology and Aging](https://www.apa.org/pubs/journals/pag){target="_blank" rel="noreferrer"}<br>
