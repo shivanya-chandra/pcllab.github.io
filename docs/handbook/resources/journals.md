@@ -54,17 +54,13 @@
 [Journal of Research in Science Teaching](http://onlinelibrary.wiley.com.ezproxy.lib.purdue.edu/journal/10.1002/(ISSN)1098-2736){target="_blank" rel="noreferrer"}<br>
 [Learning and Instruction](http://www.sciencedirect.com.ezproxy.lib.purdue.edu/science/journal/09594752){target="_blank" rel="noreferrer"}<br>
 [Memory](http://www-tandfonline-com.ezproxy.lib.purdue.edu/loi/pmem20){target="_blank" rel="noreferrer"}<br>
-[Memory & Cognition](http://link.springer.com.ezproxy.lib.purdue.edu/journal/volumesAndIssues/13421){target="_blank" rel="noreferrer"}{target="_blank" rel="noreferrer"}<br>
+[Memory & Cognition](http://link.springer.com.ezproxy.lib.purdue.edu/journal/volumesAndIssues/13421){target="_blank" rel="noreferrer"}<br>
 [Metacognition and Learning](https://www.springer.com/journal/11409){target="_blank" rel="noreferrer"}<br>
 [Nature](http://www.nature.com.ezproxy.lib.purdue.edu/nature/archive/index.html){target="_blank" rel="noreferrer"}<br>
 [Perspectives on Psychological Science](http://pps.sagepub.com.ezproxy.lib.purdue.edu/content/by/year){target="_blank" rel="noreferrer"}<br>
 [Proceedings of the National Academy of Sciences](http://www.pnas.org.ezproxy.lib.purdue.edu/content/by/year){target="_blank" rel="noreferrer"}<br>
 [Psychological Science](http://pss.sagepub.com.ezproxy.lib.purdue.edu/content/by/year){target="_blank" rel="noreferrer"}<br>
 [Psychological Bulletin](https://www.apa.org/pubs/journals/bul){target="_blank" rel="noreferrer"}<br>
-<br>
-APA journals need to be - web-p-ebscohost-com<br>
-<br>
-<br>
 [Psychological Review](https://www.apa.org/pubs/journals/rev){target="_blank" rel="noreferrer"}<br>
 [Psychonomic Bulletin & Review](http://link.springer.com.ezproxy.lib.purdue.edu/journal/volumesAndIssues/13423){target="_blank" rel="noreferrer"}<br>
 [Psychology and Aging](https://www.apa.org/pubs/journals/pag){target="_blank" rel="noreferrer"}<br>
