@@ -11,7 +11,7 @@ Keeping everything clean in the lab – especially the computers, furniture, and
 
 2.	Trash cans and recycle bins are located in the hallway outside the lab hallway. 
 
-3.	Cleaning supplies are located in the supply cabinet in room 3131. 
+3.	Cleaning supplies are located in the supply cabinet in room 184. 
 
 4.	At the end of each day that you run experimental sessions, please clean off all computer keyboards and mice. 
 

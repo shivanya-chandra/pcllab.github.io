@@ -5,7 +5,7 @@ hide:
 
 ## Handling Paper and Electronic Files
 
-1.	All paper files associated with all experiments and projects must be stored in the large file cabinet in the work room (3131).
+1.	All paper files associated with all experiments and projects must be stored in the large file cabinet in the work room (PRCE 184).
 
 2.	Each experiment will have one or more file folders associated with it. For example, experiments typically require at least one file folder for blank consent forms and signed consent forms. 
 

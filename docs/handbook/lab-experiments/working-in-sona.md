@@ -2,6 +2,7 @@
 hide:
   - toc
 ---
+<mark>TODO: Update waiting room number</mark>
 
 # Working in Sona
 
@@ -13,7 +14,7 @@ This page describes key things to know about working in [Sona](https://purdue-ps
 
 ## Posting Timeslots
 
-* Before posting timeslots in Sona, you must reserve a testing room using the [Google Calendar](https://calendar.google.com){target="_blank" rel="noreferrer"} for that room. (If you are using the shared testing room, Room 3132, you will also need to sign out that room on the department’s room reservation schedule.) See the section [Using Google Calendars to Reserve Rooms](https://pcllab.github.io/handbook/lab-policies/lab-rooms/). 
+* Before posting timeslots in Sona, you must reserve a testing room using the [Google Calendar](https://calendar.google.com){target="_blank" rel="noreferrer"} for that room. (If you are using the shared testing room, PSY 3132, you will also need to sign out that room on the department’s room reservation schedule.) See the section [Using Google Calendars to Reserve Rooms](https://pcllab.github.io/handbook/lab-policies/lab-rooms/). 
 * You should post timeslots one week in advance of when they will occur. If you are posting timeslots for next week, those timeslots should be posted by Wednesday of this week at the latest. 
 * To post timeslots, log in to [Sona](https://purdue-psych.sona-systems.com){target="_blank" rel="noreferrer"}
 * You can then click “My Studies” on the top menu, or click “View, add or edit timeslots” in the “My Studies” section of the page.
@@ -26,7 +27,7 @@ This page describes key things to know about working in [Sona](https://purdue-ps
     * **Free time between slots**. Leave this set to 0.
     * **Move timeslots to business hours?**. Leave this set to "No".
     * **Number of Participants** (per timeslot). Make sure this number is not larger than the number of computers in the room you are using.
-    * **Location**. Enter: "PSYC 3105 Waiting Room (Please arrive early)"
+    * **Location**. Enter: "PRCE ___ Waiting Room (Please arrive early)"
     * **Researcher**. Make sure your name is selected.
 
 **Example:**
@@ -52,7 +53,7 @@ This page describes key things to know about working in [Sona](https://purdue-ps
 * Prior to running a batch of sessions, you will need to retrieve a list of subject names from Sona 
 * On the Sona home page, under “Upcoming Appointments”, click on an upcoming appointment.
 * The names of subjects will be listed for each session (each timeslot). See the screenshot below.
-* Print this list so you have it with you when you go to the waiting room (3105) to get the subjects.
+* Print this list so you have it with you when you go to the waiting room (PRCE __ ) to get the subjects.
 
 **Example:**
 

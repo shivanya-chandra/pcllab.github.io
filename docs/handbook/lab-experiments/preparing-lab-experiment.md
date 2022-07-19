@@ -11,7 +11,7 @@ Several items need to be prepared before staring a lab experiment. This page pro
 
 ## Create a Shared Digital Folder
 
-Create a shared folder (e.g., on Google Drive) for all experiment documents and the subject log.
+Create a shared folder (e.g., on Box) for all experiment documents and the subject log.
 
 ## Prepare Consent Forms, Debriefing, and Sona Description
 
@@ -30,7 +30,7 @@ Remember to prepare any other paper documents you need (for paper-and-pencil tas
 
 ## Prepare Experiment Folder(s)
 
-You will need at least one folder in the lab (keep it in the file cabinet in 3131) for blank consent forms, completed consent forms, debriefing forms, and any other paper documents. 
+You will need at least one folder in the lab (keep it in the file cabinet in PRCE 184) for blank consent forms, completed consent forms, debriefing forms, and any other paper documents. 
 
 ## Prepare a Subject Log
 

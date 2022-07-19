@@ -2,6 +2,7 @@
 hide:
   - toc
 ---
+<mark>TODO: Update waiting room location</mark>
 
 # Starting a New Sona Experiment
 
@@ -18,7 +19,7 @@ This page contains information about how to start a new experiment on Sona. If y
 * Select the type of study (e.g., standard single session)
 * Under "Basic Study Information" fill out the relevant details. The title of the experiment must include a Sona number and experiment name (e.g., #078 - Learning Word Pairs).
 * You must add "Learning Lab" as a user in each experiment in Sona. Either now, or after the experiment is created you will also need to add the 390 students that will be running the experiment as users.
-* Make the room number for your experiment PSYC 3105 and instruct students to wait in room 3105 for the experimenter.
+* Make the room number for your experiment PRCE __ and instruct students to wait in room __ for the experimenter.
 
 ## Prepare paperwork for the Sona Coordinator (currently: Darrly Schneider)
 
