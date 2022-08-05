@@ -20,7 +20,7 @@ Templates of consent forms, debriefing forms, and Sona descriptions can be found
 
 ## Prepare an Experimenter Script
 
-You need a detailed instruction script for experimenters to follow when they run sessions. [Script Template](../../downloads/390-Script.docx){target="_blank" rel="noreferrer"}
+You need a detailed instruction script for experimenters to follow when they run sessions. [Script Template](../../downloads/script_390.docx){target="_blank" rel="noreferrer"}
 
 ## Prepare Other Paper Documents
 
