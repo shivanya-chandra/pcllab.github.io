@@ -22,7 +22,7 @@ After you finish running a session of your experiment, log in to [Sona](https://
 
 ### 5-Minute Grace Period
 
-Your experiment sessions should start promptly at the time specified in Sona. However, you may give subjects a 5-minute grace period by waiting 5 minutes for subjects who do not show up on time.
+Your experiment sessions should start promptly at the time specified in Sona. However, you may give subjects an up to 5-minute grace period by waiting up to 5 minutes for subjects who do not show up on time. 
 
 ### Awarding Credit
 
@@ -46,6 +46,11 @@ Subjects should be marked as an "Excused No Show" if:
 
 * In a multi-session experiment, do not assign credit after the first session. Inform your subjects that you will assign credit after the final session.
 * If a subject shows up for the first session but not the second, give them credit only for the first session.
+
+### Online Experiments
+
+* Sona will automatically assign credit to students who complete the experiment by the deadline, but you will need to mark the remaining students as "Unexcused No Show". 
+* Before you mark students as unexcused, download the data from Jarvis and check that their subject number does not appear in the data. If a subject started the experiment before the deadline but ended after it has passed, Sona will not assign credit so you will need to manually assign credit.
 
 ### Other Important Information
 

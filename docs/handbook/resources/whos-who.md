@@ -11,15 +11,15 @@ A complete list of department staff members can be found [here](http://www.purdu
 
 | Name                  | Position/Role                      | Email                     | Office 
 | :---------------------| :--------------------------------- |:------------------------- |:-----------
-| Julie Smith           | Cognitive Area Admin Assistant     | <smith123@purdue.edu>     | PSYC 3117
+| TBD         | Cognitive Area Admin Assistant     | <TBD@purdue.edu>     | PSYC 3117
 
 ### Business Office
 
 | Name                  | Position/Role                      | Email                     | Office 
 | :---------------------| :--------------------------------- |:------------------------- |:-----------
-| Heidi Campbell        | Business Manager                   | <hcampbell@purdue.edu>    | PRCE 367   
-| Kim Haskett           | Business Office                    | <khaskett@purdue.edu>     | PRCE 369   
-| Troy Weger            | Business Office                    | <tweger@purdue.edu>      | PRCE 371   
+| Heidi Campbell        | Business Manager                   | <hcampbell@purdue.edu>    | remote   
+| Kim Haskett           | Business Office                    | <khaskett@purdue.edu>     | remote  
+| Troy Weger            | Business Office                    | <tweger@purdue.edu>      | remote 
 
 ### Computing Support
 

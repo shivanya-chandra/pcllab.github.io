@@ -21,7 +21,7 @@ This page contains information about how to start a new experiment on Sona. If y
 * You must add "Learning Lab" as a user in each experiment in Sona. Either now, or after the experiment is created you will also need to add the 390 students that will be running the experiment as users.
 * Make the room number for your experiment PRCE __ and instruct students to wait in room __ for the experimenter.
 
-## Prepare paperwork for the Sona Coordinator (currently: Darrly Schneider)
+## Prepare paperwork for the Sona Coordinator (currently: Darryl Schneider)
 
 You need to prepare the following items:
 

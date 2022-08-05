@@ -5,9 +5,7 @@ hide:
 
 # Preparing a Lab Experiment
 
-<mark>TODO: Include printable PDF checklist</mark>
-
-Several items need to be prepared before staring a lab experiment. This page provides an overview of these items. Use this sheet as a checklist when preparing a new experiment.
+Several items need to be prepared before staring a lab experiment. This page provides an overview of these items. Use the following [checklist](../../downloads/checklist_PreparingLabExperiments.pdf){target="_blank" rel="noreferrer"} each time you prepare in-lab experiments. 
 
 ## Create a Shared Digital Folder
 
@@ -22,7 +20,7 @@ Templates of consent forms, debriefing forms, and Sona descriptions can be found
 
 ## Prepare an Experimenter Script
 
-You need a detailed instruction script for experimenters to follow when they run sessions.
+You need a detailed instruction script for experimenters to follow when they run sessions. [Script Template](../../downloads/390-Script.pdf){target="_blank" rel="noreferrer"}
 
 ## Prepare Other Paper Documents
 
@@ -38,4 +36,4 @@ You must keep a subject log. A Google Sheet is recommended. At a minimum, the su
 
 ## Prepare Computer Programs
 
-You will need to prepare a computer program to run your experiment. Programming is discussed in our Lab Programming Guide, which is currently in progress. A draft can be obtained from senior lab personnel.
+You will need to prepare a computer program to run your experiment. Programming is discussed in our [Lab Programming Guide](getting-started.md), which is currently in progress. 
