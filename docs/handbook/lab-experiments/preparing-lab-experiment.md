@@ -36,4 +36,4 @@ You must keep a subject log. A Google Sheet is recommended. At a minimum, the su
 
 ## Prepare Computer Programs
 
-You will need to prepare a computer program to run your experiment. Programming is discussed in our [Lab Programming Guide](getting-started.md), which is currently in progress. 
+You will need to prepare a computer program to run your experiment. Programming is discussed in our [Lab Programming Guide](../web-experiments/getting-started.md), which is currently in progress. 
