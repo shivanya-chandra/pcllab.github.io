@@ -5,7 +5,7 @@ hide:
 
 # Preparing a Lab Experiment
 
-Several items need to be prepared before staring a lab experiment. This page provides an overview of these items. Use the following [checklist](../../downloads/checklist_PreparingLabExperiments.pdf){target="_blank" rel="noreferrer"} each time you prepare in-lab experiments. 
+Several items need to be prepared before staring a lab experiment. This page provides an overview of these items. Use the following [checklist](../../downloads/checklist_RunningLabExperiments.pdf){target="_blank" rel="noreferrer"} each time you prepare in-lab experiments. 
 
 ## Create a Shared Digital Folder
 
