@@ -37,23 +37,11 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/martella.jpg" class="people-img">
+    <img src="../img/shang.jpeg" class="people-img">
     <div>
-    <h2>Amedee Martella</h2>
+    <h2>Jiaan Shang</h2>
     <h4>Graduate Student</h4>
-    <a href="../downloads/Martella_CV.pdf" rel="noreferrer" target="_blank">CV</a> •
-    <a href="https://amedeemartella.wixsite.com/my-site" rel="noreferrer" target="_blank">Website</a>
-    <p>My research interests center on instructional design and improving the teaching of STEM disciplines in grades K-16 through effective pedagogical practices. More specifically, my research agenda is focused on (a) evaluating the active learning construct, (b) determining the optimal dosage amount and schedule of active learning and lecture, (c) applying cognitive psychology principles to pedagogy, and (d) assessing the quality of the educational literature. </p>
-    </div>
-</div>
-
-<div class="people-row">
-    <img src="../img/oday.jpg" class="people-img">
-    <div>
-    <h2>Garrett O'Day</h2>
-    <h4>Graduate Student</h4>
-    <a href="https://garrettoday.info/" rel="noreferrer" target="_blank">Website</a>
-    <p>Broadly speaking, my research centers on improving educational outcomes by applying cognitive psychology. I am particularly interested in evaluating the effectiveness of various learning strategies, optimizing learning through the combination of multiple learning activities, examining how learners regulate their study practices, and designing interventions that encourage learners to incorporate more effective learning strategies into their study routines. Looking ahead, I plan to pursue a research career outside of academia where I can leverage my understanding of human psychology and research abilities to provide meaningful contributions.</p>
+    <p>My research interest focuses on applying cognitive psychology to teaching and learning. More specifically, I’m interested in the effects of different learning strategies and criterion tasks on memory, mind-wandering and metacognition. Although my past research experience has been mainly in the field of reading comprehension, I’m interested in learning using a variety of materials and tasks. </p>
     </div>
 </div>
 
@@ -69,6 +57,14 @@ hide:
 
 
 ## Lab Alumni
+
+[Garrett O'Day](https://www.linkedin.com/in/garrett-oday/){target="_blank" rel="noreferrer"}<br>
+Ph.D. Student (2016-2022)<br>
+
+[Amedee Martella](https://amedeemartella.wixsite.com/my-site){target="_blank" rel="noreferrer"}<br>
+National Science Foundation Postdoctoral Research Fellow<br>
+University of California, Santa Barbra<br>
+Ph.D. Student (2019-2022)<br>
 
 [Caroline Byrd Hornburg](https://sites.google.com/view/caroline-byrd-hornburg){target="_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
