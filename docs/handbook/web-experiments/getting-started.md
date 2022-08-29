@@ -96,7 +96,6 @@ npx http-server
 You will need a text editor to write and edit code. Popular ones are:
 
 - Visual Studio Code: <https://code.visualstudio.com>{target="\_blank" rel="noreferrer"}
-- Atom: <https://atom.io/>{target="\_blank" rel="noreferrer"}
 - Sublime Text: <http://www.sublimetext.com/>{target="\_blank" rel="noreferrer"}
 
 ## More Technical Stuff
