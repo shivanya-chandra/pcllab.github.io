@@ -91,8 +91,43 @@ const pacman = {
 
 ## Free Recall
 
-## Cued Recall
-
+```js
+const freeRecall = {
+  type: "pcllab-core",
+  stimuli: [
+    {
+      response_type: "study_items",
+      cue: "What is the answer to life the universe and everything?",
+      target: "42",
+    },
+    { response_type: "free_recall" },
+  ],
+  response_count: 0,
+  show_button: true,
+};
 ```
 
+## Cued Recall
+
+```js
+const cuedRecallTrial = {
+  type: "pcllab-core",
+  stimuli: [
+    { response_type: "study_items", cue: "A", target: "Apple" },
+    {
+      response_type: "study_items",
+      cue: "What is the answer to life the universe and everything?",
+      target: "42",
+    },
+    { cue: "A", target: "Apple", response_count: 1 },
+    {
+      cue: "What is the answer to life the universe and everything?",
+      target: "42",
+      response_count: 1,
+    },
+  ],
+  input_size: "small",
+  response_count: 0,
+  show_button: true,
+};
 ```
