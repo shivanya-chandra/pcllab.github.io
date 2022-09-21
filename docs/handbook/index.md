@@ -7,5 +7,6 @@ This handbook contains five sections:
 1.	**Introduction.** This section talks about the purpose of the lab, people and their roles in the lab, and an overview of the research process. 
 2.	**Lab Policies.** This section contains policies and important information about working in the lab on a day to day basis. 
 3.	**Running Lab Experiments.** This section provides details about all the steps involved in running experiments in the lab.
-4.	**Creating and Running Online Experiments.** This section contains introductory information about web programming and about conducting online experiments.
-5.	**Resources.** This section contains additional information and resources relevant to working in the Cognition and Learning Lab.
+4.	**Running Online Experiments.** This section contains information about conducting online experiments.
+5.  **Experiment Programming Guide** This section includes introductory information related to creating and programming experiments. 
+6.	**Resources.** This section contains additional information and resources relevant to working in the Cognition and Learning Lab.
