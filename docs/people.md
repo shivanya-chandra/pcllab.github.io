@@ -59,9 +59,11 @@ hide:
 ## Lab Alumni
 
 [Garrett O'Day](https://www.linkedin.com/in/garrett-oday/){target="_blank" rel="noreferrer"}<br>
+Senior Manager, Research <br>
+Active Minds <br>
 Ph.D. Student (2016-2022)<br>
 
-[Amedee Martella](https://amedeemartella.wixsite.com/my-site){target="_blank" rel="noreferrer"}<br>
+[Amedee Martella](https://mayerlab.psych.ucsb.edu/people/amedee-martella){target="_blank" rel="noreferrer"}<br>
 National Science Foundation Postdoctoral Research Fellow<br>
 University of California, Santa Barbra<br>
 Ph.D. Student (2019-2022)<br>
@@ -77,8 +79,8 @@ Virginia Wesleyan University<br>
 Postdoctoral Research Associate (2015-2018)<br>
 
 [William Aue](https://www.linkedin.com/in/william-aue){target="_blank" rel="noreferrer"}<br>
-Cognitive Neuroscientist<br>
-Wright State Research Institute<br>
+Research Psychologist<br>
+Air Force Research Laboratory<br>
 Postdoctoral Research Associate (2014-2018)<br>
 
 **Joseph Bedwell**<br>
@@ -92,7 +94,7 @@ Association for Psychological Science<br>
 Postdoctoral Research Associate (2013-2016)<br>
 
 [Joshua Whiffen](https://www.linkedin.com/in/joshua-whiffen-230618122){target="_blank" rel="noreferrer"}<br>
-Data Engineer<br>
+Data Analytics and Engineering<br>
 Credit Suisse<br>
 M.S. Student (2012-2016)<br>
 
@@ -112,7 +114,7 @@ Lynn University<br>
 Postdoctoral Research Associate (2011-2014)<br>
 
 [Phillip Grimaldi](http://www.phillipgrimaldi.com/){target="_blank" rel="noreferrer"}<br>
-Research Scientist<br>
+Senior Efficacy and Research Scientist<br>
 Khan Academy<br>
 Ph.D. Student (2008-2014)<br>
 
