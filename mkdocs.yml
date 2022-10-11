@@ -64,6 +64,7 @@ nav:
       - Running Online Experiments:
           # - Web Programming: handbook/web-experiments/index.md
           - Getting Started: handbook/web-experiments/getting-started.md
+          - Getting Started w/ jsPsych7: handbook/web-experiments/getting-started-jspsych-7.md
           - Repositories: handbook/web-experiments/repositories.md
           - Basic Experiment Structure: handbook/web-experiments/basic-experiment-structure.md
           - Common Tasks: handbook/web-experiments/common-tasks.md

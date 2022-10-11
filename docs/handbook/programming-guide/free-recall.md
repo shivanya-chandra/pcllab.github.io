@@ -1,29 +1,22 @@
 # Free Recall
 
-Displaying stimulus with text responses.
 
-## jsPsych 7
 
-https://www.jspsych.org/7.3/plugins/survey-text/
+
+## jsPsych 5
 
 ```js
-const trial = {
-  type: jsPsychSurveyText,
-  preamble: `<img src="img/navarro_burst_03.jpg" style="width:400px;"></img>`,
-  // randomize_question_order: false,
-  // button_label: 'Continue',
-  // autocomplete: false,
-  questions: [
+const freeRecall = {
+  type: "pcllab-core",
+  stimuli: [
     {
-      prompt: "Describe your reaction to the image above",
-      placeholder: "Enter some text",
-      rows: 5,
+      response_type: "study_items",
+      cue: "What is the answer to life the universe and everything?",
+      target: "42",
     },
-    // { prompt: "Describe your reaction to the image above", required: true },
-    // { prompt: "Describe your reaction to the image above", columns: 140 },
+    { response_type: "free_recall" },
   ],
+  response_count: 0,
+  show_button: true,
 };
-timeline.push(trial);
-timeline.push(trial);
-timeline.push(trial);
 ```

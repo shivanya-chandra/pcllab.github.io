@@ -107,7 +107,7 @@ const freeRecall = {
 };
 ```
 
-## Cued Recall
+## Study List + Cued Recall
 
 ```js
 const cuedRecallTrial = {

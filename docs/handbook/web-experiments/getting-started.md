@@ -87,7 +87,7 @@ http-server
 # if changes aren't updating on refresh, use -c-1 to disable caching
 http-server -c-1
 
-# or use npx to avoid a global installation (if you know what you're doing)
+# or use npx to avoid a global installation
 npx http-server
 ```
 
