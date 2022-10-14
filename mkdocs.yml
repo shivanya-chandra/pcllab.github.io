@@ -78,22 +78,23 @@ nav:
       - Lab Connections and Servers:
           - Set up a VPN: handbook/connections-servers/VPN.md
           - LearningLab Shared Server: handbook/connections-servers/learninglab-shared.md
-          - Jarvis: handbook/connections-servers/jarvis.md    
+          - Jarvis: handbook/connections-servers/jarvis.md
       - Lab Programming Guide:
           - Necessary Programs: handbook/programming-guide/programs.md
           - File Types: handbook/programming-guide/file-types.md
           - Repositories: handbook/programming-guide/repositories.md
           - Starting Experiments: handbook/programming-guide/starting.md
           - Essentials: handbook/programming-guide/essentails.md
-          - Timeline: handbook/programming-guide/timeline.md 
-          - Materials: handbook/programming-guide/materials.md 
-          - Versions and Counterbalences: handbook/programming-guide/counterbalence.md 
+          - Timeline: handbook/programming-guide/timeline.md
+          - Materials: handbook/programming-guide/materials.md
+          - Versions and Counterbalences: handbook/programming-guide/counterbalence.md
           - Presenting Text: handbook/programming-guide/read-text.md
           - Study a List of Items: handbook/programming-guide/study-list.md
           - Free Recall: handbook/programming-guide/free-recall.md
           - Cued Recall: handbook/programming-guide/cued-recall.md
           - Distractor Tasks: handbook/programming-guide/distractor.md
           - Saving Data: handbook/programming-guide/saving-data.md
+          - Saving Data: handbook/programming-guide/unsorted-examples.md
       - Resources:
           - Who's Who in the Psych Department: handbook/resources/whos-who.md
           - Recommendation Letters: handbook/resources/letters.md
