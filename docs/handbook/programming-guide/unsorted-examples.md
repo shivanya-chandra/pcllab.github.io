@@ -2,7 +2,9 @@
 
 The first examples come from `jsPsych-Plugins/pcllab-core/examples`. These should work.
 
-The snippets under the _Untested_ title come from `jsPsych-Plugins/pcllab-core/test` folders. These were created to test specific functionality and might not do what is expected.
+!!! warning
+
+    The snippets under the _Untested_ title come from `jsPsych-Plugins/pcllab-core/test` folders. These were created to test specific functionality and might not do what is expected.
 
 ## Experimenter Paced
 
