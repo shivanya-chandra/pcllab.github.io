@@ -76,7 +76,11 @@ Feel free to remove any comments and plugins you don't need. For instance, if yo
 
         await jsPsych.run(timeline);
     }
-    ```
+
+    // Uncomment this line to show saved data at end
+    // return jsPsych;
+
+````
 
 === "Default experiment.js"
 
@@ -146,7 +150,7 @@ npm i @jspsych/plugin-instructions
 
 # we can also have our own custom developed plugins
 npm i @pcllab/consent-form-plugin
-```
+````
 
 ??? info "Using Local Plugins"
 
@@ -212,18 +216,30 @@ To stop the development server, press `Ctrl + C` (on MacOS as well!) in the term
 
 ## Step 3: Saving data to Jarvis
 
+```js
+//...
+
+await jsPsych.run(timeline);
+
+fetch("JARVIS_ENDPOINT_HERE", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+  },
+  body: JSON.stringify(jsPsych.data.get()),
+});
+
+//...
+```
+
 ## Step 4: Uploading experiment to Jarvis
+
+## Final Demo Code
 
 Here is the final code.
 
-=== "src/experiment.js"
+[Try the demo]()
 
-    ```js
-    --8<-- "demo/src/experiment.js"
-    ```
-
-=== "styles/main.scss"
-
-    ```scss
-    --8<-- "demo/styles/main.scss"
-    ```
+```js title="experiment.js"
+--8<-- "demos/demo/src/experiment.js"
+```

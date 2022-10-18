@@ -1,5 +1,5 @@
 /**
- * @title basic
+ * @title sample-experiment
  * @description simple example using jspsych-builder
  * @version 0.1.0
  *
@@ -42,10 +42,10 @@ export async function run({
   });
 
   // Switch to fullscreen
-  // timeline.push({
-  //   type: FullscreenPlugin,
-  //   fullscreen_mode: true,
-  // });
+  timeline.push({
+    type: FullscreenPlugin,
+    fullscreen_mode: true,
+  });
 
   timeline.push({
     type: ConsentFormPlugin,
@@ -63,7 +63,14 @@ export async function run({
 
   await jsPsych.run(timeline);
 
-  // Return the jsPsych instance so jsPsych Builder can access the experiment results (remove this
-  // if you handle results yourself, be it here or in `on_finish()`)
+  fetch("", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(jsPsych.data.get()),
+  });
+
+  // Uncomment this line to show saved data at end
   // return jsPsych;
 }
