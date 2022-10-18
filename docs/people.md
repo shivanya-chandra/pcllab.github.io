@@ -57,7 +57,7 @@ hide:
     <h2>Kyle Zheng</h2>
     <h4>Programmer</h4>
     <a href="https://kylezhe.ng" rel="noreferrer" target="_blank">Website</a>
-    <p>I help researchers program online experiments and maintain the relevant websites and software. As an undergraduate computer science student, my interests lie in creating code that can be reused and maintained.</p>
+    <p>I help researchers program online experiments and maintain the relevant websites and software. As an undergraduate computer science student, my interests lie in creating tools to enhance the pursuit of art/science.</p>
     </div>
 </div>
 
