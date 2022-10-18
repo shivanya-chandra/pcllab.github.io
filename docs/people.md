@@ -6,6 +6,12 @@ hide:
   - handbookNav
 ---
 
+<style>
+  .md-content__button {
+    display: none;
+  }
+</style>
+
 # People
 
 <div class="people-row">
@@ -13,7 +19,7 @@ hide:
     <div>
     <h2>Jeffrey D. Karpicke</h2>
     <h4>Principal Investigator</h4>
-    <a href="../downloads/Karpicke_Vita.pdf" rel="noreferrer" target="_blank">CV</a> •
+    <a href="downloads/Karpicke_Vita.pdf" rel="noreferrer" target="_blank">CV</a> •
     <a href="https://scholar.google.com/citations?user=5t5lgCgAAAAJ" rel="noreferrer" target="_blank">Google Scholar</a>
     <p>I'm interested in all things related to the science of learning, education, and technology. Currently, our lab is pursuing
     research projects in the following areas:
@@ -55,30 +61,29 @@ hide:
     </div>
 </div>
 
-
 ## Lab Alumni
 
-[Garrett O'Day](https://www.linkedin.com/in/garrett-oday/){target="_blank" rel="noreferrer"}<br>
+[Garrett O'Day](https://www.linkedin.com/in/garrett-oday/){target="\_blank" rel="noreferrer"}<br>
 Senior Manager, Research <br>
 Active Minds <br>
 Ph.D. Student (2016-2022)<br>
 
-[Amedee Martella](https://mayerlab.psych.ucsb.edu/people/amedee-martella){target="_blank" rel="noreferrer"}<br>
+[Amedee Martella](https://mayerlab.psych.ucsb.edu/people/amedee-martella){target="\_blank" rel="noreferrer"}<br>
 National Science Foundation Postdoctoral Research Fellow<br>
 University of California, Santa Barbra<br>
 Ph.D. Student (2019-2022)<br>
 
-[Caroline Byrd Hornburg](https://sites.google.com/view/caroline-byrd-hornburg){target="_blank" rel="noreferrer"}<br>
+[Caroline Byrd Hornburg](https://sites.google.com/view/caroline-byrd-hornburg){target="\_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 Virginia Tech<br>
 Postdoctoral Research Associate (2017-2019)<br>
 
-[Robert Ariel](https://sites.google.com/view/robert-ariel){target="_blank" rel="noreferrer"}<br>
+[Robert Ariel](https://sites.google.com/view/robert-ariel){target="\_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 Virginia Wesleyan University<br>
 Postdoctoral Research Associate (2015-2018)<br>
 
-[William Aue](https://www.linkedin.com/in/william-aue){target="_blank" rel="noreferrer"}<br>
+[William Aue](https://www.linkedin.com/in/william-aue){target="\_blank" rel="noreferrer"}<br>
 Research Psychologist<br>
 Air Force Research Laboratory<br>
 Postdoctoral Research Associate (2014-2018)<br>
@@ -93,32 +98,32 @@ Science Writer<br>
 Association for Psychological Science<br>
 Postdoctoral Research Associate (2013-2016)<br>
 
-[Joshua Whiffen](https://www.linkedin.com/in/joshua-whiffen-230618122){target="_blank" rel="noreferrer"}<br>
+[Joshua Whiffen](https://www.linkedin.com/in/joshua-whiffen-230618122){target="\_blank" rel="noreferrer"}<br>
 Data Analytics and Engineering<br>
 Credit Suisse<br>
 M.S. Student (2012-2016)<br>
 
-[Janell Blunt](https://anderson.edu/staff/dr-janell-blunt/){target="_blank" rel="noreferrer"}<br>
+[Janell Blunt](https://anderson.edu/staff/dr-janell-blunt/){target="\_blank" rel="noreferrer"}<br>
 Assistant Professor<br>
 Anderson University<br>
 Ph.D. Student (2011-2015)<br>
 
-[Megan Sumeracki](https://www.ric.edu/people-directory/megan-sumeracki){target="_blank" rel="noreferrer"}<br>
+[Megan Sumeracki](https://www.ric.edu/people-directory/megan-sumeracki){target="\_blank" rel="noreferrer"}<br>
 Associate Professor<br>
 Rhode Island College<br>
 Ph.D. Student (2011-2014)<br>
 
-[Melissa Lehman](https://www.lynn.edu/campus-directory/melissa-lehman){target="_blank" rel="noreferrer"}<br>
+[Melissa Lehman](https://www.lynn.edu/campus-directory/melissa-lehman){target="\_blank" rel="noreferrer"}<br>
 Associate Professor<br>
 Lynn University<br>
 Postdoctoral Research Associate (2011-2014)<br>
 
-[Phillip Grimaldi](http://www.phillipgrimaldi.com/){target="_blank" rel="noreferrer"}<br>
+[Phillip Grimaldi](http://www.phillipgrimaldi.com/){target="\_blank" rel="noreferrer"}<br>
 Senior Efficacy and Research Scientist<br>
 Khan Academy<br>
 Ph.D. Student (2008-2014)<br>
 
-[Althea Kaminske](https://www.sbu.edu/academics/faculty/kaminske-althea-need){target="_blank" rel="noreferrer"}<br>
+[Althea Kaminske](https://www.sbu.edu/academics/faculty/kaminske-althea-need){target="\_blank" rel="noreferrer"}<br>
 Associate Professor<br>
 St. Bonaventure University<br>
 Ph.D. Student (2008-2013)<br>

@@ -80,7 +80,7 @@ Feel free to remove any comments and plugins you don't need. For instance, if yo
     // Uncomment this line to show saved data at end
     // return jsPsych;
 
-````
+    ```
 
 === "Default experiment.js"
 
@@ -150,7 +150,7 @@ npm i @jspsych/plugin-instructions
 
 # we can also have our own custom developed plugins
 npm i @pcllab/consent-form-plugin
-````
+```
 
 ??? info "Using Local Plugins"
 
