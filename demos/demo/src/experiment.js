@@ -13,13 +13,22 @@ import FullscreenPlugin from "@jspsych/plugin-fullscreen";
 import HtmlKeyboardResponsePlugin from "@jspsych/plugin-html-keyboard-response";
 import PreloadPlugin from "@jspsych/plugin-preload";
 import { initJsPsych } from "jspsych";
+import InstructionsPlugin from "@jspsych/plugin-instructions";
+
+import ConsentFormPlugin from "@pcllab/consent-form-plugin";
 
 /**
  * This function will be executed by jsPsych Builder and is expected to run the jsPsych experiment
  *
  * @type {import("jspsych-builder").RunFunction}
  */
-export async function run({ assetPaths, input = {}, environment, title, version }) {
+export async function run({
+  assetPaths,
+  input = {},
+  environment,
+  title,
+  version,
+}) {
   const jsPsych = initJsPsych();
 
   const timeline = [];
@@ -32,21 +41,29 @@ export async function run({ assetPaths, input = {}, environment, title, version 
     video: assetPaths.video,
   });
 
-  // Welcome screen
+  // Switch to fullscreen
+  // timeline.push({
+  //   type: FullscreenPlugin,
+  //   fullscreen_mode: true,
+  // });
+
   timeline.push({
-    type: HtmlKeyboardResponsePlugin,
-    stimulus: "<p>Welcome to basic!<p/>",
+    type: ConsentFormPlugin,
   });
 
-  // Switch to fullscreen
   timeline.push({
-    type: FullscreenPlugin,
-    fullscreen_mode: true,
+    type: InstructionsPlugin,
+    pages: [
+      "Welcome to the experiment. Click next to begin.",
+      "This is the second page of instructions.",
+      "This is the final page.",
+    ],
+    show_clickable_nav: true,
   });
 
   await jsPsych.run(timeline);
 
   // Return the jsPsych instance so jsPsych Builder can access the experiment results (remove this
   // if you handle results yourself, be it here or in `on_finish()`)
-  return jsPsych;
+  // return jsPsych;
 }
