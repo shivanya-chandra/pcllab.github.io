@@ -6,6 +6,36 @@ The first examples come from `jsPsych-Plugins/pcllab-core/examples`. These shoul
 
     The snippets under the _Untested_ title come from `jsPsych-Plugins/pcllab-core/test` folders. These were created to test specific functionality and might not do what is expected.
 
+## Free Recall No Delete
+
+```js
+const freeRecall = {
+  type: "pcllab-core",
+  stimuli: [
+    {
+      response_type: "free_recall",
+      show_delete: false, // defaults to true
+    },
+  ],
+  show_button: true,
+};
+```
+
+## Horizontal Response Button
+
+```js
+let studyBlockPicture = {
+  type: "pcllab-core",
+  stimuli: [
+    {
+      response_type: "buttons",
+      buttons: ["Yes", "No"],
+    },
+  ],
+  response_columns: 2, // defaults to 1
+};
+```
+
 ## Experimenter Paced
 
 ```js
