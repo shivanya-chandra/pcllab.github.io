@@ -89,7 +89,7 @@ Indeed.com<br>
 M.S. Student (2016-2018)<br>
 
 **Ludmila Nunes**<br>
-Science Writer<br>
+Science Advisor<br>
 Association for Psychological Science<br>
 Postdoctoral Research Associate (2013-2016)<br>
 
