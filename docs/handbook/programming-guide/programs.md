@@ -4,15 +4,17 @@ This page describes the programs you will need to get started with web programmi
 
 **If you just want to run programs locally on your computer**, you need to:
 
-- [Get a GitHub Account](#get-a-github-account){target="\_blank" rel="noreferrer"}
-- [Clone a GitHub Repository](#clone-a-github-repository){target="\_blank" rel="noreferrer"}
-- [Get MAMP](#get-mamp){target="\_blank" rel="noreferrer"}
-  - If you're comfortable with the command line, [Use Command Line Alternative](#command-line-based-alternative){target="\_blank" rel="noreferrer"}
-- [Run a Program Locally on Your Computer](#run-a-program-locally-on-your-computer){target="\_blank" rel="noreferrer"}
+- [Get a GitHub Account](#get-a-github-account)
+- [Clone a GitHub Repository](#clone-a-github-repository)
+- [Get MAMP](#get-mamp)
+
+    - If you're comfortable with the command line, [Use MAMP Alternative](#mamp-alternative)
+
+- [Run a Program Locally on Your Computer](#run-a-program-locally-on-your-computer)
 
 **If you also want to edit and host programs**, you also need to:
 
-- [Get a Text Editor](#get-a-text-editor){target="\_blank" rel="noreferrer"}
+- [Get a Text Editor](#get-a-text-editor)
 - [Set Up a VPN](../connections-servers/VPN.md){target="\_blank" rel="noreferrer"}
 - [Connect to Jarvis](../connections-servers/jarvis.md){target="\_blank" rel="noreferrer"}
 
@@ -60,10 +62,11 @@ You will need a text editor to write and edit code. Popular ones are:
 - Visual Studio Code: <https://code.visualstudio.com>{target="\_blank" rel="noreferrer"}
 - Sublime Text: <http://www.sublimetext.com/>{target="\_blank" rel="noreferrer"}
 
-
 ## Get MAMP
 
 MAMP is a tool that lets you run a local server on your computer. You will need to use MAMP to run programs locally on a computer.
+
+If you are confortable using the command line or would like to learn, take a look at [MAMP alternative](#mamp-alternative).
 
 - Download and install MAMP: <https://www.mamp.info>{target="\_blank" rel="noreferrer"}
 - After installing, open MAMP and click Preferences. Select the Ports tab and put "8888" in the box next to Apache and "3306" in the port next to MySQL.
@@ -80,22 +83,30 @@ To run a program locally:
 - The URL for your particular experiment may be something like the following: http://localhost:8888/RepositoryName/experiment.html
 - If you have multiple experiment folders within a repository, your URL may be something like: http://localhost:8888/RepositoryName/E1/experiment.html
 
-### Command Line Based Alternative
+## MAMP Alternative
 
 If you have `node` and `npm` set up already, you may find it easier to use an package like [`http-server`](https://www.npmjs.com/package/http-server) to quickly get an experiment running locally.
 
-```bash
-# install it globally with npm or yarn etc
-npm  i -g http-server
+If not installed already, [download Node.js](https://nodejs.org/en/download/).
 
-# then run it where experiment.html is located
-http-server
+Once it finishes installing make sure it works by running `node -v`.
+
+```bash
+node -v
+
+v16.14.0 # your version will vary
+```
+
+This also gives us the `npm` and `npx` programs as well, which we will use to download and run javascript libraries published on [npm](https://npmjs.com).
+
+### Run an experiment locally
+
+```bash
+# run in the same directory where experiment.html is located
+npx http-server
 
 # if changes aren't updating on refresh, use -c-1 to disable caching
-http-server -c-1
-
-# or use npx to avoid a global installation (if you know what you're doing)
-npx http-server
+npx http-server -c-1
 ```
 
 ## More Technical Stuff

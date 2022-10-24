@@ -20,7 +20,7 @@ Templates of consent forms, debriefing forms, and Sona descriptions can be found
 
 ## Prepare an Experimenter Script
 
-You need a detailed instruction script for experimenters to follow when they run sessions. [Script Template](../../downloads/script_390.docx){target="\_blank" rel="noreferrer"}
+You need a detailed instruction script for experimenters to follow when they run sessions. [Script Template](../../downloads/script_390.docx)
 
 ## Prepare Other Paper Documents
 
@@ -36,4 +36,4 @@ You must keep a subject log. A Google Sheet is recommended. At a minimum, the su
 
 ## Prepare Computer Programs
 
-You will need to prepare a computer program to run your experiment. Programming is discussed in our [Lab Programming Guide](../web-experiments/getting-started.md), which is currently in progress.
+You will need to prepare a computer program to run your experiment. Programming is discussed in our [Lab Programming Guide](../programming-guide/programs.md), which is currently in progress.
