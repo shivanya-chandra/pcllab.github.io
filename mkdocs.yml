@@ -23,6 +23,7 @@ extra_javascript:
 markdown_extensions:
   - attr_list
   - pymdownx.extra
+  - pymdownx.keys
   - meta # Add frontmatter + allows hiding sidebars
   # For admonitions
   - admonition
