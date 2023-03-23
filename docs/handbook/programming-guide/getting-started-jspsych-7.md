@@ -130,14 +130,16 @@ To stop the development server, press ++ctrl+c++ (on MacOS as well!) in the term
 ```js
 //...
 
-await jsPsych.run(timeline);
-
-fetch("JARVIS_ENDPOINT_HERE", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
+const jsPsych = initJsPsych({
+  on_finish: () => {
+    fetch("JARVIS_ENDPOINT_HERE", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(jsPsych.data.get()),
+    });
   },
-  body: JSON.stringify(jsPsych.data.get()),
 });
 
 //...
