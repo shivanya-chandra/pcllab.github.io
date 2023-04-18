@@ -21,6 +21,7 @@ extra_javascript:
   - js/header.js
 
 markdown_extensions:
+  - mdx_truly_sane_lists
   - attr_list
   - pymdownx.extra
   - pymdownx.keys
@@ -120,3 +121,5 @@ nav:
           - Journals: handbook/resources/journals.md
       - Misc:
           - handbook/misc/mkdocs-customizations.md
+          - handbook/misc/plugin-development.md
+          - handbook/misc/server.md
