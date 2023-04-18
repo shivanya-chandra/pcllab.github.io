@@ -14,5 +14,5 @@ jobs:
           python-version: 3.x
       - run: pip install git+https://github.com/PCLLAB/mkdocs-material
       - run: pip install git+https://github.com/fralau/mkdocs_macros_plugin
-      - run: pip install git+git://github.com/radude/mdx_truly_sane_lists
+      - run: pip install git+https://github.com/radude/mdx_truly_sane_lists
       - run: mkdocs gh-deploy --force
