@@ -8,7 +8,7 @@ This page describes the programs you will need to get started with web programmi
 - [Clone a GitHub Repository](#clone-a-github-repository)
 - [Get MAMP](#get-mamp)
 
-    - If you're comfortable with the command line, [Use MAMP Alternative](#mamp-alternative)
+  - If you're comfortable with the command line, [Use MAMP Alternative](#mamp-alternative)
 
 - [Run a Program Locally on Your Computer](#run-a-program-locally-on-your-computer)
 
@@ -108,7 +108,3 @@ npx http-server
 # if changes aren't updating on refresh, use -c-1 to disable caching
 npx http-server -c-1
 ```
-
-## More Technical Stuff
-
-For more information about developing plugins, maintaining websites, and really niche things, check out <https://learninglab.psych.purdue.edu/docs/>{target="\_blank" rel="noreferrer"}
