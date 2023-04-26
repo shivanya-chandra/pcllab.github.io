@@ -10,7 +10,11 @@ Jarvis can refer to the physical computer (computers?) that you can ssh into and
 
 `/etc/nginx/conf.d/default.conf` You will need to edit this to if you want to change how certain routes on Jarvis are handled. You will probably have to run `nginx -s reload` after updates.
 
-`/etc/systemd/system` has files detailing the services
+`/etc/nginx/nginx.conf` This is the root config which "includes" the default.conf above.
+
+`/etc/systemd/system` has unit files detailing some services
+
+`/usr/lib/systemd/system` has unit files provided by installed packages
 
 `/etc/mongodb.conf` mongodb conf
 
