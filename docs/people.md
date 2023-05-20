@@ -61,6 +61,15 @@ hide:
     </div>
 </div>
 
+<div class="people-row">
+    <img src="../img/leonard.jpg" class="people-img">
+    <div>
+    <h2>Ryan Leonard</h2>
+    <h4>Programmer</h4>
+    <p>test text</p>
+    </div>
+</div>
+
 ## Lab Alumni
 
 [Garrett O'Day](https://www.linkedin.com/in/garrett-oday/){target="\_blank" rel="noreferrer"}<br>
