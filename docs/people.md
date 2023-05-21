@@ -62,7 +62,7 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/leonard.jpg" class="people-img">
+    <img src="../img/leonard.png" class="people-img">
     <div>
     <h2>Ryan Leonard</h2>
     <h4>Programmer</h4>
