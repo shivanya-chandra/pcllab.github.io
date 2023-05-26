@@ -6,8 +6,8 @@ This section outlines the basic structure and components used in most experiment
 
 When you run experiments in the lab, you will need to have a "login" page for the experimenter to type in the subject number and asign the participant to a version/counterbalence condition. 
 
-* lab-start.html will present this page and can be modified based on which/how many parameters need to be set by the experimenter before the start of the experiment.
-* verify.html will present a verification page to check that the information input during login was correct.
+- lab-start.html will present this page and can be modified based on which/how many parameters need to be set by the experimenter before the start of the experiment.
+- verify.html will present a verification page to check that the information input during login was correct.
 
 ## Consent Form (online experiments only)
 
