@@ -24,16 +24,16 @@ Cloning makes a copy of a GitHub repository locally on your computer. These inst
 
 If you are starting a new project (i.e., starting a new line of experiments), you will need to create a new repository. 
 
-- You can create a new repository on GitHub.com from the PCLLAB's organization page
+* You can create a new repository on GitHub.com from the PCLLAB's organization page
   - Navigate to the PCLLAB organization page on GitHub.com and Select "Repositories". 
   - Click on the green "New repository" button.
   - Give your new repo a meaningful name related to what this set of experiments is investigating. 
-      - "Flipped-Classroom" and "AdaptiveSpacing" are both good names because they describe the research topic clearly.
-      - "RPvsSP" and "MC_FirstYearProject" are not good names because they are not meaningful to anyone besides the person who created them. 
-      - Note: If you are concerned that the name used in the URL will alert participants to the purpose of the study and/or what is being manipulated, you can use less obvious names and simply include a helpful description.
+    - "Flipped-Classroom" and "AdaptiveSpacing" are both good names because they describe the research topic clearly.
+    - "RPvsSP" and "MC_FirstYearProject" are not good names because they are not meaningful to anyone besides the person who created them. 
+    - Note: If you are concerned that the name used in the URL will alert participants to the purpose of the study and/or what is being manipulated, you can use less obvious names and simply include a helpful description.
   - Click "Create repository".
     
-- Or you can create a new repository using the GitHub desktop app 
+* Or you can create a new repository using the GitHub desktop app 
   - Open the app and select "New repository" from the "File" dropdown menu. 
   - Give your new repo a meaningful name (see above for more information).
   - Set local path to your "htdocs" folder and click "Create repository".
@@ -46,11 +46,11 @@ Within a respository you should have separate folders for each experiment in tha
 - experiment.html – the html file for your experiment that will be used to define plugins
 - experiment.js – the file that you will use to program most of your experiment
 - lab-start.html – this is used if you needed to create a login screen (for in-lab experiments) 
-  - verify.html - this is used to present a verification screen after the login screen
+  - verify.html – this is used to present a verification screen after the login screen
 - anything ending in .css edits styling (font size, color, etc.)
-- plugins – folder containing all of the plugins
+* plugins – folder containing all of the plugins
   - files starting with jspsych are plugins created by jspsych
   - files starting with pcllab are plugins created specifically for our lab (you will use these the most)
   - plugin.js – the plugin you will need to define the path to this file in experiment.html
-      - There will be a readMe file or a comment at the top of the plugin.js file that explains the parameters that can be modified for the plugin
+    - There will be a readMe file or a comment at the top of the plugin.js file that explains the parameters that can be modified for the plugin
 
