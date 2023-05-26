@@ -82,7 +82,6 @@ nav:
           # - Web Programming: handbook/web-experiments/index.md
           - Getting Started: handbook/programming-guide/programs.md
           - Repositories: handbook/web-experiments/repositories.md
-          - Basic Experiment Structure: handbook/web-experiments/basic-experiment-structure.md
           - Common Tasks: handbook/web-experiments/common-tasks.md
           - Testing Experiments: handbook/web-experiments/testing-experiments.md
           - Troubleshooting and Common Errors: handbook/web-experiments/troubleshooting-and-common-errors.md
@@ -96,11 +95,12 @@ nav:
           - LearningLab Shared Server: handbook/connections-servers/learninglab-shared.md
           - Jarvis: handbook/connections-servers/jarvis.md
       - Lab Programming Guide:
+          - Necessary Programs: handbook/programming-guide/programs.md
+          - Repositories: handbook/programming-guide/repositories.md
+          - File Types: handbook/programming-guide/file-types.md
+          - Basic Experiment Structure: handbook/programming-guide/basic-experiment-structure.md
           - Getting Started w/ jsPsych7: handbook/programming-guide/getting-started-jspsych-7.md
           - Unsorted Examples: handbook/programming-guide/unsorted-examples.md
-          - Necessary Programs: handbook/programming-guide/programs.md
-          - File Types: handbook/programming-guide/file-types.md
-          - Repositories: handbook/programming-guide/repositories.md
           - Starting Experiments: handbook/programming-guide/starting.md
           - Essentials: handbook/programming-guide/essentials.md
           - Timeline: handbook/programming-guide/timeline.md
