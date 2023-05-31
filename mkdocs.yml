@@ -94,29 +94,30 @@ nav:
           - Set up a VPN: handbook/connections-servers/VPN.md
           - LearningLab Shared Server: handbook/connections-servers/learninglab-shared.md
           - Jarvis: handbook/connections-servers/jarvis.md
-      - Lab Programming Guide:
+      - Web Programming Guide:
           - Necessary Programs: handbook/programming-guide/programs.md
           - Repositories: handbook/programming-guide/repositories.md
           - File Types: handbook/programming-guide/file-types.md
-          - Basic Experiment Structure: handbook/programming-guide/basic-experiment-structure.md
           - Getting Started w/ jsPsych7: handbook/programming-guide/getting-started-jspsych-7.md
-          - Unsorted Examples: handbook/programming-guide/unsorted-examples.md
-          - Starting Experiments: handbook/programming-guide/starting.md
-          - Essentials: handbook/programming-guide/essentials.md
-          - Timeline: handbook/programming-guide/timeline.md
+          - Basic Experiment Structure: handbook/programming-guide/basic-experiment-structure.md
+          - Versions and Counterbalences: handbook/programming-guide/counterbalence.md  
+          - Starting Experiments: handbook/programming-guide/starting.md        
           - Materials: handbook/programming-guide/materials.md
-          - Versions and Counterbalences: handbook/programming-guide/counterbalence.md
-          - Presenting Text: handbook/programming-guide/read-text.md
-          - Study a List of Items: handbook/programming-guide/study-list.md
+          - Timeline: handbook/programming-guide/timeline.md
+          - Present Stimuli: handbook/programming-guide/study-list.md
+          - Distractor Tasks: handbook/programming-guide/distractor.md
           - Free Recall: handbook/programming-guide/free-recall.md
           - Cued Recall: handbook/programming-guide/cued-recall.md
-          - Distractor Tasks: handbook/programming-guide/distractor.md
           - Saving Data: handbook/programming-guide/saving-data.md
+          - Unsorted Examples: handbook/programming-guide/unsorted-examples.md
+          - Essentials: handbook/programming-guide/essentials.md
+          - Plugins: handbook/programming-guide/plugins.md
       - Resources:
           - Who's Who in the Psych Department: handbook/resources/whos-who.md
           - Recommendation Letters: handbook/resources/letters.md
           # File does not exist
           # - Graduate and Postdoctoral Training: resources/training.md
+          # - Job Search: handbook/resources/jobs.md
           - Travel Information: handbook/resources/travel.md
           - Journals: handbook/resources/journals.md
       - Misc:

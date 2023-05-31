@@ -123,6 +123,7 @@ This experiment is part of an ongoing, multi-year project examining the effectiv
 <p>Please print a copy of this consent document for your records.</p>
 <p>Please click the box below to indicate if you understand this document and consent to participate in this research study:</p>
 ```
+</details>
 
 ## Instructions
 
@@ -175,7 +176,7 @@ const instructionsTest = {
 
 ## Stimuli
 
-This is whatever the participant is given to learn/study/respond to etc. Stimuli are often text (e.g., a list of words, cue-target pairs, a text passage), but they can also be pictures (.jpg or .pgn), videos (.mp4) or audio clips (.wav). Regardless of their type, you should organize them in a JSON file(s). [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/){target="_blank" rel="noreferrer"} is an excellent tool for converting CVS files into JSON files (or other file types).
+This is whatever the participant is given to learn/study/respond to etc. Stimuli are often text (e.g., a list of words, cue-target pairs, a text passage), but they can also be pictures (.jpg or .pgn), videos (.mp4) or audio clips (.wav). Regardless of their type, you should organize them in a JSON file(s). [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/){target="_blank" rel="noreferrer"} is an excellent tool for converting CSV files into JSON files (or other file types).
 
 ```json
 // materials/stimuli.json
