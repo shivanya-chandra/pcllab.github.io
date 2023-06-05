@@ -72,7 +72,7 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/chu.png" class="people-img">
+    <img src="../img/chu.jpg" class="people-img">
     <div>
     <h2>Ryan Chu</h2>
     <h4>Programmer</h4>
