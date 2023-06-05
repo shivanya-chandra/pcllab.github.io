@@ -71,6 +71,15 @@ hide:
     </div>
 </div>
 
+<div class="people-row">
+    <img src="../img/chu.png" class="people-img">
+    <div>
+    <h2>Ryan Chu</h2>
+    <h4>Programmer</h4>
+    <p>I am currently a senior studying computer science with concentrations in software engineering and machine intelligence. My interests include learning and using new technologies to solve complex problems and boost efficiency in various fields. I will mainly be helping the researchers with developing web-based experiments and maintaining the existing codebase.</p>
+    </div>
+</div>
+
 ## Lab Alumni
 
 [Garrett O'Day](https://www.linkedin.com/in/garrett-oday/){target="\_blank" rel="noreferrer"}<br>
