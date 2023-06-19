@@ -1,91 +1,26 @@
 # MTurk
 
-<mark>**NOTE: This page is too long. Probably should be multiple pages.**</mark> 
-
 ## Links
 
-* TurkPrime: <https://www.turkprime.com>{target="_blank" rel="noreferrer"}
+* CloudResearch: <https://account.cloudresearch.com/Account/Login>{target="_blank" rel="noreferrer"}
 * Amazon Mechanical Turk: <https://www.mturk.com>{target="_blank" rel="noreferrer"}
 
-(Other possible links)
+* Note: Our lab's ID is A2Z7DRFCANJ7P
 
-* TurkOpticon (is this still in use?)
-* TurkerView 
-* Guidelines for Academic Requesters: <http://guidelines.wearedynamo.org/>{target="_blank" rel="noreferrer"}
-* Note that the TurkPrime documentation is good
-* Note that our lab is A2Z7DRFCANJ7P
-* mturkcrowd.com
-* mturkforum.com
+* Other Links:
+    - TurkOpticon: <https://turkopticon.net/>{target="_blank" rel="noreferrer"}
+    - TurkerView: <https://turkerview.com/>{target="_blank" rel="noreferrer"}
+    - Resources and Information: <https://journals.sagepub.com/doi/full/10.1177/0149206320969787>{target="_blank" rel="noreferrer"}
 
 ## Overview 
 
-[Amazon Mechanical Turk (MTurk)](https://www.mturk.com){target="_blank" rel="noreferrer"} is an online marketplace that can be used to collect data online quickly and cheaply. To manage and run MTurk experiments, we use [TurkPrime](https://www.turkprime.com){target="_blank" rel="noreferrer"}, a third-party website that provides a user-friendly interface. 
+[Amazon Mechanical Turk (MTurk)](https://www.mturk.com){target="_blank" rel="noreferrer"} is an online marketplace that can be used to collect data online quickly and cheaply by setting up HITs (Human Intelligence Tasks) that people can complete online. To manage and run MTurk experiments, we use [CloudResearch](https://www.cloudresearch.com/){target="_blank" rel="noreferrer"}, a third-party website that provides a user-friendly interface and useful features.
 
-## Before Using MTurk (OLD) (or, Preparing an MTurk Experiment)
+## Preparing your Experiment for MTurk 
 
-<mark>**TODO: We need to include specific instructions about what needs to go in a program so it works with MTurk. Like getting Amazon IDs and generating the code at the end.**</mark>
+* Experiment link: You will need to create a link for your web-based experiment (use [Jarvis](https://jarvis.psych.purdue.edu/){arget="_blank" rel="noreferrer"}). MTurk workers (called Turkers) will use the link to complete your experiment.
 
-You will need a link for a web-based experiment created using a code language (such as jsPsych) or Qualtrics. MTurk workers (called Turkers) will use the link to complete your experiment.
-
-Your experiment should also include a randomly generated code that each participant (turker) will enter on MTurk to prove they actually completed the experiment. This code should be displayed at the end of the experiment, typically at the bottom of the debriefing form.
-
-Finally, you will need to estimate the cost of the experiment and submit a request to run a paid experiment. Your cost estimates should be based on a 10c/minute rate and must include Amazon fees (you can obtain a precise cost estimate after creating the new project on MTurk and before posting your HITs). Be sure to update your consent form to reflect how much each participant will be paid.
-
-## Create a New Project in TurkPrime (OLD) (Project, or Experiment?)
-
-<mark>**NOTE: This section might be its own page**</mark><br>
-<mark>**TODO: There seem to be two methods: copying an old HIT, and creating a new one from scratch. Need to distinguish.**</mark>
-
-This section describes general procedures for setting up a new experiment on M-Turk with [TurkPrime](https://www.turkprime.com){target="_blank" rel="noreferrer"}. Log in to TurkPrime with the lab's email account. On the menu bar, click "Create a Study", then "MTurk Toolkit", <mark>IS THIS OUTDATED? then "Run a study on your own MTurk account"</mark>. This will take you to the MTurk Toolkit, a form with 9 pages for entering the details of your HIT. 
-
-### Creating a New Experiment from Scratch
-
-<mark>**TODO: The next part needs some fleshing out.**</mark>
-
-1.	**Panel Options.** Skip this. There are several detailed options on this page (which cost an additional fee) that we do not use. 
-2.	**Basic Info.** label the project and enter an email to notify you when the experiment has ran the selected number of participants. These are visible to Turkers.
-3.	**Describe HIT.** Describe the HIT to workers, typically generic: Title example: memory for key-term definitions …. Description example: In this experiment you will study a list of key-term definitions. Your memory for the definitions will be tested.
-4.	**Setup HIT and Payment.** [Description] Specifics…
-    - Pay subjects $0.10 per minute (e.g., $1 for 10 minutes, $2 for 20 minutes, etc.)
-    - Enter the number of subjects you want to participate 
-    - Enter how long they have to finish the experiment. I usually limit this to 20 minutes or so longer than the experiment takes. You do not want people to start your experiment and then take a break and come back to it later. Worse case scenario is they email you saying they did it but did not have enough time to turn it in. You may pay them after checking for them in your data.
-    - Choose how long you want to experiment to be posted for. I usually choose 1 week, but it never takes that long.
-    - Enter the link to your experiment on this tab!
-    - Check the box for displaying the HIT (experiment) to only workers that qualify. The final two boxes are a matter of preference.
-5.	**How Workers are Approved.** [Description]
-    - Add your completion code here
-    - Make sure the box to manually approve hits is checked. It is good practice to manually approve workers as one person could send the completion code to their friends, who would enter the code but not complete the experiment (their ID would not be in your data).
-6.	**Worker Requirements.** [Description]
-    - Choose to exclude workers from previous studies by checking them off [I DON'T UNDERSTAND WHAT THIS MEANS]. You can also only let people who completed a previous study participate (this would be useful for two part experiments as you do not want people who never completed the first experiment to do the second part)
-    - Make the country the United States
-    - HIT Approval Rating = 95-100% 
-    - Number of HITs = 1,000 - 1 million
-7.	**MicroBatch (Pro Feature).** [Description] [WHAT IS DIFF BETWEEN MICROBATCH AND HYPERBATCH?] Number of Participants per Batch = 9 (cuts price by 50%) [NOT CORRECT]
-8.	**Pro Features.** Skip this [I THINK? DOUBLE CHECK]. more features that cost money, but we do not really use this tab
-9.	**Save.** Saves the changes you made to these tabs, but does not post the experiment to MTurk
-
-<mark>**TODO: IS THE FOLLOWING STATEMENT CORRECT?**</mark> 
-
-To launch an experiment go to dashboard and click the green launch button.
-
-<mark>**TODO: Create a new section: Setting up multi-session studies**</mark>
-
-## How to create a new project in Turk Prime (FROM GARRETT)
-
-Go to https://www.turkprime.com/
-To log in, use Username: ***; Password: ***
-Click Dashboard to view the lab’s mTurk studies
-By default, live/pending studies will be displayed
-But previously completed studies can be viewed by changing the drop-down menu
-Find an old study and select Copy HIT (Human Intelligence Task) and confirm the copy by clicking Copy Study
-Now you will need to change the information to match your new study
-When you have finished updating the study information (be sure to read the notes below) click save.
-Now is a good time to double check that the correct link has been added the study on Turk Prime. You can click on the study and then click External Survey Link.
-When you are ready to start collecting data, you can click the green Launch button
-
-Saving mTurk IDs
-
-Turk Prime automatically inserts query data into the URL. The following code gets that data and adds it to the to-be-saved data.
+* Save participant ID: You will need to record each participants "workerId" (This will let you match a person to their completion code and/or verify that someone who contacts you actually complete the HIT). Turk Prime automatically inserts query data into the URL. The following code gets that data and adds it to the to-be-saved data.
 
 ```javascript
 // get workerId from URL
@@ -95,65 +30,102 @@ Var subNum = jsPsych.data.getURLVariable(“workerId”)
 jsPsych.data.addProperties({
 	subject: subNum
 })
-```
+``` 
 
-## Approving Results (OLD)
+* Completion code: Your experiment should include a unique randomly generated code for each participant (turker). They will enter this code on MTurk to prove they actually completed the experiment. This code should be displayed at the end of the experiment, after the data has been saved (typically at the bottom of the debriefing form).
 
-<mark>**Garrett's info further down on this page is good.**</mark><br>
+## Create a New Study on CloudResearch 
 
-You will be notified when all of the participants have completed the experiment. Navigate to dashboard => completed => manage pending in order to approve the workers. This will give you a list of people who said they completed the experiment. If not, do not approve the HIT. Your experiment should record the MTurk ID for each participant. It is good practice to manually check each ID on Turkprime against the IDs that are saved in your data. This way you are sure to only pay people who participated in your experiment.
+Log in to CloudResearch with the lab's MTurk email account. 
 
-(This paragraph needs review.) An assignment should always be approved, unless it is clear the Worker did not follow the instructions in the HIT. The codes input by the workers should be checked against the codes generated by your testing program. When a code does not match try to figure out if it is just a typo or if the worker emailed you.
+Either copy and modify a prior study (completed studies will be in the "Archived" tab) by choosing "Copy Study" from the "Options" menu under the study you wish to copy or click "Create a Study" and select "MTurk Toolkit". 
 
-Every HIT has an AutoApprovalDelayInSeconds, an amount of time after an assignment is submitted at which point Amazon Mechanical Turk will automatically approve the assignment and pay the Worker if it has not already been explicitly approved or rejected. If not specified this is set to the maximum, equivalent to 30 days. The maximum value assures that the Worker will get paid even if the Requester is unavailable. You may wish to specify a shorter auto-approval delay if the Workers are trusted (such as by having been vetted with Qualification requirements) and to assure Workers that they will be paid in a timely manner. When you approve a HIT Amazon Mechanical Turk automatically processes payment of the reward to the Worker, and payment of the HIT listing fee, using the money in your Amazon.com account. You will not be charged for the reward, nor for the listing fee, if the results are rejected.
+Then, fill out each page of the study details (see below).
 
-## Approving Workers (FROM GARRETT)
+### Study Details
 
-After workers finish your experiment they will submit the HIT. Typically, we have some string of random characters that is presented at the end of an experiment. Subjects are informed that they should type this string into a textbox in order to receive payment. Most people type the string in correctly, some people type in their worker id, and others just make stuff up. 
+1. **Basic Info.** 
+    - Project Name: Give your project a name that will let you and other lab members know exactly what project this HIT belongs to (e.g., "ODay Dissertation E4" or "Delayed Self-Scoring E3). Note: this is not the name the particiants will see.
+    - Email Address: Enter an email to notify you when the experiment has ran the selected number of participants. Make sure that you check this often/regularly while you are collecting data so that you can quickly respond to participants if they contact you. 
+    - Survey Hyperlink: This should be the "Experiment URL" generated by Jarvis or the "Survey Link" if you are using quotas in Jarvis.
+    - Auto-capture worker information: Choose "Yes" to have the WorkerId, hitId, and assignmentId added to the URL. Make sure that your experiment program is pulling these from the URL and saving them to the data. Note: you can opt. to use an Anotmized workerId under "Additional Privacy Options".
+2.	**Describe HIT.** Describe the HIT to workers, typically generic information describing a memory experiment or decision-making task (if test is incidental). 
+    - Title examples: "Memory for key-term definitions" or "Memory Experient" or "Decision-Making Task" 
+    - Description example: "In this experiment you will study a list of key-term definitions. Your memory for the definitions will be tested." or "You will see words, nonwords, sentences, pictures and/or faces and will be asked to respond to them." 
+3.	**Setup HIT and Payment.** 
+    - Worker Payment Per Survey: The amount participants will be paid upon completion of the HIT. 
+        - We used to pay subjects $0.10 per minute (e.g., $1 for 10 minutes, $2 for 20 minutes, etc.) which works out to $6 per hour. 
+        - However, it is currently recommended that the hourly average pay be least minimum wage ($7.25 per hour) and preferably between the  Federal & highest statewide (CA) minimum wages. 
+        - Note: $10 per hour seems to be acceptable to most Turkers.
+    - Expected Time To Complete Assignment: This should be your best estimate of the maximum time to complete the experiment. Note: Make this a conservative estimate because workers will be pleasantly surpised if it takes less time than anticipated but very unhappy if it goes over. 
+    - Time Allotted Per Assignment: How long they have to finish the experiment once they accept the HIT. This should be 3-4 times the expected length. You do not want people to start your experiment and then take a break and come back to it later (ask them to complete the HIT in some sitting at the start), but you also do not want them to be locked out of the HIT if it took them a bit longer than expected to finish. Giving them the right sized window allows them to start once they are ready (have elimianted disctacted and prepared to finish in one sitting) while still encoraging them to finish in a timely manner. Error on the shorter side (i.e., 90 minutes for a 30 minute experiment); worst case scenario is they email you saying they finished the HIT but did not have enough time to submit their completion code and you then set up a dummmy HIT to pay them after checking for them in your data.
+    - HIT Experires In: Choose how long you want to experiment to be posted for. I usually choose 1 week, but it never takes that long.
+    - Batching Options: Choose "HyperBatch" this will create multiple smaller (n = 9) HITs which will lower the MTurk fee. ("MicroBatch" is similar but will take longer because the HITs are posted squentially rather than simultaneously)
+    - Additional HIT Options: 
+        - Select all EXCEPT "Display the Median Hourly Rate" (Because the median time is usually longer than the actual time spent completing the experiment this rate can be misleading) and "Do you want to automatically bonus all workers in your study?". 
+        - Set "Location Requirements" to "must be from United States". 
+4. **Demographics.**
+    - Number of Survey Paricipants: Enter the number of subjects you want to participate. 
+    - Choose Demographics: Leave blank; these cost extra.
+    - Enter the link to your experiment on this tab!
+    - Check the box for displaying the HIT (experiment) to only workers that qualify. The final two boxes are a matter of preference.
+5. **Data Quality**
+    - Select "CloudReseach Approved Participants" and ALL options under "Additional Data Quality Settings"
+6.	**How Workers are Approved.** 
+    - Select option to "Manually" approve HITs. It is good practice to manually approve workers as one person could send the completion code to their friends, who would enter the code but not complete the experiment (their ID would not be in your data).
+    - Select "Custom Completion Code"
+    - Autopay Workers In: Set time frame for when participants will be automatically paid if not manually approved/rejected. Have this be less than 30 days; I suggest 7 days because you will be approving/rejecting everyone within 24 hours and Turkers are reluctant to participate if they think they might have to wait very long to be paid.
+7.	**Worker Requirements.** 
+    - Choose to exclude workers who are not eligible for this experiment. 
+        Exclude workers who complete these surveys: Use this to exclude pariticipants who already a completed similar experiment. For example, an prior experiment in the same line (i.e., exclude anyone who did E1 from doing E2) or an experiment that used the same stimuli. Select them from the drop-down list.
+        - Super Exclude: Select this option! It will exclude participants who started one of those HITs, even if they didn't finish it.
+        - Survery Group: Lets you group experiments together such that workers can only participate/start one from that group. This is a newer feature that we can use moving forward to group experiments by line such that one person can only participate once for that set of experiment.
+        - Worker Group: Is similar to "Survey Group" but you can use to either include of exclude across experiments. This could be used to make sure that a worker who has already learned Lithuanian-English translations in one experiment isn't allowed to participate in future experiments (even if from a different line/procedure) that include that type of stimuli.
+       - Naivete: Leave blank
+    - Alternatively, you can choose to include only certain workers. For example, only people who completed part one of a two-part experiment. Note: if you have to set up a dummy HIT to pay a participant who finished an experiment but wasn't paid by MTurk, restrict that HIT to only include that person's ID.
+    - Worker Qualification: Select "Yes"
+        - HIT Approval Rating = 95-100% 
+        - Number of HITs Approved= 1,000 - 1 million
+8.	**Save.** Saves the changes you made to these tabs, but does not post the experiment to MTurk.
+
+<mark>**TODO: IS THE FOLLOWING STATEMENT CORRECT?**</mark> 
+
+To launch an experiment go to dashboard and click the green launch button.
+
+<mark>**TODO: Create a new section: Setting up multi-session studies**</mark>
+
+## Approving Workers
+
+After workers finish your experiment, they will submit the HIT. Typically, we have some string of random characters that is presented at the end of an experiment (i.e., a "completion code"). Subjects are informed that they should type this string into a textbox in order to receive payment. Most people type the string in correctly, some people type in their worker id, and others just make stuff up. 
  
-I believe there are fancy ways to generate random strings for each subject and have that random string show up on Turk Prime so you can check to see if they actually completed the experiment. In my experiments, subjects enter a fixed string. That is, every subject sees the same string of characters. So, one person could post that string online and people could submit the HIT to my experiment and enter this string correctly. For that reason, I approve all workers manually.
+Because this code is housed within our experiment and is external to CloudResearch, you will need to open your data file and the Hit approval menu together. 
  
-I open up my data file on one side of my screen and the HIT approval menu on the other. I copy the worker id from the approval menu and use the search function in excel to see if this id appears in my data set. If it does, I do a quick skim of the data to make sure they tried. Did they answer some questions? Are there responses coherent? Does it seem like a person rather than a computer program generated these responses? If yes, I accept their HIT and they are paid. If they completed a 60 minute experiment in 5 minutes and everything is blank, then I reject their HIT.
+You can copy the workerId from the approval menu and use the search function in excel to see if the Id appears in your data set (indicating that the participate completed the experiment). If it does, do a quick skim of the data to make sure they tried. Did they answer some questions? Are there responses coherent? Does it seem like a person rather than a computer program generated these responses? If yes, you can accept their HIT and they are paid. If they completed a 60 minute experiment in 5 minutes and everything is blank, then either reject their HIT or add them to an exclude list so that they will not be able to complete any of our future experiments.
  
 Since we restrict the participants to have a really high approval rating (95% or higher) people don’t like being rejected. It hurts their high status that they have worked very hard for. If you reject someone, expect emails. Make sure every rejection is justified. As stated before, some people type in random completion codes. They are doing this in hopes of getting accepted for HITs they didn’t complete. These should be rejected and probably won’t email. For example, this worker id would submit the HIT, an incorrect completion code, and would not show up in the data. This person did not do the experiment and should not be paid.
 
-## Handling Emails from MTurk Subjects (OLD)
+## Responding to Emails 
 
-While you are running an experiment on MTurk pay attention to the learnlabmturk@gmail.com and reply in a timely fashion to the workers emails. Workers usually email concerning technical difficulties. Some of the problems described are common and you can find the common lab responses under “canned responses” on the lower left corner of the email composition window. Remember to always be polite in your response and try to solve the workers issues.
-
-## Responding to Emails (FROM GARRETT)
-
-While you are running an experiment on MTurk pay attention to the @gmail.com (password is ) and reply in a timely fashion to the workers emails. Workers usually email concerning technical difficulties. Some of the problems described are common and you can find the common lab responses under “canned responses” on the lower left corner of the email composition window. Remember to always be polite in your response and try to solve the workers issues.
+While you are running an experiment on MTurk pay attention to the learnlabmturk@gmail.com and reply in a timely fashion to the workers emails. Workers usually email concerning technical difficulties. Some of the problems described are common and you can find the common lab responses under “canned responses” on the lower left corner of the email composition window. Remember to always be polite in your response and try to solve the workers issues. They tend to be friendly and appreciative and will share positive (and negative) interactions on TurkOpticon and TurkView.
  
-The most common problem is people forgot to submit the HIT before it expired. Best case scenario is that you see they accepted the HIT and you can still pay them. Worst case scenario is that you have to create a new HIT, that only they can complete (you can specify this using their worker id which they will send you when they email). You create this HIT and a send them an email notification. They submit this “make-up” HIT where they don’t have to do anything and you pay them for that HIT.
+The most common problem is people forgetting or failing to submit the completion code before before the HIT expired. Best case scenario is that you see they completed the HIT but didn't put in the correct completion code and you can still pay them. Worst case scenario is that you have to create a new HIT, that only they can complete (you can specify this using their workerId which they will send you when they email). You create this HIT and a send them an email notification. They submit this “make-up” or "dummy" HIT where they don’t have to do anything and you pay them for that HIT.
  
-Another common problem is people have trouble with the experiment. This happens because people close the tab, click refresh, lose internet access, etc. I tend to make them redo the experiment in order to guarantee they did the experiment and to ensure their id is in the list of people who accepted the HIT. I then exclude their data as they could have potentially completed the experiment twice (double the study time and exposures).
+Another common problem is people have trouble with the experiment. This happens because people close the tab, click refresh, lose internet access, etc. I tend to make them redo the experiment in order to guarantee they did the experiment and to ensure their Id is in the list of people who completed the HIT. Make sure to exclude their data as they could have potentially completed the experiment twice (double the study time and exposure).
 
-
-
-## Best Practices (formerly "Notes about creating HITs")
-
-- I would keep the subject number low at first. It can be increased later but never decreased.
-- Be sure to pilot your experiment yourself first, then with 390s, and then with some mTurkers. It is far better to find out your experiment works before you pay 200 people.
-- Panel options cost more and we typically don’t need any of them to be turned on
-- Use a personal email address for the email. This emails you when the study is finished. Creating less clutter in the email used for the mTurk account
-- As of right now, we pay people $0.10/min
-- Make your expected time to complete longer than it takes. If people finish early they are happy. If they finish late they are mad. It is definitely worth it to spend another $0.50-$1.00 to not deal with whiny mTurkers. Plus, we are reviewed online and want to cultivate a positive and fair reputation.
-- I usually give double the expected time for the allotted time per assignment (the amount of time they have to turn in the HIT after they accept the HIT)
-- I usually set the HIT expiration to be 1-3 days. 
-- Turk Prime will automatically add a query string for the variable “workerId”, so you will need to store that in the experiment.html file and add it to the to-be-saved data
-- Double check that you pasted the correct experiment link
-- I set auto pay workers to be 3 days. You will wait to pay workers as quickly as possible to avoid complaints.
-- Under worker requirements, you can exclude people who completed other experiments. This is important if you are using the same material across experiments. Be sure to check the lab materials google sheet to see what materials other people in the lab are using.
-- Under worker requirements, you can require people to have completed previous experiments to participate. In other words, you could make a HIT for the second session of an experiment and only people who completed part 1 can complete part 2.
-- To improve the quality of the collected data we restrict the approval rating to be 95% or higher and that participants must have completed more than 1000 HITs
-- You will also want to choose to Block Suspicious Geocode Locations
-- Turk Prime posts studies in micro batches of 9 people to save money. Do not make this number greater than 9 because you will be charged more money.
-- Currently, there is no way to get an equal amount of people in each condition from random assignment. I usually run 80% of the sample picking a random condition from an array. I round out the sample by running small patches of only people in one condition. I pick the condition order for this rounding phase at random. Note, you have to set the condition variable in your experiment (subCond = “A”) and update the file on jarvis.
-
-
-
-
+## Best Practices 
+* Be sure to pilot your experiment yourself first, then with 390s, and then with some mTurkers. Test it out with 5-10 people. After, look at the data to make sure everything is recorded correctly, check the recorded duration from the data to make sure your estimate was correct, read any comments/email from participants. If applicable fixs issues/make changes (if you do, be sure to exclude those participants from the final analyses) before posting for the target sample size.
+* Keep the subject number low at first. It can be increased later but never decreased. You might be tempted to add extra participants to the total assuming that some will be excluded later, but it is better to add a new HIT once you know exactly how many more people you will need.
+* Panel options/custom demographics cost more and we typically don’t need any of them to be turned on.
+* Use a personal email address for the email. This emails you when the study is finished. Creating less clutter in the email used for the mTurk account.
+* Make your expected time to complete longer than it takes. If people finish early they are happy. If they finish late they are very mad. It is definitely worth it to spend another $0.50-$1.00 to not deal with upset/angry MTurkers who feel like you misled them. Plus, we are reviewed online and want to cultivate a reputation as being positive and fair.
+* I usually triple the expected time for the allotted time per assignment (the amount of time they have to turn in the HIT after they accept the HIT).
+* I usually set the HIT expiration to be 1-3 days (not more than 7). But, you should approve them as quickly as possibly (ideally within 24 hours) to avoid complaints.
+* Turk Prime will automatically add a query string for the variable “workerId”, so you will need to store that in the experiment.html file and add it to the to-be-saved data
+* Double check that you pasted the correct experiment link. Then check it again just to be extra sure.
+* Under worker requirements, you can exclude people who completed other experiments. This is important if you are using the same material across experiments. Add HITs to a "Worker Group" for the stimuli you are using so that the can be excluded from similar experiments.
+* Under worker requirements, you can require people to have completed previous experiments to participate. In other words, you could make a HIT for the second session of an experiment and only people who completed part 1 can complete part 2.
+* To improve the quality of the collected data we restrict the approval rating to be 95% or higher and that participants must have completed more than 1000 HITs
+* If you want to make sure you get an equal amount of people in each condition using a single link and random assignment you can use the quota function on Jarvis. Make sure to update the "quota amount" regularly to make sure that participants are only assigned to conditions that still need more participants. If the "quota amount" is equal to or greater than the "current amount" for all conditions then assignment will be random otherwise, participants will be assigned only to conditions that haven't reached the quota.
 
 ## Definitions
 
