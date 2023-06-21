@@ -21,14 +21,14 @@ This page describes key things to know about working in [Sona](https://purdue-ps
 * You will see a table that lists your experiments. Find the experiment you want to post timeslots for, and click “Timeslots” in the right column. If the experiment is a multi-session study, you will see separate links for each session (e.g., “Part 1 Timeslots” and “Part 2 Timeslots”). 
 * If you are creating multiple sessions, click “Add Multiple Timeslots”. If you are only creating one session, click “Add A Timeslot”. 
 * Complete the form to create timeslots. (See the screenshot on the next page.) Enter the following information, then click the “Add” button:
-    * **Number of Timeslots**
-    * **Date**
-    * **Start Time** (of your first session). Double check AM/PM. 
-    * **Free time between slots**. Leave this set to 0.
-    * **Move timeslots to business hours?**. Leave this set to "No".
-    * **Number of Participants** (per timeslot). Make sure this number is not larger than the number of computers in the room you are using.
-    * **Location**. Enter: "PRCE ___ Waiting Room (Please arrive early)"
-    * **Researcher**. Make sure your name is selected.
+  - **Number of Timeslots**
+  - **Date**
+  - **Start Time** (of your first session). Double check AM/PM. 
+  - **Free time between slots**. Leave this set to 0.
+  - **Move timeslots to business hours?**. Leave this set to "No".
+  - **Number of Participants** (per timeslot). Make sure this number is not larger than the number of computers in the room you are using.
+  - **Location**. Enter: "PRCE ___ Waiting Room (Please arrive early)"
+  - **Researcher**. Make sure your name is selected.
 
 **Example:**
 

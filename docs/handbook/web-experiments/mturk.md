@@ -1,5 +1,9 @@
 # MTurk
 
+## Overview 
+
+[Amazon Mechanical Turk (MTurk)](https://www.mturk.com){target="_blank" rel="noreferrer"} is an online marketplace that can be used to collect data online quickly and cheaply by setting up HITs (Human Intelligence Tasks) that people can complete online. To manage and run MTurk experiments, we use [CloudResearch](https://www.cloudresearch.com/){target="_blank" rel="noreferrer"}, a third-party website that provides a user-friendly interface and useful features.
+
 ## Links
 
 * CloudResearch: <https://account.cloudresearch.com/Account/Login>{target="_blank" rel="noreferrer"}
@@ -11,10 +15,6 @@
   - TurkOpticon: <https://turkopticon.net/>{target="_blank" rel="noreferrer"}
   - TurkerView: <https://turkerview.com/>{target="_blank" rel="noreferrer"}
   - Resources and Information: <https://journals.sagepub.com/doi/full/10.1177/0149206320969787>{target="_blank" rel="noreferrer"}
-
-## Overview 
-
-[Amazon Mechanical Turk (MTurk)](https://www.mturk.com){target="_blank" rel="noreferrer"} is an online marketplace that can be used to collect data online quickly and cheaply by setting up HITs (Human Intelligence Tasks) that people can complete online. To manage and run MTurk experiments, we use [CloudResearch](https://www.cloudresearch.com/){target="_blank" rel="noreferrer"}, a third-party website that provides a user-friendly interface and useful features.
 
 ## Preparing your Experiment for MTurk 
 
@@ -55,7 +55,7 @@ Then, fill out each page of the study details (see below).
 3.	**Setup HIT and Payment.** 
   - Worker Payment Per Survey: The amount participants will be paid upon completion of the HIT. 
     - We used to pay subjects $0.10 per minute (e.g., $1 for 10 minutes, $2 for 20 minutes, etc.) which works out to $6 per hour. 
-    - However, it is currently recommended that the hourly average pay be least minimum wage ($7.25 per hour) and preferably between the  Federal & highest statewide (CA) minimum wages. 
+    - However, it is recommended that the hourly average pay be least minimum wage ($7.25 per hour) and preferably between the Federal & highest statewide (CA) minimum wages. 
     - Note: $10 per hour seems to be acceptable to most Turkers.
   - Expected Time To Complete Assignment: This should be your best estimate of the maximum time to complete the experiment. Note: Make this a conservative estimate because workers will be pleasantly surpised if it takes less time than anticipated but very unhappy if it goes over. 
   - Time Allotted Per Assignment: How long they have to finish the experiment once they accept the HIT. This should be 3-4 times the expected length. You do not want people to start your experiment and then take a break and come back to it later (ask them to complete the HIT in some sitting at the start), but you also do not want them to be locked out of the HIT if it took them a bit longer than expected to finish. Giving them the right sized window allows them to start once they are ready (have elimianted disctacted and prepared to finish in one sitting) while still encoraging them to finish in a timely manner. Error on the shorter side (i.e., 90 minutes for a 30 minute experiment); worst case scenario is they email you saying they finished the HIT but did not have enough time to submit their completion code and you then set up a dummmy HIT to pay them after checking for them in your data.
@@ -133,11 +133,11 @@ While you are running an experiment on MTurk pay attention to the learnlabmturk@
 ## Definitions
 
 Definitions[edit]
-- AA: Auto Approval Time. A requester sets an auto-approval time of anywhere between 0 Seconds and 30 days for every HIT they create. After a HIT is submitted, it will automatically approve after this amount of time has gone past. (sometimes AA used to refer to AndAccept links instead of “PandA”.)
-- AMT: Amazon Mechanical Turk (mturk) A website for completing tasks for pay. A cloud-based labor platform designed to connect people who need data (Requesters) with people who are willing to provide it (workers). (Source = /r/mturk FAQ)
-- Batch: A type of HIT designed to allow a worker to complete multiple submission. You can complete as many HITs in the batch as it allows, unless otherwise advised by the requester’s instructions.
-- Blocks (Hard/Soft): A way for a requester to prevent a worker from accepting any of their HITs. A turker who receives blocks can be at risk of having their MTurk account suspended (banned). We usually do not block workers. When we want to prevent a worker or group of workers from doing our HITs we create a qualification and exclude those who have that qualification.
-- Bonus HITs: HITs specifically created for a worker that completed a HIT (or part of it) but, for some reason, was not able to submit the final code or appear in the list of workers who completed the HIT but contacted us via email.
-- HIT: Human Intelligence Task. A job posted to Amazon’s mTurk platform. Referred to as “human intelligence tasks” due to the fact that bots/programs are less capable of performing the work than human beings.
-- Masters: Master Qualification, Categorization Masters, Photo Moderation Masters “Masters are an elite group of Workers, who have demonstrated superior performance while completing thousands of HITs for a variety of Requesters across the Mechanical Turk Marketplace. Masters must maintain this high level of performance or risk losing this distinction. Mechanical Turk has built technology which analyzes Worker performance, identifies high performing Workers and monitors their performance over time.” (Source: Amazon Mechanical Turk FAQ) Using Masters usually imply higher Amazon fees. We do not usually use Masters.
-- Turker: Someone who works to complete tasks for pay on Amazon’s Mechanical Turk.
+  - AA: Auto Approval Time. A requester sets an auto-approval time of anywhere between 0 Seconds and 30 days for every HIT they create. After a HIT is submitted, it will automatically approve after this amount of time has gone past. (sometimes AA used to refer to AndAccept links instead of “PandA”.)
+  - AMT: Amazon Mechanical Turk (mturk) A website for completing tasks for pay. A cloud-based labor platform designed to connect people who need data (Requesters) with people who are willing to provide it (workers). (Source = /r/mturk FAQ)
+  - Batch: A type of HIT designed to allow a worker to complete multiple submission. You can complete as many HITs in the batch as it allows, unless otherwise advised by the requester’s instructions.
+  - Blocks (Hard/Soft): A way for a requester to prevent a worker from accepting any of their HITs. A turker who receives blocks can be at risk of having their MTurk account suspended (banned). We usually do not block workers. When we want to prevent a worker or group of workers from doing our HITs we create a qualification and exclude those who have that qualification.
+  - Bonus HITs: HITs specifically created for a worker that completed a HIT (or part of it) but, for some reason, was not able to submit the final code or appear in the list of workers who completed the HIT but contacted us via email.
+  - HIT: Human Intelligence Task. A job posted to Amazon’s mTurk platform. Referred to as “human intelligence tasks” due to the fact that bots/programs are less capable of performing the work than human beings.
+  - Masters: Master Qualification, Categorization Masters, Photo Moderation Masters “Masters are an elite group of Workers, who have demonstrated superior performance while completing thousands of HITs for a variety of Requesters across the Mechanical Turk Marketplace. Masters must maintain this high level of performance or risk losing this distinction. Mechanical Turk has built technology which analyzes Worker performance, identifies high performing Workers and monitors their performance over time.” (Source: Amazon Mechanical Turk FAQ) Using Masters usually imply higher Amazon fees. We do not usually use Masters.
+  - Turker: Someone who works to complete tasks for pay on Amazon’s Mechanical Turk.

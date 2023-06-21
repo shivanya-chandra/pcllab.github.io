@@ -34,13 +34,13 @@ I need you to provide me with the following things:
 
 1. The first due date
 2. A table (see example below) that includes:
-    * The schools to which you are applying
-    * The due dates for each school (sort the table by due date!)
-    * The department and/or program at each school
-    * The method for submitting the letter
-        * If online is an option, I strongly prefer that
-        * If I need to email the letter to someone, include the email address
-        * If I need to send a paper letter, I need the address AND any additional "recommendation forms" required, filled out by you in advance
+  * The schools to which you are applying
+  * The due dates for each school (sort the table by due date!)
+  * The department and/or program at each school
+  * The method for submitting the letter
+    - If online is an option, I strongly prefer that
+    - If I need to email the letter to someone, include the email address
+    - If I need to send a paper letter, I need the address AND any additional "recommendation forms" required, filled out by you in advance
 3.	Your Vita or Resume
 4.	Your transcript – e.g., from myPurdue (for graduate school applicants)
 5.	Your GRE scores (for graduate school applicants)
