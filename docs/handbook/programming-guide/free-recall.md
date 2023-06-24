@@ -22,6 +22,8 @@ const freeRecall = {
 ```
 
 ## Free-Recall-List
+pcllab-free-recall-list is a more updated plugin for free recall tasks in terms of visuals and function. It contains an automatic scoring function, where the parameter word_file can be set to a file that contains all correct answers, and the parameter exact_response determines if the answer needs to be an exact match to be given credit.
+
 ```js
 let freeRecall = {
   type: "pcllab-free-recall-list",
