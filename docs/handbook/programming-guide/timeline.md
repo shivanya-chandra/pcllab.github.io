@@ -1,5 +1,5 @@
 ## Overview
-[jsPsych] (https://www.jspsych.org/7.0/overview/timeline/) has a nice description of different ways of using the timeline. In our experiments, this.timeline is initialized as an empty array at the beginning of the program. To add event to the timeline, we use this.timeline.push(functionName) within the buildTimeline() function. See an example:
+[jsPsych] (https://www.jspsych.org/7.0/overview/timeline/) {target="_blank" rel="noreferrer"} has a nice description of different ways of using the timeline. In our experiments, this.timeline is initialized as an empty array at the beginning of the program. To add event to the timeline, we use this.timeline.push(functionName) within the buildTimeline() function. See an example:
 ```js
 const start = {
     type: "pcllab-core",
