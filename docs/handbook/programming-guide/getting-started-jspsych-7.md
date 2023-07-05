@@ -1,9 +1,5 @@
 # Modern Workflow Tutorial
 
-!!! warning
-
-    This page is still under construction
-
 ## Set up new experiments
 
 Requirements:
@@ -24,11 +20,15 @@ npm create @pcllab/exp
 npm create @pcllab/exp .
 ```
 
+```bash title="Terminal
+Include pages to manually assign conditions before the experiment? (y/N)
+```
+
 Follow the instructions and finish setup by installing the dependencies.
 
 ```bash title="Terminal > /sample-experiment"
 # If a folder was created, cd into the directory
-cd sample-experiment
+cd sample-exp
 
 npm install
 ```
@@ -36,7 +36,7 @@ npm install
 Finally, you should have a file structure that looks like this.
 
 ```
-📂 sample-experiment
+📂 sample-exp
 --  📂 node_modules
 --  📂 public
 --  📂 src
@@ -51,7 +51,7 @@ Finally, you should have a file structure that looks like this.
 
 ## Step 2: Adding trials and using plugins
 
-It's time to add new trials. First we have to install the desired plugins. We will install `@pcllab/consent-form-plugin` to show a consent page before the experiment starts and `@jspsych/plugin-instructions` to show instructions.
+It's time to add new trials. First we have to install the desired plugins. We will install `@jspsych/plugin-instructions` to show instructions and `@pcllab/plugin-free-recall` to show a free recall trial.
 
 With this modern workflow, we can install plugins from the terminal. These plugins are hosted on [npm](https://npmjs.com), a registry for javascript packages.
 
@@ -60,7 +60,7 @@ With this modern workflow, we can install plugins from the terminal. These plugi
 npm i @jspsych/plugin-instructions
 
 # we can also have our own custom developed plugins
-npm i @pcllab/consent-form-plugin
+npm i @pcllab/plugin-free-recall
 ```
 
 ??? info "Using Local Plugins"
@@ -70,38 +70,27 @@ npm i @pcllab/consent-form-plugin
     import jsPsychInstructions from "../plugins/plugin-instructions";
     ```
 
-    This is not recommeneded, since it makes it harder to maintain plugin versions, but use it if you need to.
+    This makes it harder to maintain plugin versions, but use it if you need to.
 
 Add the plugin imports at the top of the file.
 
 ```js title="experiment.js"
-// These can have arbitrary names, but try to be consistent.
-// Javascript default exports/imports are nameless
-
 import jsPsychInstructions from "@jspsych/plugin-instructions";
-// is equivalent to
-import InstructionsPlugin from "@jspsych/plugin-instructions";
 
-import ConsentFormPlugin from "@pcllab/consent-form-plugin";
+import pcllabFreeRecall from "@pcllab/plugin-free-recall";
 ```
 
-Add the trials to the timeline. The `@pcllab/consent-form-plugin` takes a url to an HTML file. This can be a local file (located in the `assets` folder) or even an external url. By default, it uses [an example consent form](https://jarvis.psych.purdue.edu/weblab/consent.html){target="\_blank" rel="noreferrer"} hosted on Jarvis.
-
-Documentation for `@pcllab/plugins` are on Github. Take a look at [`@pcllab/consent-form-plugin`](https://github.com/PCLLAB/plugins/tree/main/packages/consent-form-plugin){target="\_blank" rel="noreferrer"}.
+Documentation for `@pcllab/plugins` are on Github. Take a look at [`@pcllab/plugin-free-recall`](https://github.com/PCLLAB/plugins/tree/main/packages/plugin-free-recall){target="\_blank" rel="noreferrer"}.
 
 Documentation for `@jspsych` plugins are on the jsPsych website. Take a look at [`@jspsych/plugin-instructions`](https://www.jspsych.org/7.3/plugins/instructions/){target="\_blank" rel="noreferrer"}.
 
-```js title="experiment.js"
+```js title="experiment.ts"
 // ...
 
-timeline.push({
-  type: ConsentFormPlugin,
-  // Real experiments should have a custom consent form. This is an example.
-  // url: assets/consent.html
-});
+const timeline = [];
 
 timeline.push({
-  type: InstructionsPlugin,
+  type: jsPsychInstructions,
   pages: [
     "Welcome to the experiment. Click next to begin.",
     "This is the second page of instructions.",
@@ -110,12 +99,18 @@ timeline.push({
   show_clickable_nav: true,
 });
 
+timeline.push({
+  type: pcllabFreeRecall,
+});
+
+jsPsych.run(timeline);
+
 //...
 ```
 
 ## Step 3: Testing experiment
 
-```bash title="> /sample-experiment"
+```bash title="> /sample-exp"
 npm dev
 ```
 
@@ -132,12 +127,12 @@ To stop the development server, press ++ctrl+c++ (on MacOS as well!) in the term
 
 const jsPsych = initJsPsych({
   on_finish: () => {
-    fetch("JARVIS_ENDPOINT_HERE", {
+    fetch("DATA_ENDPOINT_HERE", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify(jsPsych.data.get()),
+      body: jsPsych.data.get().json(),
     });
   },
 });
@@ -153,6 +148,6 @@ Here is the final code.
 
 [Try the demo]()
 
-```js title="experiment.js"
---8<-- "demos/demo/src/experiment.js"
+```js title="experiment.ts"
+--8<-- "demos/sample-exp/src/experiment.ts"
 ```

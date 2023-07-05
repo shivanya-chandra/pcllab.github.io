@@ -21,3 +21,5 @@ This creates a new package based on the template in `plop-templates/plugin`. I h
 // TODO setup auto publishing to npm
 
 For now packages are manually published to NPM under the [pcllab](https://www.npmjs.com/org/pcllab) organization.
+
+## Publishing to NPM
