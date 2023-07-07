@@ -20,6 +20,7 @@ python3 -m venv
 source .venv/bin/activate
 pip install git+https://github.com/PCLLAB/mkdocs-material
 pip install git+https://github.com/fralau/mkdocs_macros_plugin
+pip install git+https://github.com/radude/mdx_truly_sane_lists
 
 mkdocs serve
 

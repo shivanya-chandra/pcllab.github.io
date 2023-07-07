@@ -106,3 +106,14 @@ It looks like I did something wrong with nginx? Although I don't see it being a 
 `chcon -Rt httpd_sys_content_t /path/to/www`
 
 https://stackoverflow.com/questions/22586166/why-does-nginx-return-a-403-even-though-all-permissions-are-set-properly#answer-26228135
+
+### Running out of disk space
+
+See total
+`dh -h`
+
+See for subdirectories
+`du -sh ./* | sort -h`
+
+This nuked a 22G /var/lib/docker folder for me
+`docker system prune -a -f`
