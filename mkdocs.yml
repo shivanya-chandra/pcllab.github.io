@@ -99,9 +99,10 @@ nav:
           - Repositories: handbook/programming-guide/repositories.md
           - File Types: handbook/programming-guide/file-types.md
           - Getting Started w/ jsPsych7: handbook/programming-guide/getting-started-jspsych-7.md
+          - Convering plugin to jsPsych7: handbook/programming-guide/converting-plugins.md
           - Basic Experiment Structure: handbook/programming-guide/basic-experiment-structure.md
-          - Versions and Counterbalences: handbook/programming-guide/counterbalence.md  
-          - Starting Experiments: handbook/programming-guide/starting.md        
+          - Versions and Counterbalences: handbook/programming-guide/counterbalence.md
+          - Starting Experiments: handbook/programming-guide/starting.md
           - Materials: handbook/programming-guide/materials.md
           - Timeline: handbook/programming-guide/timeline.md
           - Present Stimuli: handbook/programming-guide/study-list.md
