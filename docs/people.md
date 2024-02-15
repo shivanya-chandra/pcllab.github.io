@@ -52,31 +52,12 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/zheng.jpg" class="people-img">
-    <div>
-    <h2>Kyle Zheng</h2>
-    <h4>Programmer</h4>
-    <a href="https://kylezhe.ng" rel="noreferrer" target="_blank">Website</a>
-    <p>I help researchers program online experiments and maintain the relevant websites and software</p>
-    </div>
-</div>
-
-<div class="people-row">
     <img src="../img/leonard.png" class="people-img">
     <div>
     <h2>Ryan Leonard</h2>
     <h4>Programmer</h4>
     <p>I am an undergraducate Computer Science student interested in learning new ways to build online tools that make people's lives easier. 
     I will be working with the reseach team by helping build experiments and performing maintenence tasks.</p>
-    </div>
-</div>
-
-<div class="people-row">
-    <img src="../img/chu.jpg" class="people-img">
-    <div>
-    <h2>Ryan Chu</h2>
-    <h4>Programmer</h4>
-    <p>I am currently a senior studying computer science with concentrations in software engineering and machine intelligence. My interests include learning and using new technologies to solve complex problems and boost efficiency in various fields. I will mainly be helping the researchers with developing web-based experiments and maintaining the existing codebase.</p>
     </div>
 </div>
 
