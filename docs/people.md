@@ -119,7 +119,7 @@ Postdoctoral Research Associate (2013-2016)<br>
 
 [Joshua Whiffen](https://www.linkedin.com/in/joshua-whiffen-230618122){target="\_blank" rel="noreferrer"}<br>
 Data Analytics Lead - User Experience<br>
-Genesis<br>
+Genesys<br>
 M.S. Student (2012-2016)<br>
 
 [Janell Blunt](https://anderson.edu/staff/dr-janell-blunt/){target="\_blank" rel="noreferrer"}<br>
@@ -137,13 +137,13 @@ Associate Professor<br>
 Lynn University<br>
 Postdoctoral Research Associate (2011-2014)<br>
 
-[Phillip Grimaldi](http://www.phillipgrimaldi.com/){target="\_blank" rel="noreferrer"}<br>
+[Phillip Grimaldi](https://www.linkedin.com/in/phillip-grimaldi){target="\_blank" rel="noreferrer"}<br>
 Senior Efficacy and Research Scientist<br>
 Khan Academy<br>
 Ph.D. Student (2008-2014)<br>
 
-[Althea Kaminske](https://www.sbu.edu/academics/faculty/kaminske-althea-need){target="\_blank" rel="noreferrer"}<br>
-Associate Professor<br>
-St. Bonaventure University<br>
+[Althea N. Kaminske](https://medicine.iu.edu/faculty/64171/kaminske-althea){target="\_blank" rel="noreferrer"}<br>
+Senior Director of Student Academic Support and Achievement<br>
+Indiana University School of Medicine<br>
 Ph.D. Student (2008-2013)<br>
 <br>
