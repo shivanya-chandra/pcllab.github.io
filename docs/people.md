@@ -54,7 +54,7 @@ hide:
 <div class="people-row">
     <img src="../img/leonard.png" class="people-img">
     <div>
-    <h2>Ryan Leonard (test)</h2>
+    <h2>Ryan Leonard</h2>
     <h4>Programmer</h4>
     <p>I am an undergraducate Computer Science student interested in learning new ways to build online tools that make people's lives easier. 
     I will be working with the reseach team by helping build experiments and performing maintenence tasks.</p>
