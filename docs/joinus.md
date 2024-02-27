@@ -16,7 +16,7 @@ hide:
 
 ## Graduate Research Opportunities
 
-We will be accepting applications to the cognitive psychology Ph.D. program at Purdue University for students who would begin in **Fall 2023**. The application deadline is **December 1, 2022**.
+We will be accepting applications to the cognitive psychology Ph.D. program at Purdue University for students who would begin in **Fall 2025**. The application deadline is **December 1, 2024**.
 
 [Read more about the cognitive psychology Ph.D. program](https://hhs.purdue.edu/graduate-programs/cognitive-psychology/){target="\_blank" rel="noreferrer"}
 

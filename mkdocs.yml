@@ -49,7 +49,7 @@ nav:
   - People: people.md
   - Projects: projects.md
   - Publications: publications.md
-  - News: news.md
+  # - News: news.md
   - Join Us: joinus.md
 
   - Handbook:

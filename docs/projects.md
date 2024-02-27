@@ -74,15 +74,18 @@ This collaborative project with [Laurence Leonard](https://www.purdue.edu/hhs/sl
 
 Relevant articles:
 
+- Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., Weber, C., Haebig, E., & Kueser, J. B., Souto, S., & Krok, W. (2021). A multi-study examination of the role of repeated spaced retrieval in the word learning of children with developmental language disorder. _Journal of Neurodevelopmental Disorders, 13_, 20: 1-16. <br> [[PDF]](downloads/2021/2021_Leonard_et_al_JNDD.pdf){target="\_blank" rel="noreferrer"}
+
+- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (2020). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. _Journal of Speech, Language, and Hearing Research, 63_, 2763-2776. <br> [[PDF]](downloads/2020/2020_Leonard_et_al_JSLHR.pdf){target="\_blank" rel="noreferrer"}
+
 - Leonard, L. B., Karpicke, J. D., Deevy, P., Weber, C., Christ, S., Haebig, E., Souto, S., Kueser, J., & Krok, W. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder I: The benefits of repeated retrieval. _Journal of Speech, Language, and Hearing Research, 62_, 932-943. <br> [[PDF]](downloads/2019/2019_Leonard_et_al_JSLHR_Part_1.pdf){target="\_blank" rel="noreferrer"}
 
 - Haebig, E., Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Usler, E., Kueser, J., Souto, S., Krok, W., & Weber, C. (2019). Retrieval-based word learning in young typically developing children and children with developmental language disorder II: A comparison of retrieval schedules. _Journal of Speech, Language, and Hearing Research, 62_, 944-964. <br> [[PDF]](downloads/2019/2019_Haebig_et_al_JSLHR_Part_2.pdf){target="\_blank" rel="noreferrer"}
 
 - Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S., Weber, C., Kueser, J., & Haebig, E. (2019). Adjective learning in young typically developing children and children with developmental language disorder: A retrieval-based approach. _Journal of Speech, Language, and Hearing Research, 62_, 4433-4449. <br> [[PDF]](downloads/2019/2019_Leonard_et_al_JSLHR_Adjectives.pdf){target="\_blank" rel="noreferrer"}
 
-- Leonard, L. B., Deevy, P., Karpicke, J. D., Christ, S. L., & Kueser, J. B. (2020). After initial retrieval practice, more retrieval produces better retention than more study in the word learning of children with developmental language disorder. _Journal of Speech, Language, and Hearing Research, 63_, 2763-2776. <br> [[PDF]](downloads/2020/2020_Leonard_et_al_JSLHR.pdf){target="\_blank" rel="noreferrer"}
 
-- Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., Weber, C., Haebig, E., & Kueser, J. B., Souto, S., & Krok, W. (2021). A multi-study examination of the role of repeated spaced retrieval in the word learning of children with developmental language disorder. _Journal of Neurodevelopmental Disorders, 13_, 20: 1-16. <br> [[PDF]](downloads/2021/2021_Leonard_et_al_JNDD.pdf){target="\_blank" rel="noreferrer"}
+
 
 ## Metacognition and Self-Regulated Learning
 
