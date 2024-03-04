@@ -1,7 +1,7 @@
 site_name: Cognition and Learning Lab
 site_url: https://learninglab.psych.purdue.edu/
 repo_url: https://github.com/PCLLAB/pcllab.github.io
-copyright: Copyright &copy; 2023 Cognition and Learning Laboratory
+copyright: Copyright &copy; 2024 Cognition and Learning Laboratory
 
 theme:
   name: material
