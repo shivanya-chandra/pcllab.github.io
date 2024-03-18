@@ -48,7 +48,7 @@ I need you to provide me with the following things:
 7.	Your Research and Teaching Statements (optional, for job applicants, if you would like me to provide feedback on your Research and Teaching Statements)
 
 ### Example Table
-| Deadline    | School                              | Department/Program              | Letter Submission Methods
+| Deadline    | School                              | Department/Program              | Letter Submission Method
 |:----------- | :---------------------------------- |:------------------------------- |:------------------------- 
 | 12/01/24    | Washington University in St. Louis  | Psychological & Brain Sciences | online 
 | 12/01/24    | Purdue University                   | Psychological Sciences       | online 
