@@ -23,7 +23,7 @@ hide:
 
 ## 2023
 
-- Leonard, L. B., Deevy, P., Horvath, S., Christ, S. L., Karpicke, J. D., & Kueser, J. B. (2023). Can retreival practice facilitate verb learning in children with developmental language disorder and their peers with typical language development? _Journal of Speech, Language, and Hearing Research, 66_, 1309-1333. <br> [[PDF]](downloads/2023/2023_Leonard_et_al_JSLHR.pdf){target="\_blank" rel="noreferrer"}
+- Leonard, L. B., Deevy, P., Horvath, S., Christ, S. L., Karpicke, J. D., & Kueser, J. B. (2023). Can retrieval practice facilitate verb learning in children with developmental language disorder and their peers with typical language development? _Journal of Speech, Language, and Hearing Research, 66_, 1309-1333. <br> [[PDF]](downloads/2023/2023_Leonard_et_al_JSLHR.pdf){target="\_blank" rel="noreferrer"}
 
 ## 2022
 
