@@ -11,23 +11,22 @@ A complete list of department staff members can be found [here](https://hhs.purd
 
 | Name                  | Position/Role                      | Email                     | Office 
 | :---------------------| :--------------------------------- |:------------------------- |:-----------
-| Wendy Watson         | Cognitive Area Admin Assistant     | <wjwatson@purdue.edu>     | PRCE 369
+| Wendy Watson         | Cognitive Area Admin Assistant     | <wjwatson@purdue.edu>      | PRCE 369
 
 ### Business Office
 
 | Name                  | Position/Role                      | Email                     | Office 
 | :---------------------| :--------------------------------- |:------------------------- |:-----------
 | Heidi Campbell        | Business Manager                   | <hcampbell@purdue.edu>    | remote    
-| Troy Weger            | Business Office                    | <tweger@purdue.edu>      | remote 
+| Troy Weger            | Business Office                    | <tweger@purdue.edu>       | remote 
 
 ### Computing Support
 
 | Name                  | Position/Role                      | Email                     | Office 
 | :---------------------| :--------------------------------- |:------------------------- |:-----------
-| Bruce Bresnahan       | Psych Main Computer Support        | <bruceb@purdue.edu>       | PRCE 250  
-| Alex Gulik            | Psych Computer Support (Hardware)  | <agulik@purdue.edu>       | PRCE 250
-| Andy Beal             | HHS Systems Administrator          |  <beala@purdue.edu>        | Stone 159   
-| Chris Orr             | Formerly in Psych; now in Science  |  <cjorr@purdue.edu>        | Physics 394   
+| Alex Gulik            | Psych Main Computer Support        | <agulik@purdue.edu>       | PRCE 250
+| TBA                   | Psych Computer Support (Hardware)  |                           | PRCE 250  
+| Andy Beal             | HHS Systems Administrator          | <beala@purdue.edu>        | Stone 159    
 
 ### Additional Key Staff Members
 
@@ -35,7 +34,7 @@ A complete list of department staff members can be found [here](https://hhs.purd
 | :---------------------| :--------------------------------- |:------------------------- |:-----------
 | Nancy O'Brien         | Graduate Program Coordinator       | <nobrien@purdue.edu>      | PRCE 385B
 | Laurie Hitze          | Scheduling, IRB, PSY 120 Pool      | <llhitze@purdue.edu>      | PRCE 385G   
-| Sharon Franks         |  Assistant to the Department Head  | <sfranks@purdue.edu>       | PRCE 389   
+| Sharon Franks         | Assistant to the Department Head   | <sfranks@purdue.edu>      | PRCE 389   
 | John Gentry           | Building Deputy                    | <jwgentry@purdue.edu>     | PRCE 385E
 
 <style>
