@@ -15,4 +15,4 @@ hide:
 
 2.	Return the lab key to the key box, and scramble the numbers on the key box.
 
-3.	When you leave the lab each day, make sure that you close any programs you were running on all computers and put away any experiment files you had out. In addition, if you are the last person in the lab, make sure all the lab doors are closed and lights are turned off.
+3.	When you leave the lab each day, make sure that you close any programs you were running on all computers and put away any experiment files you had out. In addition, if you are the last person in the lab, make sure all the lab doors are closed and locked, and the lights are turned off.
