@@ -7,6 +7,7 @@ There are several things you will need to do to get on board and prepared to wor
 - **Get a Sona account.** Once you have completed CITI training, have someone from the lab (a post doc, grad student, or lab technitian) request a Sona account for you.
 - **Get added to Slack.** Have someone in the lab add you to Slack.
 - **Get added to Google calendars.** Have someone in the lab add you to the Google calendars.
+- **Get added to Box.** Have someone in the lab add you to Box.
 - **Complete Lab Orientation.**
 - **Read the Introduction, Lab Policies, and Running Lab Experiments sections of the Lab Handbook.** Keep reading!
  
