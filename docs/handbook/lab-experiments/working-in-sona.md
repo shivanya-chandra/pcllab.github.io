@@ -26,7 +26,7 @@ This page describes key things to know about working in [Sona](https://purdue-ps
   - **Free time between slots**. Leave this set to 0 unless told otherwise.
   - **Move timeslots to business hours?**. Leave this set to "No".
   - **Number of Participants** (per timeslot). Set to 4 unless told otherwise.
-  - **Location**. Enter: "PRCE ___ Waiting Room (Please arrive early)"
+  - **Location**. Enter: "PRCE 171 Waiting Room (Please arrive early)"
   - **Researcher**. Make sure your name is selected.
 
 **Example:**
@@ -40,7 +40,7 @@ This page describes key things to know about working in [Sona](https://purdue-ps
 * Once you are sure everything is correct, click "Add Selected Timeslots". You will get a System Message at the top of the page confirming the number of timeslots that were posted. If you posted your timeslots for an unusual time (e.g., 12:00AM instead of 12:00pm) this message will tell you.
 * If you are running a multi-session study, at this point you will need to create timeslots for additional parts of the study (e.g., Session 2 of a two-part study).
 
-## Doubly-Check Posted Session
+## Double Checking Posted Sessions
 
 * After you have added your timeslots you should immediately check that they posted correctly.
 * Click on the date under “Search for available timeslots on:” and choose the date that you posted timeslots for. 

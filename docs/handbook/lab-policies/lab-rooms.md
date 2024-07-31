@@ -9,7 +9,7 @@ hide:
 
 - Room 184 in PRCE is the lab's main **work room**. All paper files associated with each project are stored in this room. The lab supply cabinet is located in this room.
 - Rooms 181, 182, and 183 in PRCE are **testing rooms** for running experiments.
-- Room 3132 in PSY is a shared testing room that any researcher in the department can reserve and use. Postdocs, graduate students and lab managers can reserve this room using the [Psychological Sciences Shared Spaces Calendar]<https://purdue0.sharepoint.com/sites/hhs/psych/events/Wiki%20Pages/Home.aspx>{target="_blank" rel="noreferrer"}.
+- Room 3132 in PSY is a shared testing room that any researcher in the department can reserve and use. Postdocs, graduate students and lab managers can reserve this room using the [Psychological Sciences Shared Spaces Calendar](https://purdue0.sharepoint.com/sites/hhs/psych/events/Wiki%20Pages/Home.aspx){target="_blank" rel="noreferrer"}.
 
 ## Using Google Calendars to Reserve Rooms
 

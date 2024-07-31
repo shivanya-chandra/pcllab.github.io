@@ -1,12 +1,8 @@
-# Running Experiments
+# Sone Online
 
-## Sona In-person
+## Single Session
 
-## Sone Online
-### Single Session
-### Multiple Session
-
-## mTurk
+## Multiple Session
 
 
 
