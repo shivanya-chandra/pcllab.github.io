@@ -7,7 +7,7 @@ hide:
 
 This page contains information about how to create a new experiment on Sona. If you have an existing Sona experiment/number that uses the same consent/debrief forms and other details, you can reuse it rather than creating a new experiment on Sona. 
 
-Detailed instructions can also be found on the [PSY 120 Sona pool procedures page](https://www.purdue.edu/hhs/psy/research/procedures/protocol_preparation.html#sonasetup){target="_blank" rel="noreferrer"}.
+Detailed instructions can also be found on the [PSY 120 Sona pool procedures page](https://www.purdue.edu/hhs/psy/research/procedures/protocol_preparation.html#sonainst){target="_blank" rel="noreferrer"}.
 
 
 ## Set up the Experiment on Sona
