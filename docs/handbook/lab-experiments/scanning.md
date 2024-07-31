@@ -5,13 +5,9 @@ hide:
 
 # Scanning and Archiving
 
-<mark>TODO: Fix details on this page</mark>
-
 When you have completed an experiment, or when you are done running subjects for a while (during the summer), you need to scan and archive your consent forms.
 
 ## Scanning Consent Forms
-
-[Here is an example](http://learninglab.psych.purdue.edu/labwiki/files/Example_Signed_Consent_Form.pdf){target="_blank" rel="noreferrer"} of what consent forms should look like when they are ready to be scanned and archived.
 
 Before you start scanning, your consent forms must:
 
@@ -20,26 +16,30 @@ Before you start scanning, your consent forms must:
 * Be signed and dated by the subject
 * Be signed by the experimenter
 * Be de-identified, meaning that there cannot be information on the consent forms (like subject numbers) that could link the subjects to their data 
+* Be in chronological order (matching the order of subjects on the subject tally sheet)
 
-<!-- ## You Must Keep Experiment Logs
+## Subject Tally Sheets
 
-* Experiment logs should contain the subject ID, name, and date for each subject
-* You should scan experiment logs when you scan your consent forms
-* Templates for creating experiment logs are on the [[Getting Started#Connect to the LearningLab Server | LearningLab share ]] in "Lab Documents"
-* Here (LINK) is an example of an experiment log -->
-
-<!-- ## When to scan your consent forms
-
-* Scan and archive (LINK) your consent forms when you complete an experiment, or
-* Scan and archive at the end of the spring semester, prior to IRB Annual Report due dates -->
+* Subject tally sheets are used to keep track of who participated and when.
+* They should include the first and last name of each subject along with the date(s)/time they participated.
+* Scan the consent forms in the same order as the subjects appear on the tally sheet.
+* Scan a copy of the tally sheet and save it with the scanned consent forms.
 
 ## How to Scan Documents
 
-Use the walk-up copier located in PRCE. (Include step by step instructions here. Settings: Black and white. )
+Use the walk-up copier located in the PRCE copy center. 
+
+* Select "Scan"
+* Enter the email adress that the scanned forms will be sent to
+* Title the file using the proper naming conventions (see below)
+* Place the stack of forms in the top portion of the scanner
+* Tap the square preview section to initiate the scan
+* Check that the number of scanned pages matches the number of subjects that participated
+* Tap "Send"
 
 ## Check Your Scanned Files
 
-When you receive the PDF, check to make sure the scanned PDF matches your experiment log. If you tested 100 people, there should be 100 pages in the PDF. **Before you scan,** put your consent forms in the same order as the experiment log.
+When you receive the PDF, check to make sure the scanned PDF matches your tally sheet. That is, if you tested 100 people, there should be 100 pages in the PDF. If these numbers do not match figure out why (e.g., did two pages get scanned as one, did a blank page or debriefing form get scanned on accident, etc.).
 
 ## Name Your Scanned Files
 
@@ -52,10 +52,10 @@ Please include the following:
 
 Example: "#087 Criterial Recollection 2010-9-2 to 2010-9-30.pdf"
 
-## Archive Your Scanned Consent Forms and Record Info on IRB Sheets
+## Archive Your Scanned Consent Forms 
 
-Put the PDF(s) of scanned consent forms on LearningLab.  
+Put the PDF(s) of scanned consent forms and the scanned tally sheet the scanned consent forms in the Learning Lab Box IRB folder under the subfolder corresponding to the correct academic year.
 
-<mark>Scanning Consent Forms, Archiving Consent Forms, and Reporting Subject Counts</mark>
-<mark>Note that subject reports need to be reported to me.</mark>
-<mark>Also note based on the dates above when the IRB reports are due</mark>
+## Report Subject Counts on IRB Tracking Sheet
+
+Fill out the subject tracking sheet (in the IRB folder on Box) making sure to record the final subject count, the date scanned/modified, and any relivant notes (e.g., for two-part experiments note how many of the subjects returned for part 2).
