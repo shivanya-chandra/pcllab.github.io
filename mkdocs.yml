@@ -79,20 +79,20 @@ nav:
           - Awarding Credits in Sona: handbook/lab-experiments/awarding-credits.md
           - Scanning and Archiving: handbook/lab-experiments/scanning.md
       - Running Online Experiments:
-          # - Web Programming: handbook/web-experiments/index.md
-          # - Getting Started: handbook/programming-guide/programs.md
-          # - Repositories: handbook/web-experiments/repositories.md
-          # - Common Tasks: handbook/web-experiments/common-tasks.md
+        #  - Web Programming: handbook/web-experiments/index.md
+        #  - Getting Started: handbook/programming-guide/programs.md
+        #  - Repositories: handbook/web-experiments/repositories.md
+        #  - Common Tasks: handbook/web-experiments/common-tasks.md
           - Testing Experiments: handbook/web-experiments/testing-experiments.md
-          # - Troubleshooting and Common Errors: handbook/web-experiments/troubleshooting-and-common-errors.md
+        #  - Troubleshooting and Common Errors: handbook/web-experiments/troubleshooting-and-common-errors.md
           - Making Experiments Live: handbook/web-experiments/making-experiments-live.md
           - Online Sona Experiments: handbook/web-experiments/running-experiments.md
-          # - General Tips: handbook/web-experiments/general-tips.md
+        #  - General Tips: handbook/web-experiments/general-tips.md
           - MTurk: handbook/web-experiments/mturk.md
-          # - MTurk Calculator: handbook/web-experiments/mturk-calculator.md
+        #  - MTurk Calculator: handbook/web-experiments/mturk-calculator.md
       - Lab Connections and Servers:
           - Set up a VPN: handbook/connections-servers/VPN.md
-          # - Learning Lab Box: handbook/connections-servers/learninglab-shared.md
+        #  - Learning Lab Box: handbook/connections-servers/learninglab-shared.md
           - Jarvis: handbook/connections-servers/jarvis.md
       - Web Programming Guide:
           - Necessary Programs: handbook/programming-guide/programs.md
@@ -101,16 +101,16 @@ nav:
           - Getting Started w/ jsPsych7: handbook/programming-guide/getting-started-jspsych-7.md
           - Convering plugin to jsPsych7: handbook/programming-guide/converting-plugins.md
           - Basic Experiment Structure: handbook/programming-guide/basic-experiment-structure.md
-            - Versions and Counterbalences: handbook/programming-guide/counterbalence.md
-            - Starting Experiments: handbook/programming-guide/starting.md
-            - Materials: handbook/programming-guide/materials.md
-            - Timeline: handbook/programming-guide/timeline.md
-            - Present Stimuli: handbook/programming-guide/study-list.md
-            - Distractor Tasks: handbook/programming-guide/distractor.md
-            - Free Recall: handbook/programming-guide/free-recall.md
-            - Cued Recall: handbook/programming-guide/cued-recall.md
-            - Saving Data: handbook/programming-guide/saving-data.md
-            - Unsorted Examples: handbook/programming-guide/unsorted-examples.md
+          - Versions and Counterbalences: handbook/programming-guide/counterbalence.md
+          - Starting Experiments: handbook/programming-guide/starting.md
+          - Materials: handbook/programming-guide/materials.md
+          - Timeline: handbook/programming-guide/timeline.md
+          - Present Stimuli: handbook/programming-guide/study-list.md
+          - Distractor Tasks: handbook/programming-guide/distractor.md
+          - Free Recall: handbook/programming-guide/free-recall.md
+          - Cued Recall: handbook/programming-guide/cued-recall.md
+          - Saving Data: handbook/programming-guide/saving-data.md
+          - Unsorted Examples: handbook/programming-guide/unsorted-examples.md
           - Essentials: handbook/programming-guide/essentials.md
           - Plugins: handbook/programming-guide/plugins.md
       - Resources:
