@@ -20,9 +20,9 @@ After you finish running a session of your experiment, log in to [Sona](https://
 
 ## Policies for Awarding Credits
 
-### 5-Minute Grace Period
+### Grace Period
 
-Your experiment sessions should start promptly at the time specified in Sona. However, you may give subjects an up to 5-minute grace period by waiting up to 5 minutes for subjects who do not show up on time. 
+Your experiment sessions should start promptly at the time specified in Sona. However, if you are missing some participants, you may wait for a few minutes outside of the waiting room. This depends on how long the study approximately takes. The lead researcher will tell you prior to data collection how long you can wait for late subjects.
 
 ### Awarding Credit
 
@@ -33,7 +33,7 @@ If a subject completes an experiment (including both sessions in a multi-session
 Subjects should be marked as an "Unexcused No Show" if:
 
 * They do not show up for the experiment, or
-* They show up late, after the 5-minute grace period. The only exception is if you have time available later that day and are willing to run them through the experiment at the later time. However, you are under no obligation to do this.
+* They show up late, after the 5-minute grace period, and do not notify the experimenter. The only exception is if you have time available later that day and are willing to run them through the experiment at the later time. However, you are under no obligation to do this.
 
 ### Assigning "Excused No Show"
 

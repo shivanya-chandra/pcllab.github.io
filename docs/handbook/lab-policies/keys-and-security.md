@@ -7,7 +7,7 @@ hide:
 
 1.	Postdoctoral researchers, graduate students, and research technicians will have a key to the lab and perhaps other keys (e.g., a building key) provided by John (if a new key card is being requested, John needs advanced notice. Email him to set up a time to check out keys).
 
-2.	Undergraduate research assistants will receive a passcode for a key box that contains keys to the lab. You cannot take the keys in the key box with you. You must **return the key to the key box immediately after unlocking the door**. This is important because other people in the lab need to use the keys and because this is how we keep the lab secure.
+2.	Undergraduate research assistants will receive a passcode for a key box that contains keys to the lab. You cannot take the keys in the key box with you. You must **return the key to the key box immediately after unlocking the door, scramble the code and close the key box**. This is important because other people in the lab need to use the keys and because this is how we keep the lab secure.
 
 ## Lab Security
 
