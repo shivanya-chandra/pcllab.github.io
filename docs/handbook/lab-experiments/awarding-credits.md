@@ -44,8 +44,9 @@ Subjects should be marked as an "Excused No Show" if:
 
 ### Multi-Session Experiments
 
-* In a multi-session experiment, do not assign credit after the first session. Inform your subjects that you will assign credit after the final session.
-* If a subject shows up for the first session but not the second, give them credit only for the first session.
+* In a multi-session experiment, assign credit for the first session after the first session. Inform your subjects that you will assign credit for the second session after the second session.
+* If a subject shows up for the first session but not the second, they will only receive credit for the first session. 
+* If a subject did not show up for the first session and that they did not cancel the second session, mark them as excused absence for the second session regardless of whether or not they contact you ahead of time, because they could not have participated in the second session.
 
 ### Online Experiments
 
