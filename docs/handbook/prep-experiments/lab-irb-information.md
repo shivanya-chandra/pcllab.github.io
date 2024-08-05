@@ -37,4 +37,4 @@ Lab IRB documents are stored on Box. Go to Learning Lab and find the folder call
 
 - **Approval Documents.** These are for reference only.
 - **Templates:** This folder includes templates of consent forms and debriefing forms that you will need to tailor for your experiment.
-- **Scanned Consent Forms.** This folder is where you will [archive your scanned consent forms](scanning.md).
+- **Scanned Consent Forms.** This folder is where you will [archive your scanned consent forms](../scanning.md).

@@ -70,26 +70,17 @@ nav:
           - Supplies: handbook/lab-policies/supplies.md
           - Keys and Security: handbook/lab-policies/keys-and-security.md
           - Keeping the Lab Clean: handbook/lab-policies/lab-procedures.md
-      - Running Lab Experiments:
-          - IRB Information: handbook/lab-experiments/lab-irb-information.md
-          - Preparing a Lab Experiment: handbook/lab-experiments/preparing-lab-experiment.md
-          - Starting a New Sona Experiment: handbook/lab-experiments/new-sona.md
-          - Working in Sona: handbook/lab-experiments/working-in-sona.md
-          - Checklist for Running Lab Experiments: handbook/lab-experiments/checklist.md
-          - Awarding Credits in Sona: handbook/lab-experiments/awarding-credits.md
-          - Scanning and Archiving: handbook/lab-experiments/scanning.md
-      - Running Online Experiments:
-        #  - Web Programming: handbook/web-experiments/index.md
-        #  - Getting Started: handbook/programming-guide/programs.md
-        #  - Repositories: handbook/web-experiments/repositories.md
-        #  - Common Tasks: handbook/web-experiments/common-tasks.md
-          - Testing Experiments: handbook/web-experiments/testing-experiments.md
-        #  - Troubleshooting and Common Errors: handbook/web-experiments/troubleshooting-and-common-errors.md
-          - Making Experiments Live: handbook/web-experiments/making-experiments-live.md
-          - Online Sona Experiments: handbook/web-experiments/running-experiments.md
-        #  - General Tips: handbook/web-experiments/general-tips.md
-          - MTurk: handbook/web-experiments/mturk.md
-        #  - MTurk Calculator: handbook/web-experiments/mturk-calculator.md
+      - Preparing Experiments:
+          - IRB Information: handbook/prep-experiments/lab-irb-information.md
+          - Creating a New Sona Experiment: handbook/prep-experiments/new-sona.md
+          - Preparing a Lab Experiment: handbook/prep-experiments/preparing-lab-experiment.md
+      - Data Collection:
+          - Posting Timeslots in Sona: handbook/data-collection/working-in-sona.md
+          - Running Sona Experiments: handbook/data-collection/checklist.md
+          - Awarding Credits in Sona: handbook/data-collection/awarding-credits.md
+          - MTurk: handbook/data-collection/mturk.md
+          #- MTurk Calculator: handbook/data-collection/mturk-calculator.md
+      - Scanning and Archiving: handbook/scanning.md
       - Lab Connections and Servers:
           - Set up a VPN: handbook/connections-servers/VPN.md
         #  - Learning Lab Box: handbook/connections-servers/learninglab-shared.md
@@ -119,8 +110,8 @@ nav:
           # File does not exist
           # - Graduate and Postdoctoral Training: resources/training.md
           # - Job Search: handbook/resources/jobs.md
-          - Travel Information: handbook/resources/travel.md
           - Journals: handbook/resources/journals.md
+          - Travel Information: handbook/resources/travel.md
       - Misc:
           - handbook/misc/mkdocs-customizations.md
           - handbook/misc/plugin-development.md
