@@ -67,6 +67,7 @@
             >{{ section.title }} <b class="caret"></b
           ></span>
           <ul class="dropdown-menu">
+            {% if section.children %}
             {% for nav_item in section.children %} {% if not nav_item.children %}
             <li>
               <a
