@@ -68,24 +68,25 @@
           ></span>
           <ul class="dropdown-menu">
             {% if section.children %}
-            {% for nav_item in section.children %} {% if not nav_item.children %}
-            <li>
-              <a
-                href="{{ nav_item.url|url }}"
-                class="
-                  nav-link
-                  dropdown-item{%
-                  if
-                  nav_item.active
-                  %}
-                  active{%
-                  endif
-                  %}
-                "
-                >{{ nav_item.title }}</a
-              >
-            </li>
-            {% endif %} {% endfor %}
+              {% for nav_item in section.children %} {% if not nav_item.children %}
+              <li>
+                <a
+                  href="{{ nav_item.url|url }}"
+                  class="
+                    nav-link
+                    dropdown-item{%
+                    if
+                    nav_item.active
+                    %}
+                    active{%
+                    endif
+                    %}
+                  "
+                  >{{ nav_item.title }}</a
+                >
+              </li>
+              {% endif %} {% endfor %}
+            {% endif %} mkdocs serve
           </ul>
         </li>
         {% endfor %}
