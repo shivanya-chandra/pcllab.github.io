@@ -2,13 +2,12 @@
 
 It is best to store the materials for each experiment in one place (i.e., a folder titled "materials"). You will update these materials for each new experiment. This way, you will have to make fewer changes to the basic experiment structure/logic and your `experiment.js` file will be more clean and concise.
 
-These files will often be [JSON files](file-types/#JSON.md) but they can also be HTML files. You will need to load these in `experiment.js` make accessible. 
-
+These files will often be [JSON files](file-types.md#JSON.md) but they can also be HTML files. You will need to load these in `experiment.js` make accessible.
 
 ```js
 ...inside experiment.js
 
-const EXPERIMENT_FILES = {  
+const EXPERIMENT_FILES = {
   INSTRUCTIONS: "materials/instructions.json",
   STIMULI: "materials/stimuli.json",
   CONSENT: "materials/consent.html",
@@ -31,7 +30,7 @@ class Experiment {
     ).then(
       $.getJSON(constants.CONSENT, (data) =>{
         self.consent = data;
-      })      
+      })
     ).then(
       $.getJSON(constants.DEBRIEF, (data) =>{
         self.debrief = data;
@@ -60,9 +59,10 @@ class Experiment {
   ...rest of class Experiment
 }
 ```
+
 ## Consent
 
-For all experiments, participant will need to give their informed consent (or, if they are under 18, assent) before they can participate. For in-lab studies we use signed consent forms (paper copies). 
+For all experiments, participant will need to give their informed consent (or, if they are under 18, assent) before they can participate. For in-lab studies we use signed consent forms (paper copies).
 
 For online studies, this form is shown at the start of the experiment. If the participant agrees to participate then they can continue, if not the program ends.
 
@@ -91,9 +91,9 @@ Department of Psychological Sciences </center> </h4>
 <br>
 
 <h4>Key Information</h4>
-<p>Please take time to review this information carefully. This is a research study. Your participation in this study is voluntary which means that you may choose not to participate at any time without penalty or loss of benefits to which you are otherwise entitled. You may ask questions to the researchers about the study whenever you would like. If you decide to take part in the study, you will be asked to sign this form, be sure you understand what you will do and any possible risks or benefits. <br> 
-This experiment is part of an ongoing, multi-year project examining the effectiveness of different learning and study strategies. The overall purpose of this research is to investigate the effects of different study techniques on learning. Your participation will take no more than 60 minutes. Additional explanations may be more detailed in the sections below.</p>   
-    
+<p>Please take time to review this information carefully. This is a research study. Your participation in this study is voluntary which means that you may choose not to participate at any time without penalty or loss of benefits to which you are otherwise entitled. You may ask questions to the researchers about the study whenever you would like. If you decide to take part in the study, you will be asked to sign this form, be sure you understand what you will do and any possible risks or benefits. <br>
+This experiment is part of an ongoing, multi-year project examining the effectiveness of different learning and study strategies. The overall purpose of this research is to investigate the effects of different study techniques on learning. Your participation will take no more than 60 minutes. Additional explanations may be more detailed in the sections below.</p>
+
 <h4>What is the purpose of this study?</h4>
 <p>The overall purpose of this research is to investigate the effects of different study techniques on learning. We would like to enroll 700 people in this experiment.</p>
 
@@ -123,11 +123,12 @@ This experiment is part of an ongoing, multi-year project examining the effectiv
 <p>Please print a copy of this consent document for your records.</p>
 <p>Please click the box below to indicate if you understand this document and consent to participate in this research study:</p>
 ```
+
 </details>
 
 ## Instructions
 
-It is best to have all or most of your instruction pages organized in a single JSON file. 
+It is best to have all or most of your instruction pages organized in a single JSON file.
 
 ```json
 // materials/instruction.json
@@ -156,7 +157,7 @@ It is best to have all or most of your instruction pages organized in a single J
 }
 ```
 
-You can then add the each set of text (i.e., each page of instructions) into the relevant part of your timeline. 
+You can then add the each set of text (i.e., each page of instructions) into the relevant part of your timeline.
 
 ```js
 ...inside experiment.js
@@ -176,17 +177,50 @@ const instructionsTest = {
 
 ## Stimuli
 
-This is whatever the participant is given to learn/study/respond to etc. Stimuli are often text (e.g., a list of words, cue-target pairs, a text passage), but they can also be pictures (.jpg or .pgn), videos (.mp4) or audio clips (.wav). Regardless of their type, you should organize them in a JSON file(s). [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/){target="_blank" rel="noreferrer"} is an excellent tool for converting CSV files into JSON files (or other file types).
+This is whatever the participant is given to learn/study/respond to etc. Stimuli are often text (e.g., a list of words, cue-target pairs, a text passage), but they can also be pictures (.jpg or .pgn), videos (.mp4) or audio clips (.wav). Regardless of their type, you should organize them in a JSON file(s). [Mr. Data Converter](http://shancarter.github.io/mr-data-converter/){target="\_blank" rel="noreferrer"} is an excellent tool for converting CSV files into JSON files (or other file types).
 
 ```json
 // materials/stimuli.json
-[{"Questions":"Is this unicolored?","Picture_Name":"Pepper","Picture_Source":"Materials/Pictures/Practice/pepper.jpg","Correct_Answer":"Yes"},
-{"Questions":"Is this inanimate?","Picture_Name":"Crab","Picture_Source":"Materials/Pictures/Practice/crab.jpg","Correct_Answer":"No"},
-{"Questions":"Is this multicolored?","Picture_Name":"Cheese","Picture_Source":"Materials/Pictures/Practice/cheese.jpg","Correct_Answer":"No"},
-{"Questions":"Is this animate?","Picture_Name":"Bee","Picture_Source":"Materials/Pictures/Practice/bee.jpg","Correct_Answer":"Yes"},
-{"Questions":"Is this symmetrical?","Picture_Name":"Teapot","Picture_Source":"Materials/Pictures/Practice/teapot.jpg","Correct_Answer":"No"},
-{"Questions":"Is this manmade?","Picture_Name":"Train","Picture_Source":"Materials/Pictures/Practice/train.jpg","Correct_Answer":"Yes"}]
+[
+  {
+    "Questions": "Is this unicolored?",
+    "Picture_Name": "Pepper",
+    "Picture_Source": "Materials/Pictures/Practice/pepper.jpg",
+    "Correct_Answer": "Yes"
+  },
+  {
+    "Questions": "Is this inanimate?",
+    "Picture_Name": "Crab",
+    "Picture_Source": "Materials/Pictures/Practice/crab.jpg",
+    "Correct_Answer": "No"
+  },
+  {
+    "Questions": "Is this multicolored?",
+    "Picture_Name": "Cheese",
+    "Picture_Source": "Materials/Pictures/Practice/cheese.jpg",
+    "Correct_Answer": "No"
+  },
+  {
+    "Questions": "Is this animate?",
+    "Picture_Name": "Bee",
+    "Picture_Source": "Materials/Pictures/Practice/bee.jpg",
+    "Correct_Answer": "Yes"
+  },
+  {
+    "Questions": "Is this symmetrical?",
+    "Picture_Name": "Teapot",
+    "Picture_Source": "Materials/Pictures/Practice/teapot.jpg",
+    "Correct_Answer": "No"
+  },
+  {
+    "Questions": "Is this manmade?",
+    "Picture_Name": "Train",
+    "Picture_Source": "Materials/Pictures/Practice/train.jpg",
+    "Correct_Answer": "Yes"
+  }
+]
 ```
+
 Find information about presenting stimuli [here](study-list.md).
 
 ## Debrief
@@ -204,7 +238,7 @@ Debriefing: Sona #984: Memory Experiment
 
 <p><strong>2.  Is this correlational or experimental research?</strong> <br>
     The study you participated in represents experimental research. The independent variable we manipulated was the study technique you engaged in (e.g., repeated studying vs. repeated retrieval), and the dependent variable we are interested in is your performance on a final test. We predict that practicing repeated retrieval will produce better retention than repeated studying. </p>
-     
+
 <p><strong>3.  What topic in introductory psychology does this research illustrate?</strong> <br>
 The current research falls within the general area of human learning and memory. For an overview of research on human memory, see Chapter 8 in Nairne’s <i>Psychology: The Adaptive Mind (4th Edition)</i>, Chapter 9 in Meyers’
 <i>Psychology (8th Edition)</i>, or Chapter 9 in Gray’s <i>Psychology (5th Edition)</i>. Another excellent book covering current research on human memory is <i>The Seven Sins of Memory</i>, by Dan Schacter. </p>
@@ -213,7 +247,7 @@ The current research falls within the general area of human learning and memory.
     If you are interested in learning more about retrieval practice, here are two relevant references: <br>
    <p> Karpicke, J. D., & Roediger, H. L. (2007). Repeated retrieval during learning is the key to long-term retention. <i>Journal of Memory and Language, 57</i>, 151-162.<br></p>
    <p> Karpicke, J. D., & Roediger, H. L. (2008). The critical importance of retrieval for learning. <i>Science, 319</i>, 966-968.</p>
-    
+
 <p><strong>5.  Which faculty member is supervising this research and how can I contact her/him?</strong> <br>
 Dr. Jeffrey Karpicke, a professor in cognitive psychology, is supervising this research. You may reach him at (765) 494-0273, via email at karpicke@purdue.edu, or in room PRCE 389.
 
@@ -223,4 +257,5 @@ Dr. Karpicke began investigating human learning and memory over 15 years ago. Th
 
 <p><strong>A lot of research in psychology depends on the participation of individuals like you. We are very grateful for your help. Thank you very much for participating.</p>
 ```
+
 </details>
