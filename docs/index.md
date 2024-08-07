@@ -21,16 +21,14 @@ hide:
   <h2 style="font-size:2rem;font-weight:300">Recent Publications</h2>
 </div>
 
-- Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), _Oxford Handbook of Human Memory, Volume II: Applications._ Oxford University Press. <br> [[PDF]](downloads/inpress_Karpicke_ODay_Oxford_Handbook.pdf){target="\_blank" rel="noreferrer"}
+- Leonard, L. B., Deevy, P., Christ, S. L., Karpicke, J. D., Kueser, J. B., & Fischer K. (in press). Learning verbs in sentences: Children with developmental language disorder and the role of retrieval practice. _Journal of Speech, Language, and Hearing Research._ 
 
-- Ariel, R., Karpicke, J. D., Witherby, A. E., & Tauber, S. K. (2021). Do judgments of learning directly enhance learning of educational materials? _Educational Psychology Review, 33_, 693-712. <br> [[PDF]](downloads/2021/2021_Ariel_Karpicke_Witherby_Tauber_EDPR.pdf){target="\_blank" rel="noreferrer"}
+- Martella, A. M., Schneider, D. W., O'Day, G. M., & Karpicke, J. D., (in press). Investigating the intensity and integration of active learning and lecture. _Journal of Applied Research in Memory and Cognition._ <br> [[PDF]](downloads/inpress_Martella_et_al_JARMAC.pdf){target="\_blank" rel="noreferrer"}
 
-- Haebig, E., Leonard, L. B., Deevy, P., Schumaker, J., Karpicke, J. D., & Weber, C. (2021). The neural underpinnings of processing newly taught semantic information: The role of retrieval practice. _Journal of Speech, Language, and Hearing Research, 64_, 3195-3211. <br> [[PDF]](downloads/2021/2021_Haebig_et_al_JSLHR.pdf){target="\_blank" rel="noreferrer"}
+- Karpicke, J. D., & O'Day, G. M. (2024). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), _Oxford Handbook of Human Memory, Volume II: Applications_ (pp. 2035-2059). Oxford University Press. <br> [[PDF]](downloads/2024/2024_Karpicke_ODay_Oxford_Handbook.pdf){target="\_blank" rel="noreferrer"}
 
-- Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., Weber, C., Haebig, E., & Kueser, J. B., Souto, S., & Krok, W. (2021). A multi-study examination of the role of repeated spaced retrieval in the word learning of children with developmental language disorder. _Journal of Neurodevelopmental Disorders, 13_, 20: 1-16. <br> [[PDF]](downloads/2021/2021_Leonard_et_al_JNDD.pdf){target="\_blank" rel="noreferrer"}
+- Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., & Kueser, J. B. (2024). Retrieval practice and word learning by children with developmental language disorder: Does expanding retrieval provide additional benefit? _Journal of Speech, Language, and Hearing Research, 67._, 1530-1547. <br> [[PDF]](downloads/2024/2024_Leonard_et_al_JSLHR_Expanding_Retrieval.pdf){target="\_blank" rel="noreferrer"}
 
-- Martella, A. M., Yatcilla, J. K., Martella, R. C., Marchand-Martella, N. E., Ozen, Z., Karatas, T., Park, H. H., Simpson, A., & Karpicke, J. D. (2021). Quotation accuracy matters: An examination of how an influential meta-analysis on active learning has been cited. _Review of Educational Research, 91_, 272-308. <br> [[PDF]](downloads/2021/2021_Martella_et_al_RER.pdf){target="\_blank" rel="noreferrer"}
-
-- O'Day, G. M., & Karpicke, J. D. (2021). Comparing and combining retrieval practice and concept mapping. _Journal of Educational Psychology, 113_, 986-997. <br> [[PDF]](downloads/2021/2021_ODay_Karpicke_JEDP.pdf){target="\_blank" rel="noreferrer"}
+- Leonard, L. B., Deevy, P., Horvath, S., Christ, S. L., Karpicke, J. D., & Kueser, J. B. (2023). Can retrieval practice facilitate verb learning in children with developmental language disorder and their peers with typical language development? _Journal of Speech, Language, and Hearing Research, 66_, 1309-1333. <br> [[PDF]](downloads/2023/2023_Leonard_et_al_JSLHR.pdf){target="\_blank" rel="noreferrer"}
 
 <div style="text-align: center; margin-bottom: 4rem; font-size:1rem; font-weight:300;"><a href="./publications/">See all publications</a></div>
