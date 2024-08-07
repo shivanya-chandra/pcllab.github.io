@@ -11,7 +11,7 @@ Thank you for your interest in graduate studies in our laboratory. Here are answ
 
 Q: Are you recruiting this year?
 
-A: Yes, we are recruiting a new student for Fall 2024 (applications due December 1st 2023).
+A: Yes, we are recruiting a new student for Fall 2025 (applications due December 1st 2024).
 <br><br>
 
 Q: What are you looking for in a graduate applicant?
