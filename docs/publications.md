@@ -15,11 +15,13 @@ hide:
 
 ## In Press
 
+- Leonard, L. B., Deevy, P., Christ, S. L., Karpicke, J. D., Kueser, J. B., & Fischer K. (in press). Learning verbs in sentences: Children with developmental language disorder and the role of retrieval practice. _Journal of Speech, Language, and Hearing Research._ 
+
 - Martella, A. M., Schneider, D. W., O'Day, G. M., & Karpicke, J. D., (in press). Investigating the intensity and integration of active learning and lecture. _Journal of Applied Research in Memory and Cognition._ <br> [[PDF]](downloads/inpress_Martella_et_al_JARMAC.pdf){target="\_blank" rel="noreferrer"}
 
-- Karpicke, J. D., & O'Day, G. M. (in press). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), _Oxford Handbook of Human Memory, Volume II: Applications._ Oxford University Press. <br> [[PDF]](downloads/inpress_Karpicke_ODay_Oxford_Handbook.pdf){target="\_blank" rel="noreferrer"}
-
 ## 2024
+
+- Karpicke, J. D., & O'Day, G. M. (2024). Elements of effective learning. In M. J. Kahana & A. D. Wagner (Eds.), _Oxford Handbook of Human Memory, Volume II: Applications_ (pp. 2035-2059). Oxford University Press. <br> [[PDF]](downloads/2024/2024_Karpicke_ODay_Oxford_Handbook.pdf){target="\_blank" rel="noreferrer"}
 
 - Leonard, L. B., Christ, S. L., Deevy, P., Karpicke, J. D., & Kueser, J. B. (2024). Retrieval practice and word learning by children with developmental language disorder: Does expanding retrieval provide additional benefit? _Journal of Speech, Language, and Hearing Research, 67._, 1530-1547. <br> [[PDF]](downloads/2024/2024_Leonard_et_al_JSLHR_Expanding_Retrieval.pdf){target="\_blank" rel="noreferrer"}
 
