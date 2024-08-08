@@ -5,8 +5,6 @@ hide:
 
 # Lab IRB Information
 
-<mark>TODO: Update details about reporting requirements</mark>
-
 ## Links
 
 The Purdue IRB website is here: <https://www.irb.purdue.edu/>{target="\_blank" rel="noreferrer"}
@@ -25,11 +23,11 @@ Use the table below to determine which IRB protocol you should use for your proj
 
 | Type of Study                    | Protocol Number | Protocol Title                                                     | Admin Check-In |
 | :------------------------------- | :-------------- | :----------------------------------------------------------------- | :------------- |
-| PSY 120 - In Lab                 | 1007009512      | "Memory and Metacognition"                                         | 2024-10-5      |
-| PSY 120 - Online                 | 1601017062      | "Online Learning and Memory Research - PSY 120"                    | 2025-7-21      |
-| Paid - Amazon eGift card or cash | 1207012513      | "Retrieval-Enhanced Learning of Foundational Conceptual Knowledge" | 2025-1-2       |
-| MTurk                            | 1305013648      | "Online Learning and Memory Research"                              | 2025-7-27      |
-| Children                         | 1404014764      | "Computer-Based Guided Retrieval Practice for Elementary Children" | 2025-7-21      |
+| PSY 120 - In Lab                 | 1007009512      | "Memory and Metacognition"                                         | 2024-10-05     |
+| PSY 120 - Online                 | 1601017062      | "Online Learning and Memory Research - PSY 120"                    | 2025-07-21     |
+| Paid - Amazon eGift card or cash | 1207012513      | "Retrieval-Enhanced Learning of Foundational Conceptual Knowledge" | 2025-01-02     |
+| MTurk                            | 1305013648      | "Online Learning and Memory Research"                              | 2025-07-27     |
+| Children                         | 1404014764      | "Computer-Based Guided Retrieval Practice for Elementary Children" | 2025-07-21     |
 
 ## Where to Find Lab IRB documents
 
