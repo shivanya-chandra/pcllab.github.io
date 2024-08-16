@@ -69,8 +69,8 @@ Active Minds <br>
 Ph.D. Student (2016-2022)<br>
 
 [Amedee Martella](https://mayerlab.psych.ucsb.edu/people/amedee-martella){target="\_blank" rel="noreferrer"}<br>
-National Science Foundation Postdoctoral Research Fellow<br>
-University of California, Santa Barbra<br>
+Assistant Professor<br>
+University of Georgia<br>
 Ph.D. Student (2019-2022)<br>
 
 [Caroline Byrd Hornburg](https://sites.google.com/view/caroline-byrd-hornburg){target="\_blank" rel="noreferrer"}<br>
@@ -79,7 +79,7 @@ Virginia Tech<br>
 Postdoctoral Research Associate (2017-2019)<br>
 
 [Robert Ariel](https://sites.google.com/view/robert-ariel){target="\_blank" rel="noreferrer"}<br>
-Assistant Professor<br>
+Associate Professor<br>
 Virginia Wesleyan University<br>
 Postdoctoral Research Associate (2015-2018)<br>
 
@@ -94,8 +94,8 @@ Indeed.com<br>
 M.S. Student (2016-2018)<br>
 
 **Ludmila Nunes**<br>
-Science Writer<br>
-Association for Psychological Science<br>
+Senior Director for Science Knowledge and Expertise<br>
+American Psychological Association<br>
 Postdoctoral Research Associate (2013-2016)<br>
 
 [Joshua Whiffen](https://www.linkedin.com/in/joshua-whiffen-230618122){target="\_blank" rel="noreferrer"}<br>
@@ -109,7 +109,7 @@ Anderson University<br>
 Ph.D. Student (2011-2015)<br>
 
 [Megan Sumeracki](https://www.ric.edu/people-directory/megan-sumeracki){target="\_blank" rel="noreferrer"}<br>
-Associate Professor<br>
+Professor<br>
 Rhode Island College<br>
 Ph.D. Student (2011-2014)<br>
 
