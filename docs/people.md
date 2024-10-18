@@ -52,7 +52,7 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/angela.jpeg" class="people-img">
+    <img src="https://github.com/PCLLAB/pcllab.github.io/blob/d6784acebab37adca43dca396fb01e33c71dfedd/docs/img/Angela.jpg" class="people-img">
     <div>
     <h2>Angela Pastrana</h2>
     <h4>Research Labratory Manager</h4>
