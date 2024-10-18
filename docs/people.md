@@ -52,7 +52,7 @@ hide:
 </div>
 
 <div class="people-row">
-    <img src="../img/angela.jpg" class="people-img">
+    <img src="../img/pastrana.jpg" class="people-img">
     <div>
     <h2>Angela Pastrana</h2>
     <h4>Research Labratory Manager</h4>
