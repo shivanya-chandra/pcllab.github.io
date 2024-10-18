@@ -1,0 +1,38 @@
+.people-row {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+
+  /* Prevents children ::before from spilling across parents and blocking content */
+  overflow: hidden;
+}
+.people-row > * {
+  flex: 1;
+}
+.people-row h4 {
+  font-weight: 500;
+}
+.people-img {
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+/* More specific than .md-typset img rules */
+.md-typeset .people-img {
+  max-width: 200px;
+
+  /* Safari img width not respecting page bounds? 
+    img sides get cut off instead of scaling down
+  */
+  width: 200px;
+}
+
+@media (min-width: 576px) {
+  .people-row {
+    align-items: flex-start;
+    flex-direction: row;
+  }
+  .people-img {
+    margin-right: 1rem;
+  }
+}

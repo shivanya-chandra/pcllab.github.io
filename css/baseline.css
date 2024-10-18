@@ -1,0 +1,64 @@
+
+/* PCLLAB Styling */
+:root {
+  --pcllab-darker-bg-color: #212121;
+  --pcllab-darker-bg-color--light: #313131;
+  --pcllab-dark-bg-color: #414141;
+  --pcllab-dark-bg-color--light: #515151;
+  
+  --pcllab-light-bg-color: #eeeeee;
+  --pcllab-light-fg-color: #616161;
+  --pcllab-active-link-color:#8e6f3e;
+}
+
+/* Theme Overrides */
+[data-md-color-primary="black"] {
+  --md-typeset-a-color: var(--pcllab-active-link-color);
+
+  --md-footer-bg-color: var(--pcllab-light-bg-color);
+  --md-footer-fg-color: var(--pcllab-light-fg-color);
+}
+[data-md-color-primary="black"] .md-header{
+  background-color: var(--pcllab-darker-bg-color);
+}
+[data-md-color-accent="amber"] {
+  /* --md-accent-fg-color: #e2ce58; */
+  --md-accent-fg-color: #c7c7c7;
+}
+
+/* Typography Overrides */
+.md-typeset :is(h2, h3, h4, h5, h6) {
+  margin: 0;
+
+  /* margin-top: -38vh; */
+  /* padding-top: 38vh; */
+}
+
+/* This offsets all headers ("potential anchors") without effects */
+.md-typeset :is(h2, h3, h4, h5, h6)::before {
+  content: '';
+  display: block;
+  margin-top: -18vh;
+  padding-top: 18vh;
+}
+.md-typeset :is(h2, h3, h4, h5, h6):target::before {
+  content: '';
+  display: block;
+  margin-top: -18vh;
+  padding-top: 18vh;
+}
+
+
+.md-typeset h1 {
+  color: var(--md-primary-fg-color)
+}
+
+
+/* .md-typeset h1:target:before, .md-typeset h2:target:before, .md-typeset h3:target:before {
+  margin:0;
+  padding:0;
+}
+
+.md-typeset h1:target, .md-typeset h2:target, .md-typeset h3:target {
+  scroll-margin-top: 50px;
+} */

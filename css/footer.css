@@ -1,0 +1,6 @@
+/* This is a full width container for the copyright/meta footer section */
+/* The upper container for links is not full width */
+.md-footer-meta {
+  background-color: var(--pcllab-darker-bg-color);
+  color: var(--md-primary-bg-color);
+}
