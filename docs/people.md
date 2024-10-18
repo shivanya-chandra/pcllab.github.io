@@ -52,6 +52,15 @@ hide:
 </div>
 
 <div class="people-row">
+    <img src="../img/angela.jpeg" class="people-img">
+    <div>
+    <h2>Angela Pastrana</h2>
+    <h4>Research Labratory Manager</h4>
+    <p>I aid in maintaining the lab's infrastructure and oversee its organization, creating an environment conducive to cognitive research.  My work ensures the smooth operation of our facilities, allowing researchers to focus on their scientific inquiries. Additionally, I also oversee another Purdue cognitive psychology lab, the GRID lab.</p>
+    </div>
+</div>
+
+<div class="people-row">
     <img src="../img/leonard.png" class="people-img">
     <div>
     <h2>Ryan Leonard</h2>
